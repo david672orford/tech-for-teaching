@@ -36,9 +36,14 @@ UL {
 DIV.author_box {
 	width: 15%;
 	max-width: 400px;
+	border: thin solid black;
+	}
+DIV.author_box IMG {
+	width: 100%;
 	}
 DIV.author_byline {
 	font-weight: bold;
 	}
 DIV.author_blurb {
 	}
+
