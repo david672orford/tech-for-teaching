@@ -32,3 +32,13 @@ H1 A {
 UL {
 	padding-left: 2em;
 	}
+
+DIV.author_box {
+	width: 15%;
+	max-width: 400px;
+	}
+DIV.author_byline {
+	font-weight: bold;
+	}
+DIV.author_blurb {
+	}
