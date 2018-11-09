@@ -43,7 +43,9 @@ DIV.author_box IMG {
 	}
 DIV.author_byline {
 	font-weight: bold;
+	margin: .4em;
 	}
 DIV.author_blurb {
+	margin: .4em;
 	}
 
