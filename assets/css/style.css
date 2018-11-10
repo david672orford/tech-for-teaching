@@ -59,3 +59,10 @@ DIV.google_ads {
 	max-width: 600px;
 	}
 
+TABLE {
+	border-collapse: collapse;
+	}
+TD {
+	border: thin solid black;
+	}
+
