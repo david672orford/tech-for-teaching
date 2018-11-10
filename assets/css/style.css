@@ -62,7 +62,8 @@ DIV.google_ads {
 TABLE {
 	border-collapse: collapse;
 	}
-TD {
+TD, TD {
 	border: thin solid black;
+	padding: .3em;
 	}
 
