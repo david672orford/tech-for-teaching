@@ -1,10 +1,10 @@
-HTML, BODY, HEADER, MAIN, H1, H2, UL, LI {
+HTML, BODY, HEADER, MAIN, H1, H2, UL, LI, TABLE, TR, TH, TH {
 	margin: 0;
 	padding: 0;
-	background-color: white;
-	color: black;
 	}
 BODY {
+	background-color: white;
+	color: black;
 	font-size: 12pt;
 	}
 MAIN {
