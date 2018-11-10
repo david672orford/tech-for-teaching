@@ -3,7 +3,7 @@
 | Function                 | Software                     | Website                       |
 |--------------------------|------------------------------|-------------------------------|
 | Word processing          | [LibreOffice](libreoffice/)  | <http://www.libreoffice.org>  |
-| HTML conversion          | [Odt2html](odt2html/)        |                               |
+| HTML conversion          | [Odt2html](odt2html/)        | <https://github.com/david672orford/odt2html> |
 | Raster image editing     | [Pinta](pinta/)              | <http://pinta-project.com>    |
 | Vector drawing           | [Inkscape](inkscape/)        | <http://www.inkscape.org>     |
 | 3D modeling              | [Art of Illusion](aoi/)      | <http://www.artofillusion.org>|
