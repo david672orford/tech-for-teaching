@@ -33,4 +33,24 @@ The parameters:
 
  **-c copy** copy the audio and video information unchanged. This preserves
    the quality and leaves the compression method the same.
- 
+
+### Reencode a Video File
+
+ $ ffmpeg -i movie.mp4 
+   _video options_
+   _audio_options_
+   movie_out.mp4 
+
+These video options will produce a high-quality result:
+
+   -c:v libx264 -profile:v high -level 4.1 -preset slow -pix\_fmt yuv420p -crf 25
+
+These audio options are good, but they require an FFmpeg compiled from source:
+
+   -c:a libfdk\_acc -profile:a aac\_he -ar 48000
+
+These options are known to work with the FFmpeg supplied with Ubuntu 18.04:
+
+   -strict experimental -c:a aac -ar 48000
+
+
