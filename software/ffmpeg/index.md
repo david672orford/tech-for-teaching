@@ -8,9 +8,9 @@ many easy-to-use tools use FFmpeg to do the work behind the scenes. But it
 can be used by non-experts thanks to the numerous recipies available on the
 Internet.
 
-## Recipies
+## Recipes
 
-Here are some recipies which are likely to be useful to teachers.
+Here are some recipes which are likely to be useful to teachers.
 
 ### Trim a Video File
 
@@ -21,4 +21,16 @@ seconds in and save it as clip.mp4:
 
  $ ffmpeg -i movie.mp4 -ss 00:00:03 -to 00:00:11 -c copy clip.mp4
 
+The parameters:
 
+ **-i** the name of the input file
+
+ **-ss** the start time of the clip
+
+ **-t** the duration of the clip
+
+ **-to** the end time of the copy
+
+ **-c copy** copy the audio and video information unchanged. This preserves
+   the quality and leaves the compression method the same.
+ 
