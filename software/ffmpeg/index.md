@@ -17,29 +17,26 @@ Here are some recipes which are likely to be useful to teachers.
 These commands both cut an eight-second piece out of movie.mp4 starting three
 seconds in and save it as clip.mp4:
 
- $ ffmpeg -i movie.mp4 -ss 00:00:03 -t 00:00:08 -c copy clip.mp4
+  $ ffmpeg -i movie.mp4 -ss 00:00:03 -t 00:00:08 -c copy clip.mp4
 
- $ ffmpeg -i movie.mp4 -ss 00:00:03 -to 00:00:11 -c copy clip.mp4
+  $ ffmpeg -i movie.mp4 -ss 00:00:03 -to 00:00:11 -c copy clip.mp4
 
 The parameters:
 
- **-i** the name of the input file
+  **-i** the name of the input file
 
- **-ss** the start time of the clip
+  **-ss** the start time of the clip
 
- **-t** the duration of the clip
+  **-t** the duration of the clip
 
- **-to** the end time of the copy
+  **-to** the end time of the copy
 
- **-c copy** copy the audio and video information unchanged. This preserves
+  **-c copy** copy the audio and video information unchanged. This preserves
    the quality and leaves the compression method the same.
 
 ### Reencode a Video File
 
- $ ffmpeg -i movie.mp4 
-   _video options_
-   _audio_options_
-   movie_out.mp4 
+   $ ffmpeg -i movie.mp4 _video options_ _audio_options_ movie_out.mp4 
 
 These video options will produce a high-quality result:
 
