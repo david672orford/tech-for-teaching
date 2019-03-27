@@ -8,6 +8,10 @@ many easy-to-use tools use FFmpeg to do the work behind the scenes. But it
 can be used by non-experts thanks to the numerous recipies available on the
 Internet.
 
+## Links
+
+* https://amiaopensource.github.io/ffmprovisr/
+
 ## Recipes
 
 Here are some recipes which are likely to be useful to teachers.
@@ -49,5 +53,14 @@ These audio options are good, but they require an FFmpeg compiled from source:
 These options are known to work with the FFmpeg supplied with Ubuntu 18.04:
 
    -strict experimental -c:a aac -ar 48000
+
+### Scaling
+
+To reduce the resolution of the image, use the scale video filter. For example,
+if you have 1280x720 video and want to reduce it to 640x360, add this
+filter to the ffmpeg command:
+
+   -vf scale=640:-1
+
 
 

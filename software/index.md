@@ -23,7 +23,7 @@ save in industry-standard formats or can export to such formats.
 
 ## Recommended Software
 
-| Function                   | Software                     | Website                        |
+| Function                   | Our Article About            | Website                        |
 |----------------------------|------------------------------|--------------------------------|
 | Word processing            | [LibreOffice](libreoffice/)  | <https://www.libreoffice.org>  |
 | Raster image editing       | [Pinta](pinta/)              | <https://pinta-project.com>    |
@@ -35,5 +35,6 @@ save in industry-standard formats or can export to such formats.
 | Converting audio and video | [FFmpeg](ffmpeg/)            | <https://www.ffmpeg.org>       |
 |                            | [Handbrake](handbrake/)      | <https://handbrake.fr>         |
 
-Follow the link from the name of each piece of our software to our article about it.
+Follow the link from the name of each piece of our software to our article
+about using it to create materials for your courses.
 
