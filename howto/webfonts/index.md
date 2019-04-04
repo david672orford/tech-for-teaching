@@ -9,10 +9,12 @@ how to style is using CSS.
 In CSS fonts are selected by specifying the font family and then indicating
 the desired variant. For example:
 
- font-family: Times;
- font-weight: bold;
- font-style: italic;
- font-size: 12pt;
+```css
+font-family: Times;
+font-weight: bold;
+font-style: italic;
+font-size: 12pt;
+```
 
 In web browser will take these preferences and select the closest font it has.
 When it comes to weight and style this is not difficult, all it has to do
@@ -30,14 +32,18 @@ may be far from what you intended. Therefor it is better to give the web
 browser a second and even a third choice. The last choice should be a 
 generic font name such as "serif". For example:
 
- font-family: Times, "Times New Roman", serif;
+```css
+font-family: Times, "Times New Roman", serif;
+```
 
 Hopefully the browser could have done this with its font-substitution tables,
 but it does not hurt to give it an explicit search list as we have done here.
 
 A more interesting example:
 
- font-family: Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif;
+```css
+font-family: Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif;
+```
 
 Here are some sites which suggest font substitution lists:
 
