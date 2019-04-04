@@ -106,9 +106,9 @@ For PostScript level 2 Adobe licensed 22 more typefaces:
 * Helvetica (4 new narrow variants)
 * New Century Schoolbook (4 variants)
 * Palatino (4 variants)
-* Avant Garde Gothic (4 variants)
-* Bookman (4 variants)
-* Zapf Chancery Medium Italic (1 variant)
+* ITC Avant Garde Gothic (4 variants)
+* ITC Bookman (4 variants)
+* Zapf Chancery (1 variant, medium italic)
 * Zapf Dingbats (1 variant, decorative elements)
 
 For reasons discussed below it is usually safe to use these fonts in your
@@ -199,6 +199,8 @@ license them from the foundary for a fee.) There are many other fonts
 available for use on websites for free.
 
 ## Liberation Fonts and Derivatives
+* [Bitstream Charter](https://en.wikipedia.org/wiki/Bitstream_Charter)
+* [Computer Modern](https://en.wikipedia.org/wiki/Computer_Modern)
 
 These fonts are metrically compatible with the PostScript and Microsoft
 equivalents:
@@ -232,7 +234,9 @@ which has almost 3500 glyphs and additional styles.
 
 ## Other Noteworthy Typefaces
 
-* [Utopia](https://en.wikipedia.org/wiki/Utopia_(typeface))
-* [Hershey Fonts](https://en.wikipedia.org/wiki/Hershey_fonts)
+* [Bitstream Charter](https://en.wikipedia.org/wiki/Bitstream_Charter)
+* [Computer Modern](https://en.wikipedia.org/wiki/Computer_Modern)
 * [Garamond](https://garamond.org/)
+* [Hershey Fonts](https://en.wikipedia.org/wiki/Hershey_fonts)
+* [Utopia](https://en.wikipedia.org/wiki/Utopia_(typeface))
 

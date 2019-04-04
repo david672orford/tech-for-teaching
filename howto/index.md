@@ -1,3 +1,3 @@
-# How to Perform Tasks
-* [TODO](TODO.md)
-
+* [Understanding and Using Typefaces](typefaces/)
+* [Taking Screenshots](screenshots/)
+* [Web Fonts](webfonts/)
