@@ -4,7 +4,7 @@ In this article we explain how to select fonts using CSS in your web pages.
 We assume you already know how to create a web page by writing HTML and
 how to style is using CSS.
 
-# Selecting Existing Fonts
+## Selecting Fonts Built-in to the Browser
 
 In CSS fonts are selected by specifying the font family and then indicating
 the desired variant. For example:
@@ -25,33 +25,67 @@ The browser may consult a font-substitution table. There it may learn that
 if "Times" is not available, "Times New Roman" should be used instead which
 is fine since they are almost identical.
 
-But if the font family which you requested is not installed on the system
-and the web browser has no information about it (such as whether or not
-it has serifs), then it will likely just use its default font family which
-may be far from what you intended. Therefor it is better to give the web
-browser a second and even a third choice. The last choice should be a 
-generic font name such as "serif". For example:
+But if the requested family is not installed and is not listed in the
+substitution table, you will probably get the web browser's default font
+which may be far from what you want. To avoid this, specify a list of
+font families sending with one of the generic family names:
+"serif", "sans-serif", "monospace", "cursive" or "fantasy". For example,
+if we want Times New Roman, but will settle for any serif font:
 
 ```css
 font-family: Times, "Times New Roman", serif;
 ```
 
-Hopefully the browser could have done this with its font-substitution tables,
-but it does not hurt to give it an explicit search list as we have done here.
+We look for Times New Roman under the Linotype and then the Monotype
+names and if neither is found, we settle for any serif typeface.
 
-A more interesting example:
+A more complicated example:
 
 ```css
 font-family: Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif;
 ```
 
+In this example we ask for Palatino under three different names, and if
+that fails, we ask for Monotype's clone (Book Antiqua), before settling for
+Georgia, and if that fails, any serif typeface.
+
 Here are some sites which suggest font substitution lists:
 
 * [CSS Web Safe Font Combinations](https://www.w3schools.com/cssref/css_websafe_fonts.asp)
+suggests a few substitution lists
 * [CSS Fonts from Dan's Tools](https://www.cssfontstack.com)
+gives dozens of substitution lists and sample pages so you can see what
+each will look like on your browser
+
+## Downloading Additional Fonts
+
+While you can generally get something acceptable by specifying fonts
+from the standard sets decribed in our article on [typefaces](../typefaces/),
+you get more control if you ask the browser to download fonts you choose.
+There are hundreds of fonts available for free, many of them of high
+quality.
+
+[Google Fonts](https://fonts.google.com/) is a site from
+which you can download them directly, if you wish. Choose the typeface
+you want and get the rules to insert into your CSS stylesheet to
+download it. Has almost 1000 font families.
+
+[Adobe Edge Web Fonts](https://edgewebfonts.adobe.com) is another
+site which serves free fonts. Has over 500 font families from Adobe,
+Google, and others.
+
+[Fontsquirrel](https://www.fontsquirrel.com/) is a site where 
+you can choose fonts and download them for use on your own web server.
+Click on the sample of the one you want and go to the Webfont Kit tab
+to get the font in a format which web browsers can use.
+
+[URW Century Schoolbook L](https://github.com/TimothyGu/Century-Schoolbook-L)
+in Web font formats.
 
 ## Additional References
 * [Web Typography](https://en.wikipedia.org/wiki/Web_typography)
+Wikipedia article describes the history of the support for fonts in web browsers
 * [CSS Fonts Module Level 3](https://www.w3.org/TR/2018/REC-css-fonts-3-20180920/)
+Standard for font support in CSS
 
 
