@@ -115,17 +115,23 @@ For PostScript level 2 Adobe licensed 22 more typefaces:
 * Zapf Chancery (1 variant, medium italic) (is there an MS equivalent?)
 * Zapf Dingbats (1 variant, decorative elements)
 
-New Century Schoolbook is an *very* readable typeface designed for
-grammar school textbooks. Palatino is considered a good typefaces
-for body text. Both are less ornate that Times New Roman.
+New Century Schoolbook is a member of the
+[Century family](https://en.wikipedia.org/wiki/Century_type_family)
+of *very* readable typeface designed for
+grammar school textbooks. [Palatino](https://en.wikipedia.org/wiki/Palatino)
+is considered a good typefaces for body text. Both are less ornate that
+Times New Roman.
 
-Bookman is a serif typeface intended for use in large sizes in headings.
-It has been widely used in advertising. It is not generally used for
-body text.
+[Bookman](https://en.wikipedia.org/wiki/Bookman_(typeface)) or
+Bookman Old Style is a serif typeface. It is most used at
+large sizes in headings and at small sizes in advertising. It is
+generaly not used for body text.
 
-Avant Garde Gothic is a sans-serif typeface used in logos.
+[Avant Garde Gothic](https://en.wikipedia.org/wiki/ITC_Avant_Garde)
+is a sans-serif typeface used in logos.
 
-Zaph Chancery is a script typeface (it looks like it was written
+[Zaph Chancery](https://en.wikipedia.org/wiki/ITC_Zapf_Chancery)
+is a script typeface (it looks like it was written
 with a wedge-shaped pen.) Only the italic form is included.
 
 It is usually safe to use any of the basic 35 PostScript fonts in your documents
@@ -232,7 +238,9 @@ available for use on websites for free as described in our article
 about [Web Fonts](../webfonts/).
 
 For more information on typefaces distributed with Microsoft Windows see Wikipedia's article
-[List of typefaces included with Microsoft Windows](https://en.wikipedia.org/wiki/List_of_typefaces_included_with_Microsoft_Windows).
+[List of typefaces included with Microsoft Windows](https://en.wikipedia.org/wiki/List_of_typefaces_included_with_Microsoft_Windows)
+and Microsoft's article
+[Fonts and supported products](https://docs.microsoft.com/en-us/typography/font-list/).
 
 ## Liberation Fonts and Derivatives
 
