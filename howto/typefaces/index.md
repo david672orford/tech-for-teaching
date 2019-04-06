@@ -44,8 +44,8 @@ almost always have versions of the following typeface families:
 * A proportional-width typeface with serifs, some version of
   [Times New Roman](https://en.wikipedia.org/wiki/Times_New_Roman)
   which <i>The Times</i> of London commissioned from Monotype and started
-  using in 1932. Typefaces like this are traditionally used for the body
-  text of books and newspapers.
+  using in 1932. Times typefaces are commonly used for the body text
+  of articles and books.
 * A proportional-width typeface without serifs, similar to
   [Helvetica](https://en.wikipedia.org/wiki/Helvetica Helvetica). Typefaces like
   this have traditionally used for signs. They may also be used sparingly in
@@ -80,6 +80,14 @@ substitutes will always be present. If you choose to use other typefaces,
 you will either have to provided them to recipients of electronic
 documents by embedding them or accept the fact that one of the typefaces
 above may be automatically substituted.
+
+Android devices are a notable exception to the above in that they do not
+seem to have typefaces width-compatible with Times and Helvetica. In
+particular Google Chrome for Android will simply provide the system
+default serif font when asked for Times and the system default sans-serif
+font when asked for Helvetica. This can occasionally cause problems because
+Droid Serif is a bit wider than Times. This is particularly troublesome in
+SVG illustrations were the right sides of lines of text can be cut off.
 
 ## Adobe PostScript Fonts
 
@@ -178,6 +186,9 @@ have since been expaneded and released as
 * FreeSerif (4 variants, 10,537 symbols)
 * FreeSans (4 variants, 6,272 symbols)
 * FreeMono (4 variants, 4,178 symbols)
+
+In 2016 URW released [new versions of their 35 fonts](https://github.com/URWTypeFoundry/Core_35/)
+TODO: find out more about these fonts, their names, etc.
 
 ## Microsoft Fonts
 
@@ -300,10 +311,24 @@ which has almost 3500 glyphs and additional styles.
   A set of serif, sans-serif, and monospace fonts with good alphabet coverage.
   The serif and sans-serif versions are also available in expanded versions
   with CJK coverage.
+* [Droid Fonts](https://en.wikipedia.org/wiki/Droid_fonts)
+  A set of serif, sans-serif, and monospace fonts 
 * [Open Sans](https://en.wikipedia.org/wiki/Open_Sans)
-  Popular sans-serif typeface for web pages. Highly legible on screens
-  and at small sizes.
+  Popular sans-serif typeface for web pages and mobile apps. Highly legible on screens
+  and at small sizes. Similar to Droid Sans, but with an italic variant
+  and wider characters.
+* [Roboto](https://en.wikipedia.org/wiki/Roboto)
+  A sans-serif typeface family used as the default system font in Android since
+  version 4.0. Also used on many Google web sites including YouTube and Google Maps.
+  Provided in six weights.
+* [Noto Fonts](https://en.wikipedia.org/wiki/Noto_fonts)
+  A typeface family consisting of over a hundred individual fonts. It is intended
+  to cover all of the script in the Unicode standard. It is used as a fallback
+  font on Android devices. It is has serif and sans-serif variants. The Latin,
+  Greek, and Cyrillic characters are derived from the Droid fonts. Noto CJK
+  fonts are derived from the Adobe Source fonts.
 
 ## Other References
 
 * [What Font Should I Use?](http://drmarkwomack.com/a-writing-handbook/style/typography/)
+
