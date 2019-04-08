@@ -70,22 +70,19 @@ which you can download them directly, if you wish. Choose the typeface
 you want and get the rules to insert into your CSS stylesheet to
 download it. Has almost 1000 font families.
 
-[Adobe Edge Web Fonts](https://edgewebfonts.adobe.com) is another
-site which serves free fonts. Has over 500 font families from Adobe,
-Google, and others.
-
 [Fontsquirrel](https://www.fontsquirrel.com/) is a site where 
 you can choose fonts and download them for use on your own web server.
 Click on the sample of the one you want and go to the Webfont Kit tab
-to get the font in a format which web browsers can use.
+to get the font in a format which web browsers can use. TODO:
+does this set up the font family properly?
 
-[URW Century Schoolbook L](https://github.com/TimothyGu/Century-Schoolbook-L)
-in Web font formats.
+[Transfonter](https://transfonter.org/) will convert Opentype fonts to
+Webfont formats. If you enable the "Family Support" option, it will
+set up the font family properly.
 
 ## Additional References
 * [Web Typography](https://en.wikipedia.org/wiki/Web_typography)
 Wikipedia article describes the history of the support for fonts in web browsers
 * [CSS Fonts Module Level 3](https://www.w3.org/TR/2018/REC-css-fonts-3-20180920/)
 Standard for font support in CSS
-
 

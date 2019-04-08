@@ -1,42 +1,6 @@
-# Understanding and Selecting Typefaces
+# Standard Typefaces on Personal Computers
 
-A typeface is a set of letters for typesetting. Originally a font was a set
-of metal type of a particular typeface in a particular size, but today
-the terms are generally used interchangably.
-
-Typefaces come in sets called families. The typefaces within a family will
-share a common design of the letter shapes but differ from one another
-in regular ways.
-
-The similarities without the family likely include:
-
-* Whether the letters all occupy the same width on the page, like on a type
-writer, or whether they occupy only the space they need, like in a newspaper.
-If they all occupy the same width, the typeface is <b>monospaced</b>.
-If the 'W' takes more space than the 'i' or the 'l', then the typeface
-is <b>proportionally spaced</b>.
-* Whether the letters has <b>serifs</b>. Serifs are the little caps on the
-ends of the long strokes of the typefaces used in books and newspapers.
-* The length and width of the serifs, if present, in relationship to the
-lengths and widths of the main strokes.
-* The height of the lower-case letters in relationship to the upper-case
-letters. This is known as the <b>x-height</b> because it is expressed
-as the lower-case letter 'x'.
-* Regular differences in widths of strokes, such as horizontal verses
-vertical strokes or strokes along the two diagonals.
-
-The regular variations include:
-
-* Weight: light, medium, and dark variants are created by varying the width
-of the strokes.
-* Width: the family may include versions of the typeface which have been 
-squeezed or stretched horizontally.
-* Slant: The letters may be slanted a few degrees to the right. If they are
-slanted without significantly altering their forms, they are said to be
-<b>oblique</b>. If some of the strokes are curved to make the whole letter
-appear rounder, then the typeface is said to be <b>italic</b>.
-
-## Basic Typefaces
+## Three Basic Typefaces
 
 While modern computer systems often have hundreds of fonts installed, they will
 almost always have versions of the following typeface families:
@@ -271,62 +235,6 @@ licensed by Google.
 Sans with the Cyrillic portion redesigned to look better. Metric compatibility of the
 Cyrillic letters with Arial was deliberatly not preserved since in the opinion of those
 who did the redesign this was necessary to produce a good-quality Cyrillic typeface.
-
-## Bitstream Vera and Decendants
-
-[Bitstream Vera](https://www.gnome.org/fonts/)
-has 300 glyphs covering the Latin alphabet. Families in the Bitstream
-version collection include:
-
-* Bitstream Vera Sans (4 variants)
-* Bitstream Vera Sans Mono (4 variants)
-* Bitstream Vera Serif (regular and bold)
-
-An expanded version known as [DejaVu](https://dejavu-fonts.github.io/)
-which has almost 3500 glyphs and additional styles.
-
-## Other Noteworthy Typefaces
-
-* [Opensource Typefaces](https://en.wikipedia.org/wiki/Category:Open-source_typefaces)
-  Category page at Wikipedia
-* [Garamond](https://garamond.org/)
-  URW version is free for non-commercial purposes
-* [Hershey Fonts](https://en.wikipedia.org/wiki/Hershey_fonts)
-  Early vector font widely used in computer graphics. Includes Latin,
-  Greek, Cyrillic, and Japanese letters.
-* [Bitstream Charter](https://en.wikipedia.org/wiki/Bitstream_Charter)
-  A simplified serif typeface designed in 1987 for good performance
-  and high legibility on 300dpi laser printers. An expanded version
-  is known as [Charis SIL](https://en.wikipedia.org/wiki/Charis_SIL).
-* [Utopia](https://en.wikipedia.org/wiki/Utopia_(typeface))
-  A serif typeface a version of which was released by Adobe as opensource
-  software in 1989.
-* [Computer Modern](https://en.wikipedia.org/wiki/Computer_Modern)
-  A set of typefaces created by Donald Knuth. Widely used with the TeX
-  typesetting system to typeset mathematical papers.
-* [Gentium](https://en.wikipedia.org/wiki/Gentium)
-  An award-winning typeface released in 2007 which in the Plus version
-  has over 5500 symbols
-* [Adobe's Source Family](https://en.wikipedia.org/wiki/Source_Sans_Pro)
-  A set of serif, sans-serif, and monospace fonts with good alphabet coverage.
-  The serif and sans-serif versions are also available in expanded versions
-  with CJK coverage.
-* [Droid Fonts](https://en.wikipedia.org/wiki/Droid_fonts)
-  A set of serif, sans-serif, and monospace fonts 
-* [Open Sans](https://en.wikipedia.org/wiki/Open_Sans)
-  Popular sans-serif typeface for web pages and mobile apps. Highly legible on screens
-  and at small sizes. Similar to Droid Sans, but with an italic variant
-  and wider characters.
-* [Roboto](https://en.wikipedia.org/wiki/Roboto)
-  A sans-serif typeface family used as the default system font in Android since
-  version 4.0. Also used on many Google web sites including YouTube and Google Maps.
-  Provided in six weights.
-* [Noto Fonts](https://en.wikipedia.org/wiki/Noto_fonts)
-  A typeface family consisting of over a hundred individual fonts. It is intended
-  to cover all of the script in the Unicode standard. It is used as a fallback
-  font on Android devices. It is has serif and sans-serif variants. The Latin,
-  Greek, and Cyrillic characters are derived from the Droid fonts. Noto CJK
-  fonts are derived from the Adobe Source fonts.
 
 ## Other References
 
