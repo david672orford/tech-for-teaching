@@ -41,6 +41,10 @@ which has almost 3500 glyphs and additional styles.
 * [Gentium](https://en.wikipedia.org/wiki/Gentium)
   An award-winning typeface released in 2007 which in the Plus version
   has over 5500 symbols. [Official Site](https://software.sil.org/gentium/)
+* [Ubuntu](https://en.wikipedia.org/wiki/Ubuntu_(typeface))
+  A sans-serif typeface used in the user interface of the Ubuntu Linux
+  operating system. Available [on Google fonts](https://fonts.google.com/?query=ubuntu)
+  for use as a web font.
 * [Adobe's Source Family](https://en.wikipedia.org/wiki/Source_Sans_Pro)
   A set of serif, sans-serif, and monospace fonts with good alphabet coverage.
   The serif and sans-serif versions are also available in expanded versions

@@ -152,7 +152,8 @@ have since been expaneded and released as
 * FreeMono (4 variants, 4,178 symbols)
 
 In 2016 URW released [new versions of their 35 fonts](https://github.com/URWTypeFoundry/Core_35/)
-TODO: find out more about these fonts, their names, etc.
+There is also a [package of these fonts](https://github.com/ArtifexSoftware/urw-base35-fonts)
+which includes tweaks and configuration files for Fontconfig (the Linux font manager).
 
 ## Microsoft Fonts
 
@@ -189,13 +190,13 @@ In 1996 Microsoft released its
 [Core Fonts for the Web](https://en.wikipedia.org/wiki/Core_fonts_for_the_Web).
 These included the 14 fonts listed above plus:
 
-* Arial Black (1 variant)
-* Andalé Mono (1 variant)
-* Impact (1 variant)
-* Comic Sans MS (regular, bold)
-* Georgia (4 variants)
-* Trebuchet MS (4 variants)
-* Veranda (4 variants)
+* Andalé Mono (1 variant, sans-serif)
+* Arial Black (1 variant, a particulary bold version of Arial)
+* Impact (very bold only, sans serif, very wide vertical strokes)
+* Comic Sans MS (regular and bold, looks like comic book lettering)
+* Georgia (4 variants, serif)
+* Trebuchet MS (4 variants, sans-serif)
+* Veranda (4 variants, sans-serif, wider than most)
 
 Microsoft's intent in releasing the Core Fonts for the Web
 was to expand the base set of typefaces which all web designers could use

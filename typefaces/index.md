@@ -1,5 +1,7 @@
 * [Typeface Concepts](concepts/)
+* [Typeface Tools](tools/)
 * [Standard Typefaces on Personal Computers](standard/)
 * [Opensource Typefaces](opensource/)
+* [Freeware Typefaces](freeware/)
 * [Installing Typefaces](installing/)
 * [Web Fonts](webfonts/)
