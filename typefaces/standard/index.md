@@ -155,7 +155,7 @@ In 2016 URW released [new versions of their 35 fonts](https://github.com/URWType
 There is also a [package of these fonts](https://github.com/ArtifexSoftware/urw-base35-fonts)
 which includes tweaks and configuration files for Fontconfig (the Linux font manager).
 
-## Microsoft Fonts
+## Microsoft's Compatible Fonts
 
 Microsoft licensed typefaces from Monotype (the inventor of Times
 New Roman) instead of Linotype. These typefaces were created
@@ -186,6 +186,8 @@ with members of the standard set of 35 PostScript fonts:
 * Century Gothic: Monotype clone of ITC's Avant Garde
 * Bookman Old Style: Monotype clone of ITC's Bookman
 
+## Microsoft's New Fonts
+
 In 1996 Microsoft released its
 [Core Fonts for the Web](https://en.wikipedia.org/wiki/Core_fonts_for_the_Web).
 These included the 14 fonts listed above plus:
@@ -196,7 +198,10 @@ These included the 14 fonts listed above plus:
 * Comic Sans MS (regular and bold, looks like comic book lettering)
 * Georgia (4 variants, serif)
 * Trebuchet MS (4 variants, sans-serif)
-* Veranda (4 variants, sans-serif, wider than most)
+* Verdana (4 variants, sans-serif, wider than most)
+
+Georgia and Verdana were produced at the same time by the same designers
+as complementary serif and sans-serif typefaces.
 
 Microsoft's intent in releasing the Core Fonts for the Web
 was to expand the base set of typefaces which all web designers could use
@@ -217,6 +222,13 @@ For more information on typefaces distributed with Microsoft Windows see Wikiped
 [List of typefaces included with Microsoft Windows](https://en.wikipedia.org/wiki/List_of_typefaces_included_with_Microsoft_Windows)
 and Microsoft's article
 [Fonts and supported products](https://docs.microsoft.com/en-us/typography/font-list/).
+
+Though Microsoft no longer distributes the Core Fonts for the Web
+as a separate package, the license under which it released them allows
+others to continue to distribute them as long as the files are not modified
+in any way. They can be downloaded from [Sourceforge](https://sourceforge.net/projects/corefonts/files/)
+and other places. Before they can be used they must be extracted which requires
+a program which can unpack Microsoft CAB files.
 
 ## Liberation Fonts and Derivatives
 

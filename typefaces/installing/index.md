@@ -1,14 +1,13 @@
 # On Linux Systems with Fontconfig
 
-Copy into ~/.local/share/fonts
-Run:
- fc-cache -f -v
+* Copy the font files into  the .local/share/fonts subdirectory
+  of your home directory. You may create additional subdirectories
+  within that directory to organize your fonts.
+* Update the Fontconfig cache by running the command <b>fc-cache -f -v</b>.
 
-List fonts:
- fc-list
-
-Find a particular font:
- fc-match *fontname*
+## Other useful commands:
+* List fonts: <b>fc-list</b>
+* Find a particular font: <b>fc-match</b> *fontname*
 
 # References
 * [How to Install Fonts](https://www.google.com/get/noto/help/install/)
