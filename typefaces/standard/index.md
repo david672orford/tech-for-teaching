@@ -112,7 +112,7 @@ below, Linux and Microsoft Windows computers have substitutes which look very
 similiar and have letters of the same width so the formatting of the document
 should not change.
 
-## The URW Fonts and GNU Freefont ==
+## The URW Fonts and GNU Freefont
 
 The increasing standardization on the Postscript typefaces created a problem.
 Indepently licensing a full set was difficult and expensive. This was
