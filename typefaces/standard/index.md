@@ -80,10 +80,10 @@ from Adobe PostScript plus Zapf Dingbats (see below).
 For PostScript level 2 Adobe licensed 22 more typefaces:
 
 * Helvetica (4 new narrow variants)
-* New Century Schoolbook (4 variants) (is there an MS equivalent?)
+* New Century Schoolbook (4 variants)
 * Palatino (4 variants)
-* Bookman (4 variants)
-* Avant Garde Gothic (4 variants)
+* Bookman (from ITC, 4 variants)
+* Avant Garde Gothic (from ITC, 4 variants)
 * Zapf Chancery (1 variant, medium italic) (is there an MS equivalent?)
 * Zapf Dingbats (1 variant, decorative elements)
 
@@ -151,7 +151,11 @@ have since been expaneded and released as
 * FreeSans (4 variants, 6,272 symbols)
 * FreeMono (4 variants, 4,178 symbols)
 
-In 2016 URW released [new versions of their 35 fonts](https://github.com/URWTypeFoundry/Core_35/)
+In 2016 URW released [version 2.0 of their 35 fonts](https://github.com/URWTypeFoundry/Core_35/).
+The onlines have been reworked and coverage of Cyrillic and Greek added. 
+In this release two the font names have been changed:
+"Century Schoolbook L" is now "C059", and "Paladino L" is now "P052".
+
 There is also a [package of these fonts](https://github.com/ArtifexSoftware/urw-base35-fonts)
 which includes tweaks and configuration files for Fontconfig (the Linux font manager).
 
@@ -178,19 +182,20 @@ and the URW fonts, they are very safe to use. If they are missing,
 the equivalent font from another vendor will probably be 
 substituted automatically.
 
-In time Microsoft started distributing additional fonts compatible
-with members of the standard set of 35 PostScript fonts:
+Later versions of Microsoft Windows and Microsoft Office additional
+fonts compatible with those in the PostScript 35 set:
 
-* Book Antiqua: Monotype clone of Linotype's Palatino
-* Palatino Linotype: expanded version of Linotype's Palatino produced for Microsoft
-* Century Gothic: Monotype clone of ITC's Avant Garde
+* Book Antiqua: Monotype clone of Linotype's Palatino (Windows 98)
+* Century Gothic: Monotype clone of ITC's Avant Garde (Windows 98)
 * Bookman Old Style: Monotype clone of ITC's Bookman
+* Palatino Linotype: expanded version of Linotype's Palatino produced for Microsoft (Windows 2000)
+* Century Schoolbook
 
 ## Microsoft's New Fonts
 
 In 1996 Microsoft released its
 [Core Fonts for the Web](https://en.wikipedia.org/wiki/Core_fonts_for_the_Web).
-These included the 14 fonts listed above plus:
+These included the 14 fonts from Windows 3.1 (listed above) plus:
 
 * Andalé Mono (1 variant, sans-serif)
 * Arial Black (1 variant, a particulary bold version of Arial)
@@ -240,16 +245,20 @@ equivalents:
 * Liberation Mono = Courier = Courier New
 
 They were created by Ascender Corporation under the name Ascender. RedHat
-arranged for them to be licensed under the GPL. Google later also licensed them for use
-as the Chrome OS Core Fonts. Version 2.0 of the Liberation fonts is based on the version
-licensed by Google.
+arranged for them to be licensed under the GPL. Google later also licensed them
+for use as the Chrome OS Core Fonts. Version 2.0 of the Liberation fonts is
+based on the version licensed by Google.
 
-[Liberastika](https://github.com/eugeneai/Liberastika-fonts) is a derivative of Liberation
-Sans with the Cyrillic portion redesigned to look better. Metric compatibility of the
-Cyrillic letters with Arial was deliberatly not preserved since in the opinion of those
-who did the redesign this was necessary to produce a good-quality Cyrillic typeface.
+[Liberastika](https://github.com/eugeneai/Liberastika-fonts) is a derivative
+of Liberation Sans with the Cyrillic portion redesigned to look better. Metric
+compatibility of the Cyrillic letters with Arial was deliberately not preserved
+since in the opinion of those who did the redesign this was necessary to
+produce a good-quality Cyrillic typeface.
 
 ## Other References
 
 * [What Font Should I Use?](http://drmarkwomack.com/a-writing-handbook/style/typography/)
+* [List of Typefaces Included with Microsoft Windows](https://en.wikipedia.org/wiki/List_of_typefaces_included_with_Microsoft_Windows)
+* [Fonts and Supported Products (Microsoft)](https://docs.microsoft.com/en-us/typography/font-list/)
+
 

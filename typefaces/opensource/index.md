@@ -1,12 +1,13 @@
 # Opensource Typefaces
 
-## Clones of Times New Roman, Helvetica, and Courier
-
-TODO
-
 ## Clones of the 35 PostScript Fonts
 
-TODO
+The <a href="../standard/#liberation-fonts-and-derivatives">The Libration
+fonts</a> are width-compatible with Times, Helvetica, and Courier.
+
+The <a href="../standard/#the-urw-fonts-and-gnu-freefont">The URW Fonts</a>
+include width-compatible clones of all 35 fonts found in most level 2 PostScript
+printers.
 
 ## Bitstream Vera and Decendants
 
