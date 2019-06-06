@@ -75,23 +75,25 @@ which has almost 3500 glyphs and additional styles.
 
 ## Online Opensource Font Catelogs
 
-[Font Library](https://fontlibrary.org/)
-Online library of opensource and freeware fonts in a searchable catelog.
-You can either download them for use on your computer or uploading
-to your web server or include them in web pages directly
-from the Font Library server.
+* [Google Fonts](https://fonts.google.com/)
+  A site from which you can
+  download them for use on your computer or uploading to your web server or
+  include them in your web pages directly form the Google server. (Google
+  has promised not to use the server logs for visitor tracking.)
+  Has almost 1000 font families.
 
-[Google Fonts](https://fonts.google.com/) is a site from which you can
-download them for use on your computer or uploading to your web server or
-include them in your web pages directly form the Google server. (Google
-has promised not to use the server logs for visitor tracking.)
-Has almost 1000 font families.
+* [Font Library](https://fontlibrary.org/)
+  Online library of opensource and freeware fonts in a searchable catelog.
+  You can either download them for use on your computer or uploading
+  to your web server or include them in web pages directly from the Font
+  Library server. (They will be delivered without subsetting, in TTF format.)
+  Search function is very basic. For example, there is no obvious way
+  to select serif cyrillic fonts.
 
-[Fontsquirrel](https://www.fontsquirrel.com/) is a site where 
-you can choose fonts and download them for use on your own web server.
-Click on the sample of the one you want and go to the Webfont Kit tab
-to get the font in Webfont format for uploading to your server. Note
-thought that the style files provided require tweaking as they do not
-set up the weight and style properly.
-
+* [Fontsquirrel](https://www.fontsquirrel.com/)
+  A site where you can choose fonts and download them for use on your own web
+  server. Click on the sample of the one you want and go to the Webfont Kit tab
+  to get the font in Webfont format for uploading to your server. Note
+  thought that the style files provided require tweaking as they do not
+  set up the weight and style properly.
 
