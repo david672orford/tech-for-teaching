@@ -89,8 +89,8 @@ For PostScript level 2 Adobe licensed 22 more typefaces:
 
 New Century Schoolbook is a member of the
 [Century family](https://en.wikipedia.org/wiki/Century_type_family)
-of *very* readable typeface designed for
-grammar school textbooks. [Palatino](https://en.wikipedia.org/wiki/Palatino)
+of *very* readable typeface designed for grammar school textbooks.
+[Palatino](https://en.wikipedia.org/wiki/Palatino)
 is considered a good typefaces for body text. Both are less ornate that
 Times New Roman.
 
@@ -130,10 +130,10 @@ most importantly had been adjusted to have the same letter widths.
 * Nimbus Mono L = Courier
 * Standard Symbols L = Symbol
 * Century Schoolbook L = New Century Schoolbook
-* Palladio L = Palatino
-* Gothic L = Avant Garde Gothic
-* Bookman L = Bookman
-* Chancery L = Zapf Chancery
+* URW Palladio L = Palatino
+* URW Gothic L = Avant Garde Gothic
+* URW Bookman L = Bookman
+* URW Chancery L = Zapf Chancery
 * Dingbats = Zapf Dingbats
 
 These are high-quality fonts from a respected foundary. URW decided to
@@ -153,8 +153,11 @@ have since been expaneded and released as
 
 In 2016 URW released [version 2.0 of their 35 fonts](https://github.com/URWTypeFoundry/Core_35/).
 The onlines have been reworked and coverage of Cyrillic and Greek added. 
-In this release two the font names have been changed:
-"Century Schoolbook L" is now "C059", and "Paladino L" is now "P052".
+In this release some of the font names have been changed:
+
+* "Century Schoolbook L" is now "C059"
+* "Paladino L" is now "P052"
+* "Nimbus Roman No9 L" is now simply "Nimbus Roman"
 
 There is also a [package of these fonts](https://github.com/ArtifexSoftware/urw-base35-fonts)
 which includes tweaks and configuration files for Fontconfig (the Linux font manager).

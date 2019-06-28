@@ -24,8 +24,6 @@ which has almost 3500 glyphs and additional styles.
 
 ## Other Noteworthy Opensource Typefaces
 
-* [Opensource Typefaces](https://en.wikipedia.org/wiki/Category:Open-source_typefaces)
-  Category page at Wikipedia
 * [Hershey Fonts](https://en.wikipedia.org/wiki/Hershey_fonts)
   Early vector font widely used in computer graphics. Includes Latin,
   Greek, Cyrillic, and Japanese letters.
@@ -57,31 +55,35 @@ which has almost 3500 glyphs and additional styles.
   typeface called Linux Biolinum.
   [Official Site](http://libertine-fonts.org/) of the Libertine fonts.
 * [Droid Fonts](https://en.wikipedia.org/wiki/Droid_fonts)
-  A set of serif, sans-serif, and monospace fonts 
+  A set of serif, sans-serif, and monospace fonts originally developed for the
+  Android mobile platform and first released in 2007.
 * [Open Sans](https://en.wikipedia.org/wiki/Open_Sans)
   Popular sans-serif typeface for web pages and mobile apps. Highly legible on screens
   and at small sizes. Similar to Droid Sans, but with an italic variant
   and wider characters.
 * [Roboto](https://en.wikipedia.org/wiki/Roboto)
   A sans-serif typeface family used as the default system font in Android since
-  version 4.0. Also used on many Google web sites including YouTube and Google Maps.
-  Provided in six weights.
+  version 4.0 in 2011. Also used on many Google web sites including YouTube and
+  Google Maps. Provided in six weights. Slab-serif and monospaced variants
+  are now available.
 * [Noto Fonts](https://en.wikipedia.org/wiki/Noto_fonts)
-  A typeface family consisting of over a hundred individual fonts. It is intended
-  to cover all of the script in the Unicode standard. It is used as a fallback
-  font on Android devices. It is has serif and sans-serif variants. The Latin,
-  Greek, and Cyrillic characters are derived from the Droid fonts. Noto CJK
-  fonts are derived from the Adobe Source fonts.
+  A typeface family (serif, sans-serif, mono) consisting of over a hundred
+  individual fonts. It is intended to cover all of the script in the Unicode
+  standard. It is used as a fallback font on Android devices. It is has serif
+  and sans-serif variants. The Latin, Greek, and Cyrillic characters are
+  derived from the <b>Droid fonts</b>. Noto CJK fonts are derived from the
+  <b>Adobe Source fonts</b>.
 
 ## Online Opensource Font Catelogs
 
+* [Opensource Typefaces](https://en.wikipedia.org/wiki/Category:Open-source_typefaces)
+  Category page at Wikipedia
 * [Google Fonts](https://fonts.google.com/)
   A site from which you can
   download them for use on your computer or uploading to your web server or
   include them in your web pages directly form the Google server. (Google
   has promised not to use the server logs for visitor tracking.)
   Has almost 1000 font families.
-
 * [Font Library](https://fontlibrary.org/)
   Online library of opensource and freeware fonts in a searchable catelog.
   You can either download them for use on your computer or uploading
@@ -89,7 +91,6 @@ which has almost 3500 glyphs and additional styles.
   Library server. (They will be delivered without subsetting, in TTF format.)
   Search function is very basic. For example, there is no obvious way
   to select serif cyrillic fonts.
-
 * [Fontsquirrel](https://www.fontsquirrel.com/)
   A site where you can choose fonts and download them for use on your own web
   server. Click on the sample of the one you want and go to the Webfont Kit tab

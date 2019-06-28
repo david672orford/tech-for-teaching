@@ -14,10 +14,8 @@ We also know that our readers use a variety of computers. While Microsoft
 Windows is widely used, Apple Macintosh computers are very popular in
 education. A few, including your author use Linux. For these reason, we
 try to only recommend programs which run well on all three platforms.
-
 All of the programs recommended are available free-of-charge on the 
 Internet from reputable web sites.
-
 Finally, to the maximum extent possible we have chosen programs which either
 save in industry-standard formats or can export to such formats.
 

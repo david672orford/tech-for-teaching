@@ -15,11 +15,17 @@ Spacing Above Paragraph or Below Paragraph.
 Revision Date and Copyright Notice
 ----------------------------------
 
+TODO
+
 Adding Accent Marks
 -------------------
 
+TODO
+
 Tables for Layout
 -----------------
+
+TODO
 
 SVG Images
 ----------
@@ -74,7 +80,7 @@ Adding Index Entries
 --------------------
 
 1.  Place cursor at beginning of word or if it is a phrase, select it
-2.  Choose Insert-&gt;Indexes and Tables-&gt;Index Entry
+2.  Choose Insert-&gt;Table of Contents and Index-&gt;Index Entry
 3.  If you would like the entry to appear under a heading, enter a 1st
     key and possibly 2nd key (for up to two levels)
 4.  If this is the best treatment of the term, then check the Main Entry
