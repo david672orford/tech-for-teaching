@@ -1,5 +1,10 @@
-Using Libreoffice Writer
+Libreoffice Writer
 ========================
+
+[Libreoffice Writer](https://www.libreoffice.org) is a good general-purpose
+word processor. It is part of the Libreoffice suite of office software.
+It can load and save files in ODF format and in many of the formats which
+Microsoft Word has used over the years.
 
 Stylesheet
 ----------

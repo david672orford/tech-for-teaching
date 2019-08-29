@@ -1,3 +1,6 @@
+Recommended Software 
+===========================
+
 Software for creating course materials should be easy-to-use. You should not
 have to spend years learning how to produces decent results. It should also
 be readily available to all so that you can share what you produce with your
@@ -21,18 +24,20 @@ save in industry-standard formats or can export to such formats.
 
 ## Recommended Software
 
-| Function                   | Our Article About            | Website                        |
-|----------------------------|------------------------------|--------------------------------|
-| Word processing            | [LibreOffice](libreoffice/)  | <https://www.libreoffice.org>  |
-| Raster image editing       | [Pinta](pinta/)              | <https://pinta-project.com>    |
-| Vector drawing             | [Inkscape](inkscape/)        | <https://inkscape.org>         |
-| 3D modeling                | [Art of Illusion](aoi/)      | <http://www.artofillusion.org> |
-|                            | [Sweethome 3D](sweethome3d/) | <http://www.sweethome3d.com>   |
-| Editing audio files        | [Audacity](audacity/)        | <https://www.audacityteam.org> |
-| Editing video files        | [Openshot](openshot/)        | <https://www.openshot.org>     |
-| Converting audio and video | [FFmpeg](ffmpeg/)            | <https://www.ffmpeg.org>       |
-|                            | [Handbrake](handbrake/)      | <https://handbrake.fr>         |
+| Function                   | We Recommend                 |
+|----------------------------|------------------------------|
+| Word processing            | [LibreOffice](libreoffice/)  |
+| Raster image editing       | [Pinta](pinta/)              |
+| Vector drawing             | [Inkscape](inkscape/)        |
+| 3D modeling                | [Art of Illusion](aoi/)      |
+|                            | [Sweethome 3D](sweethome3d/) |
+| Editing audio files        | [Audacity](audacity/)        |
+| Editing video files        | [Openshot](openshot/)        |
+| Converting audio and video | [FFmpeg](ffmpeg/)            |
+|                            | [Handbrake](handbrake/)      |
 
-Follow the link from the name of each piece of our software to our article
-about using it to create materials for your courses.
+Follow the links to a short article about each program. Most of them
+are presently just stubs, but when finished each will include a brief
+description, at link to its website so you can download it, and
+tips for using it in education.
 

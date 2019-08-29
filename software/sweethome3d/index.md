@@ -1,4 +1,8 @@
-Sweethome 3D is an easy-to-use program for creating 3D models of house
+Sweethome 3D
+=============================
+
+[Sweethome 3D](http://www.sweethome3d.com) is an easy-to-use
+program for creating 3D models of house
 interiors including walls, windows, door, and furniture. Using it is
 a little like building using a toy construction set. If you are a
 beginner needing to create an interior scene for an illustration,

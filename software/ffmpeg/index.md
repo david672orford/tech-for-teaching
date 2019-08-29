@@ -1,4 +1,7 @@
-FFmpeg is a command-line program for processing audio and video recordings.
+FFmpeg
+==================================
+
+[FFmpeg](https://www.ffmpeg.org) is a command-line program for processing audio and video recordings.
 It is widely used to convert files from one format to another or to
 recompress them to make them small enough for distribution. It has numerous
 options for cropping video, selecting start and end times, and much more.

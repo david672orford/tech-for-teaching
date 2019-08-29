@@ -1,7 +1,8 @@
 Using Openshot to Edit Video
 ============================
 
-Openshot is a non-linear video editor. This means that you can load a bunch of
+[Openshot](https://www.openshot.org) is a non-linear video editor. This means
+that you can load a bunch of
 video files into it, select pieces from them, and assemble them into a time
 line. Once the time line is ready, you can export it as a single video file.
 The original video files are left untouched. You can also insert title cards
