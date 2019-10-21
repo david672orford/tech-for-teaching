@@ -1,4 +1,4 @@
-HTML, BODY, HEADER, MAIN, H1, H2, UL, LI, TABLE, TR, TH, TH {
+HTML, BODY, HEADER, MAIN, H1, H2, UL, LI, TABLE, TR, TH, TD {
 	margin: 0;
 	padding: 0;
 	}
@@ -31,7 +31,9 @@ H1 A {
 	}
 UL {
 	padding-left: 2em;
-	margin: 1em 0;
+	}
+LI {
+	margin: .4em 0;
 	}
 
 DIV.author_box {
