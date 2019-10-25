@@ -88,3 +88,19 @@ FOOTER {
 	font-size: 12pt;
 	}
 
+/* Syntax highlighting */
+CODE {
+	padding: .5em;
+	background-color: black;
+	color: white;
+	}
+.nt {		/* tag */
+	color: blue;
+	}
+.na {		/* attribute */
+	color: red;
+	}
+.ns {		/* string */
+	color: green;
+    }
+
