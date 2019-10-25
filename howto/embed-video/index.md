@@ -55,6 +55,17 @@ With a little more effort, the player can be made responsive, that
 is, it can be made to grow and shrink according to the size of the
 viewer's screen.
 
+<div style="width: auto; border: thin solid green">
+  <div style="width: 640px; max-width: 100%;"
+    <div style="position: relative; padding-top: 56.25%;">
+      <video style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" controls>
+        <source src="myvideo.webm" type="video/webm">
+        <source src="myvideo.mp4" type="video/mp4">
+      </video>
+    </div>
+  </div>
+</div>
+
 ## Encoding the Video
 
 You can encode your videos for the web using a video editor such as
