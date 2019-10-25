@@ -2,39 +2,44 @@ Recommended Software
 ===========================
 
 Software for creating course materials should be easy-to-use. You should not
-have to spend years learning how to produces decent results. It should also
-be readily available to all so that you can share what you produce with your
+have to spend years learning how to produces decent results. It should also be
+readily available to all so that you can share what you produce with your
 colleges who can then modify them for their needs. Finally it is best if your
 work can be stored in widely accepted formats which you will be able to open
 and use again for years.
 
-There requirements are not easy to meet. Programs for creative endevors can
-be very expensive. They often save your work in files which only they can open.
-Sometimes the format of these files changes between versions making it hard
-to open files you created only a few years ago.
+There requirements are not easy to meet. Programs for creative endevors can be
+very expensive. They often save your work in files which only they can open.
+Sometimes the format of these files changes between versions making it hard to
+open files you created only a few years ago.
 
 We also know that our readers use a variety of computers. While Microsoft
 Windows is widely used, Apple Macintosh computers are very popular in
-education. A few, including your author use Linux. For these reason, we
-try to only recommend programs which run well on all three platforms.
-All of the programs recommended are available free-of-charge on the 
-Internet from reputable web sites.
-Finally, to the maximum extent possible we have chosen programs which either
-save in industry-standard formats or can export to such formats.
+education. A few, including your author use Linux. For these reason, we try to
+only recommend programs which run well on all three platforms.  All of the
+programs recommended are available free-of-charge on the Internet from
+reputable web sites.  Finally, to the maximum extent possible we have chosen
+programs which either save in industry-standard formats or can export to such
+formats.
 
-## Recommended Software
+## Our Recommendations
 
-| Function                   | We Recommend                 |
-|----------------------------|------------------------------|
-| Word processing            | [LibreOffice](libreoffice/)  |
-| Raster image editing       | [Pinta](pinta/)              |
-| Vector drawing             | [Inkscape](inkscape/)        |
-| 3D modeling                | [Art of Illusion](aoi/)      |
-|                            | [Sweethome 3D](sweethome3d/) |
-| Editing audio files        | [Audacity](audacity/)        |
-| Editing video files        | [Openshot](openshot/)        |
-| Converting audio and video | [FFmpeg](ffmpeg/)            |
-|                            | [Handbrake](handbrake/)      |
+### [Word processing with LibreOffice](libreoffice/)
+
+### [Raster image editing with Pinta](pinta/) 
+
+### [Vector drawing with Inkscape](inkscape/) 
+
+### [Creating 3D models with Art of Illusion](aoi/) 
+
+### [Creating 3D scenes with Sweethome 3D](sweethome3d/) 
+
+### [Editing audio files with Audacity](audacity/) 
+
+### Editing video files [Shotcut](openshot/) 
+
+ Converting audio and video [FFmpeg](ffmpeg/) 
+ [Handbrake](handbrake/) 
 
 Follow the links to a short article about each program. Most of them
 are presently just stubs, but when finished each will include a brief
