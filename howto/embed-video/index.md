@@ -18,10 +18,12 @@ player in a page in much the same way we embed images using the &lt;img&gt;
 tag. It can be as simple as this:
 
   &lt;video src="myvideo.mp4" style="width: 640px; height: 360px" controls&gt;
+  &lt;/video&lt;
 
 Which produces:
 
   <video src="myvideo.mp4" style="width: 640px; height: 360px" controls>
+  </video>
 
 Provided the browser has the proper decoders for myvideo.mp4, this will work.
 There are two video formats on the web today: MP4 and Webm. Most browsers (as
