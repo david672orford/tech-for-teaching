@@ -17,8 +17,10 @@ Nowadays we have the HTML &lt;video&gt; tag which is used to embed a video
 player in a page in much the same way we embed images using the &lt;img&gt;
 tag. It can be as simple as this:
 
-  &lt;video src="myvideo.mp4" style="width: 640px; height: 360px" controls&gt;
-  &lt;/video&gt;
+```html
+<video src="myvideo.mp4" style="width: 640px; height: 360px" controls>
+</video>
+```
 
 Which produces:
 
@@ -33,7 +35,7 @@ one to play:
 
   &lt;video style="width: 640px; height: 360px" controls&gt;
     &lt;source src="myvideo.webm" type="video/webm"&gt;
-    &lt;<source src="myvideo.mp4" type="video/mp4"&gt;
+    &lt;source src="myvideo.mp4" type="video/mp4"&gt;
   &lt;/video&gt;
 
 Which should look the same, but play most anywhere:
