@@ -24,8 +24,8 @@ tag. It can be as simple as this:
 
 Which produces:
 
-  <video src="myvideo.mp4" style="width: 640px; height: 360px" controls>
-  </video>
+<video src="myvideo.mp4" style="width: 640px; height: 360px" controls>
+</video>
 
 Provided the browser has the proper decoders for myvideo.mp4, this will work.
 There are two video formats on the web today: MP4 and Webm. Most browsers (as
@@ -33,17 +33,19 @@ of 2019) support both, but if you want to be sure at least 99% of your visitors
 can view your video, you should provide both and let the browser pick which
 one to play:
 
-  &lt;video style="width: 640px; height: 360px" controls&gt;
-    &lt;source src="myvideo.webm" type="video/webm"&gt;
-    &lt;source src="myvideo.mp4" type="video/mp4"&gt;
-  &lt;/video&gt;
+```html
+<video style="width: 640px; height: 360px" controls>
+ <source src="myvideo.webm" type="video/webm">
+ <source src="myvideo.mp4" type="video/mp4">
+</video>
+```
 
 Which should look the same, but play most anywhere:
 
-  <video style="width: 640px; height: 360px" controls>
-    <source src="myvideo.webm" type="video/webm">
-    <source src="myvideo.mp4" type="video/mp4">
- </video>
+<video style="width: 640px; height: 360px" controls>
+  <source src="myvideo.webm" type="video/webm">
+  <source src="myvideo.mp4" type="video/mp4">
+</video>
 
 ## Responsive Video Player
 
@@ -59,7 +61,8 @@ You can encode your videos for the web using a video editor such as
 Shotcut. Or you can use a video tool such as FFmpeg. Here are the
 commands we used to encode our sample video:
 
- ffmpeg -i myvideo_original.mp4 \
+```bash
+ffmpeg -i myvideo_original.mp4 \
   -c:v libx264 -profile:v high -level 4.1 -preset slow -pix_fmt yuv420p -crf 30 \
   -strict experimental -c:a aac -ar 48000 \
   -vf scale=640:-1 \
@@ -70,4 +73,7 @@ commands we used to encode our sample video:
   -c:a libopus -ar 48000 \
   -vf scale=640:-1 \
   myvideo.webm
+```
+
+
 
