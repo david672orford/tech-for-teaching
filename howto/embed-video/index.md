@@ -18,7 +18,7 @@ player in a page in much the same way we embed images using the &lt;img&gt;
 tag. It can be as simple as this:
 
   &lt;video src="myvideo.mp4" style="width: 640px; height: 360px" controls&gt;
-  &lt;/video&lt;
+  &lt;/video&gt;
 
 Which produces:
 
@@ -32,8 +32,8 @@ can view your video, you should provide both and let the browser pick which
 one to play:
 
   &lt;video style="width: 640px; height: 360px" controls&gt;
-    <source src="myvideo.webm" type="video/webm">
-    <source src="myvideo.mp4" type="video/mp4">
+    &lt;source src="myvideo.webm" type="video/webm"&gt;
+    &lt;<source src="myvideo.mp4" type="video/mp4"&gt;
   &lt;/video&gt;
 
 Which should look the same, but play most anywhere:
