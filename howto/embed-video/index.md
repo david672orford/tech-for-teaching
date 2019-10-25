@@ -49,15 +49,49 @@ Which should look the same, but play most anywhere:
 
 ## Responsive Video Player
 
-You will want to set the size of your video player, as we did in the
-examples above, otherwise it will be given some arbitrary small size.
-With a little more effort, the player can be made responsive, that
-is, it can be made to grow and shrink according to the size of the
-viewer's screen.
+But there is a problem with the players above. If the screen is narrow,
+as it might be on a smartphone, the right-hand side of the picture will
+be cut off. We really want the picture to get smaller while maintaining
+the same aspect ratio. We can do this, but we have to wrap the `<video>`
+tag in three `<div>` tags and style them:
 
-<div style="width:auto; border:thin solid green">
+```html
+<div style="width:auto">
   <div style="width:640px; max-width:100%">
-    <div style="position:relative; padding-top:56.25%">
+    <div style="padding-top:56.25%; position:relative">
+      <video style="position:absolute; top:0; left:0; width:100%; height:100%" controls>
+        <source src="myvideo.webm" type="video/webm">
+        <source src="myvideo.mp4" type="video/mp4">
+      </video>
+    </div>
+  </div>
+</div>
+```
+
+This looks complecated. Let's take it one step at a time starting from
+the outermost `<div>`:
+
+1. The outermost `<div>` has its width set to "auto" (which is the default).
+   It will fill all of the horizontal space between the margins. (Setting
+   it to "100%" not always work since that means "100% of the parent's width
+   which would be too wide if the parent has padding enabled.) This `<div>`
+   serves to create a context in which "100%" means "the space between
+   the left and right margins".
+2. The next `<div>` sets the width. It is 640 CSS pixels, up to the full
+   width of the first `<div>`.
+3. The third `<div>` establishes the height of our player. For layout purposes
+   this `<div>` is empty (since we are going to use absolute positioning on the
+   `<video>` tag which will take it out of the flow). It's height is established
+   by its top padding which we have set to "56.25%" (360 divided by 640 and
+   multiplied by 100). This is 56.25% of the *width* of the parent `<div>`,
+   so this establishes the desired aspect ratio. Finally
+4. Finally we 
+
+And we get this:
+
+<div style="width:auto">
+  <div style="width:640px; max-width:100%">
+    <div style="padding-top:56.25%; position:relative">
       <video style="position:absolute; top:0; left:0; width:100%; height:100%" controls>
         <source src="myvideo.webm" type="video/webm">
         <source src="myvideo.mp4" type="video/mp4">
