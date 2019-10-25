@@ -89,7 +89,7 @@ FOOTER {
 	}
 
 /* Syntax highlighting */
-CODE {
+PRE {
 	padding: .5em;
 	background-color: black;
 	color: white;
