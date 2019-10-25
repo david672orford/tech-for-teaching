@@ -91,8 +91,10 @@ FOOTER {
 /* Syntax highlighting */
 PRE {
 	padding: .5em;
-	background-color: black;
-	color: white;
+	background-color: white;
+	border: 1px solid black;
+	color: black;
+	margin: 0 1em;
 	}
 .nt {		/* tag */
 	color: blue;
