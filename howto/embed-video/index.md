@@ -85,7 +85,8 @@ the outermost `<div>`:
    by its top padding which we have set to "56.25%" (360 divided by 640 and
    multiplied by 100). This is 56.25% of the *width* of the parent `<div>`,
    so this establishes the desired aspect ratio. Finally
-4. Finally we 
+4. Finally we position the `<video>` element within the space created by
+   the third `<div>`.
 
 And we get this:
 
@@ -99,6 +100,51 @@ And we get this:
     </div>
   </div>
 </div>
+
+Try making your browser window narrower. Notice that the player shrinks in order to
+stay inside the viewport. Make it wider again and the player will expand up to up
+to 640px. Notice that the maximum width is set in the style of the second `<div>`
+and it is set by defining `width`, not `max-width`. If we take `width` out entirely,
+we get a player which will keep expanding no matter how wide we make the window:
+
+<div style="width:auto">
+  <div style="max-width:100%">
+    <div style="padding-top:56.25%; position:relative">
+      <video style="position:absolute; top:0; left:0; width:100%; height:100%" controls>
+        <source src="myvideo.webm" type="video/webm">
+        <source src="myvideo.mp4" type="video/mp4">
+      </video>
+    </div>
+  </div>
+</div>
+
+This may seem like a tedious way to insert a video, and it is, particularly
+if we have to do it several times. We can make it a little easier by putting
+this in our CSS stylesheet
+
+```css
+.responsive-video { width:auto }
+.responsive-video DIV { max-width:100% }
+.responsive-video DIV DIV { padding-top:56.25%; position: relative }
+.responsive-video VIDEO { position:absolute; top:0; left:0; width:100%; height:100% }
+```
+
+Then we can reduce the HTML to this:
+
+```html
+<div class="responsive-video">
+  <div>
+    <div>
+      <video controls>
+        <source src="myvideo.webm" type="video/webm">
+        <source src="myvideo.mp4" type="video/mp4">
+      </video>
+    </div>
+  </div>
+</div>
+```
+
+Still not pretty, but neater.
 
 ## Encoding the Video
 
@@ -119,4 +165,9 @@ ffmpeg -i myvideo_original.mp4 \
   -vf scale=640:-1 \
   myvideo.webm
 ```
+
+## Adaptive Bitrate Video
+
+TODO
+
 
