@@ -11,10 +11,10 @@ use Flash. What is more, Flash has never worked on iPads and iPhones, is seldom
 installed on Android tablets, and support for it is being dropped from web
 browsers. You should not use Flash for your videos.
 
-## The &lt;video&gt; Tag
+## The `<video>` Tag
 
-Nowadays we have the HTML &lt;video&gt; tag which is used to embed a video
-player in a page in much the same way we embed images using the &lt;img&gt;
+Nowadays we have the HTML `<video>` tag which is used to embed a video
+player in a page in much the same way we embed images using the `<img>`
 tag. It can be as simple as this:
 
 ```html
@@ -74,6 +74,4 @@ ffmpeg -i myvideo_original.mp4 \
   -vf scale=640:-1 \
   myvideo.webm
 ```
-
-
 
