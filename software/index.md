@@ -24,25 +24,18 @@ formats.
 
 ## Our Recommendations
 
-### [Word processing with LibreOffice](libreoffice/)
+### Document Preparation
+* [Word processing with LibreOffice](libreoffice/)
 
-### [Raster image editing with Pinta](pinta/) 
+### Creating and Editing Images
+* [Raster image editing with Pinta](pinta/) 
+* [Vector drawing with Inkscape](inkscape/) 
+* [Creating 3D models with Art of Illusion](aoi/) 
+* [Creating 3D scenes with Sweethome 3D](sweethome3d/) 
 
-### [Vector drawing with Inkscape](inkscape/) 
-
-### [Creating 3D models with Art of Illusion](aoi/) 
-
-### [Creating 3D scenes with Sweethome 3D](sweethome3d/) 
-
-### [Editing audio files with Audacity](audacity/) 
-
-### Editing video files [Shotcut](openshot/) 
-
- Converting audio and video [FFmpeg](ffmpeg/) 
- [Handbrake](handbrake/) 
-
-Follow the links to a short article about each program. Most of them
-are presently just stubs, but when finished each will include a brief
-description, at link to its website so you can download it, and
-tips for using it in education.
+### Audio and Video
+* [Editing Audio Files with Audacity](audacity/) 
+* [Editing Video Files with Shotcut](openshot/) 
+* [Converting Audio and Video with FFmpeg](ffmpeg/) 
+* [Converting Video with Handbrake](handbrake/) 
 

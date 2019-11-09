@@ -40,12 +40,14 @@ one to play:
 </video>
 ```
 
-Which should look the same, but play most anywhere:
+Which should look the same, but play most any browser:
 
 <video style="width: 640px; height: 360px" controls>
   <source src="myvideo.webm" type="video/webm">
   <source src="myvideo.mp4" type="video/mp4">
 </video>
+
+So far, this is not too difficult.
 
 ## Responsive Video Player
 
@@ -168,6 +170,24 @@ ffmpeg -i myvideo_original.mp4 \
 
 ## Adaptive Bitrate Video
 
-TODO
+The solutions above work well for small videos, and will often work for large
+videos too, provided you are very careful with the encoding options so that
+the browsers can download them a little at a time. A more serious problem
+is that all of your visitors have to download the same amount of data whether
+they are watching on a tiny 4" phone or a giant 4K monitor. One will waste bandwidth
+of detail his phone cannot show while the other will see a picture which is blury
+once it is blown up.
+
+The solution used by streaming services such as Netflix and Youtube is adaptive
+bitrate video. They encode each video three or four or more times with different
+compression settings during encodings. They then embed a special player in the
+page which picks one of video files and starts downloading it in chunks of a
+few seconds each. If it sees that it is downloading new chunks more slowly
+than it is playing them, it switches to a more compressed version of the
+video. If they are coming down much more quickly than they are needed, the
+player may switch to a less compressed video file, particularly if it
+sees that the video playback window is large.
+
+TO BE CONTINUED
 
 
