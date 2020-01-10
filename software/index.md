@@ -111,6 +111,8 @@ which we are still evaluating.
     <br>(Not yet evaluated.)
 * [TupiTube](http://www.tupitube.com/) --
     <br>(Not yet evaluated.)
+* [Wick Editor](https://www.wickeditor.com/) --
+    <br>(Not yet evaluated.)
 
 ### Stop Motion Animation
 * [qStopMotion](http://www.qstopmotion.org) --
