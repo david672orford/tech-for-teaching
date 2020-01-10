@@ -1,9 +1,9 @@
 ## Software for Creating Lessons
 
 The programs listed on this page may proved useful to you for preparing course
-materials. They are all available for free as [opensource software]
-(https://opensource.org/). We have favored software which works on Linux,
-Microsoft Windows, and Mac OS X.
+materials. They are all available for free as
+[opensource software](https://opensource.org/).
+We have favored software which works on Linux, Microsoft Windows, and Mac OS X.
 
 Most of these programs we actually use regularly and can recommend.
 In a few cases we describe programs which we found unsuitable or
