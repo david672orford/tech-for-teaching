@@ -79,6 +79,7 @@ DIV.author_blurb {
 		border: thin solid black;
 		}
 	DIV.author_box IMG {
+		height: auto;
 		width: 100%;
 		}
 	}
