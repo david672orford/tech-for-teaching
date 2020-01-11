@@ -50,14 +50,15 @@ TH, TD {
 	}
 
 DIV.author_box {
+	display: flex;
+	flex-direction: column;
+	font-size: 80%;
 	margin: 0 0 .3em .3em;
 	border: thin solid black;
-	font-size: 80%;
 	}
 DIV.author_box IMG {
 	display: block;
 	width: 20%;
-	float: left;
 	}
 DIV.author_byline {
 	font-weight: bold;
@@ -68,14 +69,13 @@ DIV.author_blurb {
 	}
 @media (min-width: 600px) {
 	DIV.author_box {
+		flex-direction: row;
+		float: right;
 		width: 15%;
 		max-width: 200px;
-		float: right;
 		}
 	DIV.author_box IMG {
 		width: 100%;
-		float: none;
-		margin-right: .2em;
 		}
 	}
 

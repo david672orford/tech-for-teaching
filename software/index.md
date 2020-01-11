@@ -34,6 +34,12 @@ which we are still evaluating.
 	Windows version: (https://www.fosshub.com/Evince.html)
 * [Calibre](https://calibre-ebook.com/) --
 	High quality ebook reader and ebook management system.
+* [Revealjs](https://github.com/hakimel/reveal.js) --
+	Javascript library which makes it easier to create presentation slides
+	in HTML. Scales them properly to fit the screen and provides controls
+	for switching slides, revealing points one at a time, etc. The library
+	is free. If you do not know how to write HTML, there is an online
+	presentation editor, but that requires a paid subscription.
 
 ### Audio Processing
 * [Audacity](https://www.audacityteam.org/) --
