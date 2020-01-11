@@ -53,8 +53,8 @@ DIV.author_box {
 	display: flex;
 	flex-direction: row;
 	font-size: 80%;
-	margin: 0 0 .3em .3em;
-	border: thin solid black;
+	margin-bottom: .3em;
+	border-bottom: thin solid black;
 	}
 DIV.author_box IMG {
 	display: block;
@@ -73,6 +73,8 @@ DIV.author_blurb {
 		float: right;
 		width: 15%;
 		max-width: 200px;
+		margin: .3em;
+		border: thin solid black;
 		}
 	DIV.author_box IMG {
 		width: 100%;
