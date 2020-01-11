@@ -61,7 +61,7 @@ DIV.author_box {
 	}
 DIV.author_box IMG {
 	display: block;
-	max-width: 15%;
+	width: 15%;
 	}
 DIV.author_byline {
 	font-weight: bold;
@@ -80,7 +80,6 @@ DIV.author_blurb {
 		border: thin solid black;
 		}
 	DIV.author_box IMG {
-		max-width: auto;
 		width: 100%;
 		}
 	}
