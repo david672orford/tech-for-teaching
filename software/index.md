@@ -57,67 +57,70 @@ which we are still evaluating.
 	Very capable command-line program for converting audio and video files
 	from one format to another.
 * [Handbrake](https://handbrake.fr/) --
-	Handbrake is an easy-to-use program for ripping DVD’s and converting video files.
-* [Vidcutter](https://github.com/ozmartian/vidcutter) --
-	A very basic program for trimming a video file
+	Handbrake is an easy-to-use program for ripping DVD’s and converting
+	video files from one format to another.
 * [Shotcut](https://www.shotcut.org) --
-	A good non-linear video editor. Import a bunch of video clips, arange
-	them on a timeline.
+	This is a good video non-linear video editor. Such editors are used to
+	assembled recorded video into a finished film. You load your video files
+	into the program, trim off unwanted material, and arrange them on a
+	timeline. You can then add transitions (such as fads and wipes), titles,
+	sound effects, and music. Then you can export the finished product as a
+	single video file.
+* [Youtube-DL](https://ytdl-org.github.io/youtube-dl/index.html) --
+	A command-line program for downloading videos from Youtube and other
+	websites. Useful if you want to show a video in class. You give it
+	the URL of the video's webpage and it does the rest.
 
 ### Raster Image Editing
 * [GIMP](https://www.gimp.org/) --
 	The Classic opensource image editor. An answer to Adobe Photoshop. Can be
-	bewildering for the casual user.
+	bewildering for the casual user which is why we recommend Pinta.
 * [Pinta](https://pinta-project.com) --
 	An easy-to-use image editor. Can be used to draw like MS Paint. Can crop photos
 	and adjust their color. Can load and save in BMP, PNG, JPEG, TIFF, and other
 	formats, but seeminly not GIF. Recommended.
-* [Krita](https://krita.org) --
-	Another answer to Photoshop. Has Linux and MS Windows versions, but may
-	not have a MacOS X version.
-	<br>(Not yet evaluated.)
 * [Imagemagick](https://www.imagemagick.org) --
 	If you need to convert one or two images, you can use one of the raster
 	graphics editors described above. But if you are processing hundreds
 	of images, you are better off using Imagemagick. It can be used as a
 	command-line program or you can use it as a library from your favorite
 	programming language.
+Other programs: [Krita](https://krita.org/)
 
 ### Vector Drawing
 * [Inkscape](https://inkscape.org/) --
     An excellent vector drawing program which uses SVG as its native format.
-  * [Inkscape: Guide to a Vector Drawing Program](http://tavmjong.free.fr/INKSCAPE/MANUAL/html/) --
-      Book describing the features of Inkscape. Written by one of the
-      program's authors.
-  * [Inkscape](https://en.flossmanuals.net/inkscape/_full/)
-      Draft version of a new (as of April 2019) book which explains the
-      basic features of Inkscape.
-  * [Mastering Inkscape in 2018](http://libregraphicsworld.org/blog/entry/mastering-inkscape-in-2018) --
-      Blog posting with recommendations of books and video lessons on how
-      to use Inkscape
-  * [Isometric Projection in Inkscape](http://ahninniah.blogspot.com/2013/04/isometric-projection-in-inkscape.html) --
-      Tutorial in drawing pseudo 3D pictures as done in technical drawings
+* [Inkscape: Guide to a Vector Drawing Program](http://tavmjong.free.fr/INKSCAPE/MANUAL/html/) --
+    Book describing the features of Inkscape. Written by one of the
+    program's authors.
+* [Inkscape](https://en.flossmanuals.net/inkscape/_full/)
+    Draft version of a new (as of April 2019) book which explains the
+    basic features of Inkscape.
+* [Mastering Inkscape in 2018](http://libregraphicsworld.org/blog/entry/mastering-inkscape-in-2018) --
+    Blog posting with recommendations of books and video lessons on how
+    to use Inkscape
+* [Isometric Projection in Inkscape](http://ahninniah.blogspot.com/2013/04/isometric-projection-in-inkscape.html) --
+    Tutorial in drawing pseudo 3D pictures as done in technical drawings
+* [Dia Diagram Editor](http://dia-installer.de/) --
+	Program for drawing flowchards, circuit diagrams, etc.
 
 ### 2D Animation
-* [Synfig Studio](https://www.synfig.org) --
-    2D animation studio. Animation is done by defining keyframes which
-    show where the parts of a drawing should be at particular times. The
-    program interpolates between these positions to determine where the part
-    should be at intermediate times. Exports to video. Attempts to create
-    exporters for web animations (SVG) have made little progress.
-  * [Synfig Tutorial](https://opensource.com/article/16/12/synfig-studio-animation-software-tutorial) --
-      An article which introduces Synfig Studio and shows to to start using it
-* [Pencil](https://www.pencil2d.org) --
-    <br>(Not yet evaluated.)
-* [TupiTube](http://www.tupitube.com/) --
-    <br>(Not yet evaluated.)
+* [Svg.svg](https://svgjs.com/) --
+	Javascript library for adding animation to SVG drawings. You can make a drawing in
+	Inkscape, put it on your web page, and then use this library to show and hide elements
+	(including layers), move things around, scale and rotate, them, all at a time
+	and speed you specify. Recommended for basic animation needs were a game platform
+	would be overkill.
 * [Wick Editor](https://www.wickeditor.com/) --
-    <br>(Not yet evaluated.)
+    A promising web application for creating animations.
+Other programs: [Synfig Studio](https://www.synfig.org/), [Pencil](https://www.pencil2d.org/),
+	[TupiTube](http://www.tupitube.com/)
 
 ### Stop Motion Animation
 * [qStopMotion](http://www.qstopmotion.org) --
 	Program to take a series of photos using a camera connected to your
-	computer and later assemble them into a video.
+	computer and later assemble them into a video. Works with webcams
+	and some SLR's.
 
 ### 3D Modeling
 * [Blender](https://www.blender.org) --
@@ -134,13 +137,7 @@ which we are still evaluating.
 	Javascript library for displaying a 3D model on a webpage so it can be
 	zoomed and rotated by the viewer.
 
-### Web Animation and Game Platforms
-* [Svg.svg](https://svgjs.com/) --
-	Javascript library for adding animation to SVG drawings. You can make a drawing in
-	Inkscape, put it on your web page, and then use this library to show and hide elements
-	(including layers), move things around, scale and rotate, them, all at a time
-	and speed you specify. Recommended for basic animation needs were a game platform
-	would be overkill.
+### Web Game Platforms
 * [Pixi](https://github.com/kittykatattack/learningPixi) --
 	Game plaform with 2D sprite animation
 	<br>(Not yet evaluated.)
@@ -152,3 +149,4 @@ which we are still evaluating.
 * [34 open source tools for creatives](https://opensource.com/article/16/12/yearbook-top-open-source-creative-tools-2016)
 * [Sil Language Technology's Products](http://software.sil.org/products/)
 * [9 flowchart and diagramming tools for Linux](https://opensource.com/article/18/8/flowchart-diagramming-linux)
+
