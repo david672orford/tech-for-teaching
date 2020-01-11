@@ -51,15 +51,13 @@ TH, TD {
 
 DIV.author_box {
 	margin: 0 0 .3em .3em;
-	width: 15%;
-	max-width: 200px;
 	border: thin solid black;
-	float: right;
 	font-size: 80%;
 	}
 DIV.author_box IMG {
-	width: 100%;
 	display: block;
+	width: 20%;
+	float: left;
 	}
 DIV.author_byline {
 	font-weight: bold;
@@ -67,6 +65,18 @@ DIV.author_byline {
 	}
 DIV.author_blurb {
 	margin: .4em;
+	}
+@media (min-width: 600px) {
+	DIV.author_box {
+		width: 15%;
+		max-width: 200px;
+		float: right;
+		}
+	DIV.author_box IMG {
+		width: 100%;
+		float: none;
+		margin-right: .2em;
+		}
 	}
 
 DIV.google_ads {
