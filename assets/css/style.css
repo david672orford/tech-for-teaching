@@ -51,7 +51,7 @@ TH, TD {
 
 DIV.author_box {
 	display: flex;
-	flex-direction: column;
+	flex-direction: row;
 	font-size: 80%;
 	margin: 0 0 .3em .3em;
 	border: thin solid black;
@@ -69,7 +69,7 @@ DIV.author_blurb {
 	}
 @media (min-width: 600px) {
 	DIV.author_box {
-		flex-direction: row;
+		flex-direction: column;
 		float: right;
 		width: 15%;
 		max-width: 200px;
