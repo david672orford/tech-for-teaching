@@ -4,6 +4,7 @@ HTML, BODY, HEADER, MAIN, H1, H2, UL, LI, TABLE, TR, TH, TD {
 	}
 BODY {
 	display: flex;
+	flex-direction: column;
 	background-color: white;
 	color: black;
 	font-size: 12pt;
