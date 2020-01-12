@@ -1,6 +1,6 @@
-##Libreoffice Writer Cookbook
+## Libreoffice Writer Cookbook
 
-###Using Stylesheets
+### Using Stylesheets
 
 Each handout should have a document title at the top with a style of
 Heading 1. The style of each subheading should be Heading 2. Neither
@@ -10,19 +10,19 @@ The use of blank lines to increase vertical space should be avoided.
 Instead use Format-&gt;Paragraph-&gt;Indents & Spacing to add more
 Spacing Above Paragraph or Below Paragraph.
 
-###Revision Date and Copyright Notice
+### Revision Date and Copyright Notice
 
 TODO
 
-###Adding Accent Marks
+### Adding Accent Marks
 
 TODO
 
-###Tables for Layout
+### Tables for Layout
 
 TODO
 
-###Inserting SVG Images
+### Inserting SVG Images
 
 1.  Insert-&gt;Image-&gt;From File
 2.  Choose the file and press Open.
@@ -35,7 +35,7 @@ crawl. If this happens, go to
 Tools-&gt;Options-&gt;Libreoffice-&gt;Memory and increase the graphics
 cache size to at least 128MB.
 
-###Creating PDF Forms
+### Creating PDF Forms
 
 1.  Go to View-&gt;Toolbars and enable Form Controls.
 2.  Toggle the “Design Mode” button on on the Form Controls toolbar.
@@ -43,7 +43,7 @@ cache size to at least 128MB.
     toolbar.
 4.  Click and drag on the screen to draw the control.
 
-###Inserting Hyperlinks
+### Inserting Hyperlinks
 
 1.  If the anchor text already exists, select it.
 2.  Choose Insert-&gt;Hyperlink from the main menu.
@@ -55,18 +55,18 @@ cache size to at least 128MB.
     already.
 5.  Press OK
 
-###Editing Hyperlinks
+### Editing Hyperlinks
 
 1.  Put the cursor just before the hyperlink.
 2.  Choose Edit-&gt;Hyperlink from the main menu.
 
-###Removing Hyperlinks
+### Removing Hyperlinks
 
 1.  Put the cursor just before the hyperlink.
 2.  Very carefully right click at the same location.
 3.  Choose Remove Hyperlink from the context menu.
 
-###Adding Index Entries
+### Adding Index Entries
 
 1.  Place cursor at beginning of word or if it is a phrase, select it
 2.  Choose Insert-&gt;Table of Contents and Index-&gt;Index Entry
@@ -78,7 +78,7 @@ cache size to at least 128MB.
 6.  If you wish, leave the dialog box open, select a different word, and
     return to step 3
 
-###Setting Variables in the Text
+### Setting Variables in the Text
 
 1.  Choose Insert-&gt;Fields-&gt;Other... from the main menu.
 2.  Choose the Variables tab.
@@ -89,21 +89,21 @@ cache size to at least 128MB.
 6.  Press the Insert button (only once).
 7.  Press the Close button.
 
-###Editing Variables in the Text
+### Editing Variables in the Text
 
 1.  Move the cursor to the small gray marker which indicates that a
     variable is set.
 2.  Choose Edit-&gt;Fields from the main menu.
 3.  Change the value and press the OK button.
 
-###Removing Variables from the Text
+### Removing Variables from the Text
 
 1.  Move the cursor to the small gray marker which indicates that a
     variable is set.
 2.  Delete it using the Delete or Backspace key as if it were a
     character.
 
-###Document Thumbnails
+### Document Thumbnails
 
 To disable document thumbnails, go to
 Tools-&gt;Options-&gt;Libreoffice-&gt;Advanced-&gt;Expert Configuration

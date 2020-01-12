@@ -1,4 +1,4 @@
-##Using Sweethome 3D
+## Using Sweethome 3D
 
 [Sweethome 3D](http://www.sweethome3d.com) is an easy-to-use program for
 creating 3D models of house interiors including walls, windows, door, and
