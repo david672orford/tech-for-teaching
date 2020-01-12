@@ -24,8 +24,8 @@ HEADER IMG {
 	max-width: 640px;
 	}
 H1 {
-	margin: .67em;	/* 1em */
 	font-size: 150%;
+	padding: .67em;	/* 1em */
 	color: inherit;
 	background-color: inherit;
 	}
