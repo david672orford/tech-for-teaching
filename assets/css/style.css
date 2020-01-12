@@ -1,4 +1,4 @@
-HTML, BODY, HEADER, MAIN, H1, H2, UL, LI, TABLE, TR, TH, TD {
+HTML, BODY, HEADER, MAIN, H1, H2, P, UL, LI, TABLE, TR, TH, TD {
 	margin: 0;
 	padding: 0;
 	}
@@ -36,6 +36,10 @@ H2, H3 {
 	}
 H3 {
 	font-size: 100%;
+	}
+
+P {
+	margin-bottom: .5em;
 	}
 
 UL {
