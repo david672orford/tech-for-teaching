@@ -1,20 +1,43 @@
 ## Software for Creating Lessons
 
 The programs listed on this page may proved useful to you for preparing course
-materials. They are all available for free as
-[opensource software](https://opensource.org/).
+materials. They are all available for free as [opensource software](https://opensource.org/).
 We have favored software which works on Linux, Microsoft Windows, and Mac OS X.
 
+Software for creating course materials should be easy-to-use. You should not
+have to spend years learning how to produces decent results. It should also be
+readily available to all so that you can share what you produce with your
+colleges who can then modify them for their needs. Finally it is best if your
+work can be stored in widely accepted formats which you will be able to open
+and use again for years.
+
+There requirements are not easy to meet. Programs for creative endevors can be
+very expensive. They often save your work in files which only they can open.
+Sometimes the format of these files changes between versions making it hard to
+open files you created only a few years ago.
+
+We also know that our readers use a variety of computers. While Microsoft
+Windows is widely used, Apple Macintosh computers are very popular in
+education. A few, including your author use Linux. For these reason, we try to
+only recommend programs which run well on all three platforms.  All of the
+programs recommended are available free-of-charge on the Internet from
+reputable web sites.  Finally, to the maximum extent possible we have chosen
+programs which either save in industry-standard formats or can export to such
+formats.
+
 Most of these programs we actually use regularly and can recommend.
-In a few cases we describe programs which we found unsuitable or
+In a few cases we describe well-known programs which we found unsuitable or
 which we are still evaluating.
 
 ### Document Preparation and Viewing
 * [Libreoffice](https://www.libreoffice.org/) --
-	A free office suite. A continuation of the Openoffice project. Includes
-	an excellent word processor called Write. Its native document format is
-	ODF which is an international standard and can be read and written by
-	most other word processors.
+	Libreoffice is a version of the popular [Openoffice](https://www.openoffice.org/) suite.
+	This version is updated more frequently than the original.
+	We particularly recommend the word processor which is called Write. Its native
+	document format is ODF which is an international standard and can be read and
+	written by most other word processors including Microsoft Word. See our
+	[Libreoffice Cookbook](libreoffice/) for hints on using Write to produce
+	classroom handouts.
 * [ODF Format Specification](http://docs.oasis-open.org/office/v1.2/cs01/OpenDocument-v1.2-cs01.html) --
 	Technical description of the file format used by Libreoffice. ODF files
 	are ZIP archives which contain XML files in a format which is relatively
@@ -30,10 +53,11 @@ which we are still evaluating.
 	reflowable HTML first while preserving most formatting. To run this
 	program you must have Python 2 installed on your computer.
 * [Evince](https://wiki.gnome.org/Apps/Evince/)
+	[Windows version](https://www.fosshub.com/Evince.html) --
 	Document viewer for electronic document formats including PDF and DjVu.
-	Windows version: (https://www.fosshub.com/Evince.html)
 * [Calibre](https://calibre-ebook.com/) --
 	High quality ebook reader and ebook management system.
+
 Other programs:
 	[Abiword](),
 	[Calgra Words](https://www.calligra.org/words/),
@@ -68,7 +92,16 @@ Other programs:
 	Has classic media player controls.
 * [FFmpeg](https://www.ffmpeg.org) --
 	Very capable command-line program for converting audio and video files
-	from one format to another.
+	from one format to another or making them smaller in preparation for
+	distribution. It has numerous options for cropping video, selecting
+	start and end times, and much more. As a command-line tool, FFmpeg takes
+	more effort to use the first few times, but once you have figured out
+	the commands you need, you can make a cheat sheet or a script so that
+	you can use them quickly without struggling to figure out what buttons
+	you pressed in some GUI conversion tool. There are FFmpeg cookbooks on the
+	web where you can find most of the commands you will need. These include
+	[FFmprovisr](https://amiaopensource.github.io/ffmprovisr/) and our
+	own [FFmpeg Cookbook](ffmpeg/).
 * [Handbrake](https://handbrake.fr/) --
 	Handbrake is an easy-to-use program for ripping DVD’s and converting
 	video files from one format to another.
@@ -99,7 +132,9 @@ Other programs:
 	command-line program or you can use it as a library from your favorite
 	programming language.
 
-Other programs: [Krita](https://krita.org/)
+Other programs:
+	[Krita](https://krita.org/),
+	[MyPaint](http://mypaint.org/)
 
 ### Vector Drawing
 * [Inkscape](https://inkscape.org/) --
@@ -144,10 +179,11 @@ Other programs: [Synfig Studio](https://www.synfig.org/), [Pencil](https://www.p
 	time commitment to learn it, so it is not a good choice for occasional use
 	to create simple models.
 * [Art of Illusion](http://www.artofillusion.org) --
-	Easy-to-use 3D modeler. Written in Java, so it will run on most computers.
+	An easy-to-use 3D modeler. Written in Java, so it will run on most computers.
 	Saves in its own inscrutible format, but can export in OBJ and VRML formats.
 * [Sweet Home 3D](http://www.sweethome3d.com) --
-	Easy-to-use program for creating 3D models of rooms with doors, windows, and furniture
+	An easy-to-use program for creating 3D models of rooms with doors, windows, and furniture.
+	See our article [Using Sweethome 3D](sweethome/).
 * [X3dom](https://www.x3dom.org/) --
 	Javascript library for displaying a 3D model on a webpage so it can be
 	zoomed and rotated by the viewer.
@@ -161,7 +197,13 @@ Other programs: [Synfig Studio](https://www.synfig.org/), [Pencil](https://www.p
 	<br>(Not yet evaluated.)
 
 ### Other Software Lists
-* [34 open source tools for creatives](https://opensource.com/article/16/12/yearbook-top-open-source-creative-tools-2016)
-* [Sil Language Technology's Products](http://software.sil.org/products/)
-* [9 flowchart and diagramming tools for Linux](https://opensource.com/article/18/8/flowchart-diagramming-linux)
+* [34 open source tools for creatives](https://opensource.com/article/16/12/yearbook-top-open-source-creative-tools-2016) --
+	Describes applications for creating documents, drawings, videos, music, typefaces, and 3D models
+* [Sil Language Technology's Products](http://software.sil.org/products/) --
+	Software to help produce texts in languages for which adequate typefaces, dictionaries, and
+	other tools are not yet available.
+* [9 flowchart and diagramming tools for Linux](https://opensource.com/article/18/8/flowchart-diagramming-linux) --
+	Describes programs for producing diagrams such as flowcharts, organizational charts, and circuit schematics.	
+* [Pixls](https://pixls.us/) --
+	Opensource tools for photographers
 

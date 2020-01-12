@@ -3,22 +3,15 @@ HTML, BODY, HEADER, MAIN, H1, H2, UL, LI, TABLE, TR, TH, TD {
 	padding: 0;
 	}
 BODY {
-	display: flex;
-	flex-direction: column;
 	height: 100%;
 	background-color: white;
 	color: black;
 	font-size: 12pt;
 	}
-DIV.middle {
-	flex-grow: 1;
-	overflow: auto;
-	}
 MAIN {
 	margin: .8em;
 	}
 HEADER, FOOTER {
-	flex-shrink: 0;
 	font-family: sans-serif;
 	color: white;
 	background-color: #c88200;
@@ -45,7 +38,7 @@ H3 {
 	}
 
 UL {
-	padding-left: 2em;
+	padding-left: 1.2em;
 	}
 LI {
 	margin: .4em 0;
@@ -100,13 +93,13 @@ DIV.google_ads {
 	}
 
 FOOTER {
-	display: flex;
-	justify-content: space-between;
 	/*position: fixed;
 	left: 0;
 	bottom: 0;
-	right: 0;
-	padding: .5em;*/
+	right: 0;*/
+	display: flex;
+	justify-content: space-between;
+	padding: .5em;
 	}
 
 /* Syntax highlighting */

@@ -1,15 +1,11 @@
-Libreoffice Writer
-========================
+Libreoffice Writer Cookbook
+===========================
 
-[Libreoffice Writer](https://www.libreoffice.org) is a good general-purpose
-word processor. It is part of the Libreoffice suite of office software.
-It can load and save files in ODF format and in many of the formats which
-Microsoft Word has used over the years.
 
-Stylesheet
-----------
+Using Stylesheets
+-----------------
 
-Each handout must have a document title at the top with a style of
+Each handout should have a document title at the top with a style of
 Heading 1. The style of each subheading should be Heading 2. Neither
 heading should contain manual formatting.
 
@@ -32,8 +28,8 @@ Tables for Layout
 
 TODO
 
-SVG Images
-----------
+Inserting SVG Images
+--------------------
 
 1.  Insert-&gt;Image-&gt;From File
 2.  Choose the file and press Open.
@@ -46,8 +42,8 @@ crawl. If this happens, go to
 Tools-&gt;Options-&gt;Libreoffice-&gt;Memory and increase the graphics
 cache size to at least 128MB.
 
-PDF Forms
----------
+Creating PDF Forms
+------------------
 
 1.  Go to View-&gt;Toolbars and enable Form Controls.
 2.  Toggle the “Design Mode” button on on the Form Controls toolbar.

@@ -1,25 +1,10 @@
-FFmpeg
-==================================
+FFmpeg Cookbook
+===============
 
-[FFmpeg](https://www.ffmpeg.org) is a command-line program for processing audio and video recordings.
-It is widely used to convert files from one format to another or to
-recompress them to make them small enough for distribution. It has numerous
-options for cropping video, selecting start and end times, and much more.
+Here are FFmpeg commands which we have found useful.
 
-This program is is not intended as an easy-to-use tool for beginners. But
-many easy-to-use tools use FFmpeg to do the work behind the scenes. But it
-can be used by non-experts thanks to the numerous recipies available on the
-Internet.
-
-## Links
-
-* https://amiaopensource.github.io/ffmprovisr/
-
-## Recipes
-
-Here are some recipes which are likely to be useful to teachers.
-
-### Trim a Video File
+Trim a Video File
+-----------------
 
 These commands both cut an eight-second piece out of movie.mp4 starting three
 seconds in and save it as clip.mp4:
@@ -41,7 +26,8 @@ The parameters:
 **-c copy** copy the audio and video information unchanged. This preserves
       the quality and leaves the compression method the same.
 
-### Reencode a Video File (H.264 codec)
+Reencode a Video File (H.264 codec)
+-----------------------------------
 
 The general form of the command is:
 
@@ -62,7 +48,8 @@ These options are known to work with the FFmpeg supplied with Ubuntu 18.04:
 
     -strict experimental -c:a aac -ar 48000
 
-### Reencoding a Video File (VP9 codec)
+Reencoding a Video File (VP9 codec)
+-----------------------------------
 
 The general form of the command is:
 
@@ -76,13 +63,12 @@ And here are reasonable audio options:
 
 	-c:a libopus -ar 48000
 
-### Scaling
+Scaling the Video
+-----------------
 
 To reduce the resolution of the image, use the scale video filter. For example,
 if you have 1280x720 video and want to reduce it to 640x360, add this
 filter to the ffmpeg command:
 
     -vf scale=640:-1
-
-
 
