@@ -62,7 +62,6 @@ DIV.author_box {
 DIV.author_box IMG {
 	display: block;
 	width: 15%;
-	min-width: 5em;
 	}
 DIV.author_byline {
 	font-weight: bold;
