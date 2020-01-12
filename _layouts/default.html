@@ -10,11 +10,10 @@
 
 <header>
   <h1><a href="{{ "/" | absolute_url }}">{{ site.title }}</a></h1>
+  {% if page.title_img %}
+  <img class="title" src="{{ page.title_img }}" alt="{{ page.title_alt }}">
+  {% endif %}
 </header>
-
-{% if page.title_img %}
-<img class="title" src="{{ page.title_img }}" alt="{{ page.title_alt }}">
-{% endif %}
 
 <div class="author_box">
   <img src="/assets/images/author.jpg">
