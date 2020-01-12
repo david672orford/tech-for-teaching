@@ -3,7 +3,7 @@ title_img: russian_letters.jpg
 title_alt: A child's plastic toy letters lie scattered on a surface.
 ---
 Understanding Typefaces
-=======================
+-----------------------
 
 * [Typeface Concepts](concepts/)
 * [Standard Typefaces on Personal Computers](standard/)
