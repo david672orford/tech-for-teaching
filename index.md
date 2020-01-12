@@ -1,3 +1,5 @@
+<img class="title" src="assets/images/title/image.png">
+
 I created this site to share what I have learned about using computer
 technology, especially opensource software to create classroom handouts,
 videos, audio lessons, and instructional websites. It is intended for an

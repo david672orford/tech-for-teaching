@@ -38,6 +38,11 @@ H3 {
 	font-size: 100%;
 	}
 
+IMG.title {
+	width: 100%;
+	max-width: 640px;
+	}
+
 P {
 	margin-bottom: .5em;
 	}
