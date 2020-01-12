@@ -35,14 +35,14 @@ be able to use in instructional materials which you produce.
 
 ### Photographs
 * [Librestock](https://librestock.com/)
-	--Search dozens of free stock photo sites in one place
-* [Wikimedia Commons](https://commons.wikimedia.org/wiki/Main_Page)
-	--Collection of usable images, sounds, and video
+	--Search dozens of free stock photo sites at once
 * [Creative Commons Image Search](https://search.creativecommons.org/)
-	--Convenient gateway to search engines which can find free-to-use images
-* [Stocksnap](https://stocksnap.io/)
-	--High-quality stock photographs. Images of nature, landscapes, people,
-	illustration of themes. CC0 license.
+	--Search for images with a [Creative Commons](https://creativecommons.org/)
+	license on various websites. You can choose limit your search to the more
+	permissive licenses, if you wish.
+* [Wikimedia Commons](https://commons.wikimedia.org/wiki/Main_Page)
+	--Collection of images, sounds, and video collected for use in Wikipedia and
+	other projects
 * [Flickr: The Commons](https://www.flickr.com/commons)
 	--Collection of public domain images. Many historical images from museum
 	photograph collections and out-of-copyright books.
@@ -53,6 +53,11 @@ be able to use in instructional materials which you produce.
 	--Photoraphs and drawings provided by the National Cancer Institute.
 	Copyright status indicated for each. They ask to be credited as the source
 	even for the public domain images.
+* [Stocksnap](https://stocksnap.io/)
+	--High-quality stock photographs. Images of nature, landscapes, people,
+	illustration of themes. CC0 license. Watch out though, when you search they
+	display results from Shutterstock above their own results which is very
+	confusing.
 * [Pixabay](https://pixabay.com/)
 	--Large collection of high-quality photographs and a smaller number
 	drawings and video clips). Tends toward the artistic and the illustration

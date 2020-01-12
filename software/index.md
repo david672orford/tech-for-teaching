@@ -204,6 +204,6 @@ Other programs: [Synfig Studio](https://www.synfig.org/), [Pencil](https://www.p
 	other tools are not yet available.
 * [9 flowchart and diagramming tools for Linux](https://opensource.com/article/18/8/flowchart-diagramming-linux) --
 	Describes programs for producing diagrams such as flowcharts, organizational charts, and circuit schematics.	
-* [Pixls](https://pixls.us/) --
-	Opensource tools for photographers
+* [Pixls](https://pixls.us/software/) --
+	A photographer's list of opensource tools
 
