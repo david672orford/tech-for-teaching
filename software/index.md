@@ -34,6 +34,13 @@ which we are still evaluating.
 	Windows version: (https://www.fosshub.com/Evince.html)
 * [Calibre](https://calibre-ebook.com/) --
 	High quality ebook reader and ebook management system.
+Other programs:
+	[Abiword](),
+	[Calgra Words](https://www.calligra.org/words/),
+	[OnlyOffice](https://github.com/ONLYOFFICE/),
+	[WordGrinder](https://cowlark.com/wordgrinder/)
+
+### Lecture Slides
 * [Revealjs](https://github.com/hakimel/reveal.js) --
 	Javascript library which makes it easier to create presentation slides
 	in HTML. Scales them properly to fit the screen and provides controls
@@ -55,7 +62,7 @@ which we are still evaluating.
 	[Sil.org](http://software.sil.org/downloads/r/readingappbuilder/Reading-App-Builder-07-Using-aeneas-for-Audio-Text-Synchronization.pdf).
 	<br>(Not yet evaluated.)
 
-## Video Processing and Viewing
+### Video Processing and Viewing
 * [VLC](https://www.videolan.org) --
 	A good solid all-around video player which will play most any file.
 	Has classic media player controls.
@@ -91,6 +98,7 @@ which we are still evaluating.
 	of images, you are better off using Imagemagick. It can be used as a
 	command-line program or you can use it as a library from your favorite
 	programming language.
+
 Other programs: [Krita](https://krita.org/)
 
 ### Vector Drawing
@@ -119,6 +127,7 @@ Other programs: [Krita](https://krita.org/)
 	would be overkill.
 * [Wick Editor](https://www.wickeditor.com/) --
     A promising web application for creating animations.
+
 Other programs: [Synfig Studio](https://www.synfig.org/), [Pencil](https://www.pencil2d.org/),
 	[TupiTube](http://www.tupitube.com/)
 
