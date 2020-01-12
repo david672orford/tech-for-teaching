@@ -54,7 +54,7 @@ TH, TD {
 DIV.author_box {
 	display: flex;
 	flex-direction: row;
-	/*align-items: stretch;*/
+	align-items: start;
 	font-size: 80%;
 	margin-bottom: .3em;
 	border-bottom: thin solid black;
@@ -62,6 +62,7 @@ DIV.author_box {
 DIV.author_box IMG {
 	display: block;
 	width: 15%;
+	min-width: 5em;
 	}
 DIV.author_byline {
 	font-weight: bold;
