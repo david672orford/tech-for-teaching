@@ -54,7 +54,7 @@ TH, TD {
 DIV.author_box {
 	display: flex;
 	flex-direction: row;
-	align-items: stretch;
+	/*align-items: stretch;*/
 	font-size: 80%;
 	margin-bottom: .3em;
 	border-bottom: thin solid black;
