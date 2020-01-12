@@ -1,10 +1,10 @@
-On this site I share my experience using computer technology, especially
-opensource software to create classroom handouts, videos, audio lessons,
-and instructional websites. It is intended for an audiance which is already
-comfortable using desktop computer software and already knows how to perform
-computing tasks such as organizing files, creating documents, and
-uploading materials to a website. This site is about taking things to the
-next level.
+I created this site to share what I have learned about using computer
+technology, especially opensource software to create classroom handouts,
+videos, audio lessons, and instructional websites. It is intended for an
+audiance which is already comfortable using desktop computer software and
+already knows how to perform computing tasks such as organizing files, creating
+documents, and uploading materials to a website. This site is about taking
+things to the next level.
 
 ## [Software Reviews](software/)
 The opensource software which I use, why I have chosen it, and tips

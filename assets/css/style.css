@@ -10,7 +10,7 @@ BODY {
 	font-size: 12pt;
 	}
 MAIN {
-	margin: .8em;
+	margin: .5em;
 	}
 HEADER, FOOTER {
 	font-family: sans-serif;
@@ -62,7 +62,7 @@ DIV.author_box {
 	flex-direction: row;
 	align-items: start;
 	font-size: 80%;
-	margin: .3em;
+	margin: .5em;
 	border: thin solid black;
 	order: 99;		/* move to end */
 	}
@@ -97,7 +97,7 @@ DIV.google_ads {
 	clear: both;
 	width: 80%;
 	max-width: 600px;
-	margin: .3em;
+	margin: .5em;
 	border: thin solid #808080;
 	order: 99;
 	}
