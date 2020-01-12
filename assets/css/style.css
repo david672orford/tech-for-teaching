@@ -101,6 +101,7 @@ FOOTER {
 	display: flex;
 	justify-content: space-between;
 	padding: .5em;
+	order: 99;
 	}
 
 /* Syntax highlighting */
