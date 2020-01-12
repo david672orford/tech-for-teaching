@@ -73,7 +73,11 @@ DIV.author_byline {
 DIV.author_blurb {
 	margin: .4em;
 	}
+
 @media (min-width: 600px) {			/* if screen is wide enough, move author back to the right */
+	BODY {
+		display: block;
+		}
 	DIV.author_box {
 		flex-direction: column;
 		float: right;
@@ -92,6 +96,7 @@ DIV.google_ads {
 	margin: 2em .5em .5em .5em;
 	width: 80%;
 	max-width: 600px;
+	order: 99;
 	}
 
 FOOTER {
