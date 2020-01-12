@@ -17,17 +17,14 @@ HEADER, FOOTER {
 	color: white;
 	background-color: #c88200;
 	}
-HEADER {
-	padding: 1em;
-	}
-IMG.title {
+HEADER IMG {
 	display: block;
 	margin: 0 auto;
 	width: 100%;
 	max-width: 640px;
 	}
-
 H1 {
+	margin: .67em;	/* 1em */
 	font-size: 150%;
 	color: inherit;
 	background-color: inherit;
