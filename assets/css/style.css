@@ -121,12 +121,12 @@ FOOTER {
 
 /* Syntax highlighting */
 PRE {
-	display: inline-block;
+	display: inline-block;		/* shrink to width */
 	padding: .5em;
 	background-color: white;
 	border: 1px solid black;
 	color: black;
-	margin: 0 1em .5em 1em;
+	margin: 0 .5em .5em .5em;
 	}
 .nt {		/* tag */
 	color: blue;
