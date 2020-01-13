@@ -30,7 +30,7 @@ has waived all rights. This is frequently done using the
 [CC0 Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).
 
 From the standpoint of one who wants to use stock material, the next best thing
-to the public domain is a [Creative Commons Licenses](https://creativecommons.org/licenses).
+to the public domain is a [Creative Commons license](https://creativecommons.org/licenses).
 That is because these licenses clearly spell out how you may use a work, including whether you may
 modify it or incorporate it into your work, and any notices which you must provide.
 
@@ -72,9 +72,9 @@ provides [a good explanation](https://www.quora.com/What-is-the-best-way-to-get-
 * [Librestock](https://librestock.com/)
 	--Search dozens of free stock photo sites at once
 * [Creative Commons Image Search](https://search.creativecommons.org/)
-	--Search for images with a [Creative Commons](https://creativecommons.org/)
-	license on various websites. You can choose limit your search to the more
-	permissive licenses, if you wish.
+	--Search the internet for images with a [Creative Commons](https://creativecommons.org/)
+	license. If you wish, you can limit your search to the more
+	permissive licenses.
 * [Wikimedia Commons](https://commons.wikimedia.org/wiki/Main_Page)
 	--Collection of images, sounds, and video collected for use in Wikipedia and
 	other projects
@@ -86,28 +86,39 @@ provides [a good explanation](https://www.quora.com/What-is-the-best-way-to-get-
 	The license statement prohibits commercial use.
 * [NCI Visuals Online](https://visualsonline.cancer.gov/)
 	--Photoraphs and drawings provided by the National Cancer Institute.
-	Copyright status indicated for each. They ask to be credited as the source
+	Copyright status indicated for each. They
+	[ask to be credited as the source](https://visualsonline.cancer.gov/about.cfm)
 	even for the public domain images.
-* [Stocksnap](https://stocksnap.io/)
-	--High-quality stock photographs. Images of nature, landscapes, people,
-	illustration of themes. CC0 license. Watch out though, when you search they
-	display results from Shutterstock above their own results which is very
-	confusing.
 * [Pixabay](https://pixabay.com/)
-	--Large collection of high-quality photographs and a smaller number
-	drawings and video clips). Tends toward the artistic and the illustration
+	--Large collection of high-resolution photographs and a smaller number
+	drawings and video clips. Tends toward the artistic and the illustration
 	of themes. Some are artistic montages with heavy atmospheric filtering.
 	Has some nudes. (There is a filter for excluding them.)
 	Originally everything on this site was released to the public domain,
 	but starting on January 9, 2019 they began
 	[licensing](https://pixabay.com/service/terms/) them instead.
+* [Pexels](https://www.pexels.com/)
+	--High-resolution stock photographs.
+	Uses the same [license](https://www.pexels.com/photo-license/).
+	In May of 2019 it was [announced](https://about.canva.com/news/canva-acquires-pexels-pixabay/)
+	that both sites were bought bo Canva. Confusingly the announcement says that the photos
+	will be "completely free under a Creative Commons CC0 licence".
 * [Unsplash](https://unsplash.com/)
-	--Yet another site with high-quality stock photographs. Originally everything
-	was released to the public domain, but sometime between May 30 and June 8, 2017
-	they started [licensing](https://unsplash.com/terms) them instead. Unsplash
-	[acknowledges](https://medium.com/@UserRoadmap/unsplash-is-no-longer-under-a-cc0-license-do-you-care-13d5656053b7)
+	--High-resolution stock photographs.
+	Originally everything was released to the public domain, but sometime between
+	May 30 and June 8, 2017 they started [licensing](https://unsplash.com/terms)
+	them instead. Unsplash [acknowledges](https://medium.com/@UserRoadmap/unsplash-is-no-longer-under-a-cc0-license-do-you-care-13d5656053b7)
 	that the public domain dedication still applies to photos uploaded before they
 	introduced their license. However, they decline to clearly mark them.
+* [Stocksnap](https://stocksnap.io/)
+	--High-resolution stock photographs.
+	Images of nature, landscapes, people, illustration of themes. Still uses the
+	CC0 public domain dedication. Watch out though, when you search they display
+	results from Shutterstock above their own results which is very confusing.
+* [StockVault](https://www.stockvault.net)
+	--High-resolution stock photographs.
+	Uploaders choose a [license](https://www.stockvault.net/terms-of-use)
+	or CC0 public domain dedication.
 * [List of sites at Wikipedia](https://commons.m.wikimedia.org/wiki/Commons:Free_media_resources/Photography)
 	--List of image sources for possible use in Wikipedia articles
 * [List of sites at Wordpress.org](https://make.wordpress.org/themes/handbook/review/resources/#recommended-websites-for-images)
@@ -116,24 +127,27 @@ provides [a good explanation](https://www.quora.com/What-is-the-best-way-to-get-
 	--Question on Quora
 
 ### Video
+* [Librestock](https://video.librestock.com/)
+	--Search for CC0-licensed videos from stock footage sites
 * [Vimeo](https://vimeo.com/creativecommons)
 	--Videos on Vimeo which are tagged as being in the public domain or under
-	a Creative Commons license
+	a [Creative Commons license](https://creativecommons.org/license).
 * [Videvo](https://www.videvo.net/)
-	--Video clips, many under a Creative Commons license
+	--Video clips, many under a [Creative Commons license](https://creativecommons.org/license).
 * [Videzy](https://www.videezy.com/)
-	--More video clips. License terms indicated for each video
+	--More video clips. License terms indicated for each video.
 * [Pond5](https://www.pond5.com/public-domain-curated-collections)
 	--High-quality new stuff costs money, but they offer some old public
-	domain stuff for free
+	domain stuff for free.
 * [Best Stock Footage Sites You Wished You Already Knew!](https://blog.templatetoaster.com/best-stock-footage-sites/)
 	--Blog posting
 
 ### 3D Models and Textures
 * [Blend Swap](https://www.blendswap.com)
-	--
+	--Artists share models created with Blender. Many have been dedicated to
+	the public domain ore shared under a [Creative Commons license](https://creativecommons.org/licenses).
 * [Blogscopia](https://resources.blogscopia.com)
-	--
+	--Over 100 3D models in multiple formats including Blender and Sweethome3d.
 
 ### Sound Effects
 * [Freesound.org](https://freesound.org)
