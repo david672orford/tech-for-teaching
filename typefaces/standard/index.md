@@ -1,6 +1,6 @@
-# Standard Typefaces on Personal Computers
+## Standard Typefaces on Personal Computers
 
-## Three Basic Typefaces
+### Three Basic Typefaces
 
 While modern computer systems often have hundreds of fonts installed, they will
 almost always have versions of the following typeface families:
@@ -53,7 +53,7 @@ font when asked for Helvetica. This can occasionally cause problems because
 Droid Serif is a bit wider than Times. This is particularly troublesome in
 SVG illustrations were the right sides of lines of text can be cut off.
 
-## Adobe PostScript Fonts
+### Adobe PostScript Fonts
 
 The precedent for computer typeface was set by the Apple Macintosh computer
 and the LaserWriter printer which used the Adobe PostScript printer language.
@@ -112,7 +112,7 @@ below, Linux and Microsoft Windows computers have substitutes which look very
 similiar and have letters of the same width so the formatting of the document
 should not change.
 
-## The URW Fonts and GNU Freefont
+### The URW Fonts and GNU Freefont
 
 The increasing standardization on the Postscript typefaces created a problem.
 Indepently licensing a full set was difficult and expensive. This was
@@ -162,7 +162,7 @@ In this release some of the font names have been changed:
 There is also a [package of these fonts](https://github.com/ArtifexSoftware/urw-base35-fonts)
 which includes tweaks and configuration files for Fontconfig (the Linux font manager).
 
-## Microsoft's Compatible Fonts
+### Microsoft's Compatible Fonts
 
 Microsoft licensed typefaces from Monotype (the inventor of Times
 New Roman) instead of Linotype. These typefaces were created
@@ -194,7 +194,7 @@ fonts compatible with those in the PostScript 35 set:
 * Palatino Linotype: expanded version of Linotype's Palatino produced for Microsoft (Windows 2000)
 * Century Schoolbook
 
-## Microsoft's New Fonts
+### Microsoft's New Fonts
 
 In 1996 Microsoft released its
 [Core Fonts for the Web](https://en.wikipedia.org/wiki/Core_fonts_for_the_Web).
@@ -238,7 +238,7 @@ in any way. They can be downloaded from [Sourceforge](https://sourceforge.net/pr
 and other places. Before they can be used they must be extracted which requires
 a program which can unpack Microsoft CAB files.
 
-## Liberation Fonts and Derivatives
+### Liberation Fonts and Derivatives
 
 These fonts are metrically compatible with the PostScript and Microsoft
 equivalents:
@@ -258,7 +258,7 @@ compatibility of the Cyrillic letters with Arial was deliberately not preserved
 since in the opinion of those who did the redesign this was necessary to
 produce a good-quality Cyrillic typeface.
 
-## Other References
+### Other References
 
 * [What Font Should I Use?](http://drmarkwomack.com/a-writing-handbook/style/typography/)
 * [List of Typefaces Included with Microsoft Windows](https://en.wikipedia.org/wiki/List_of_typefaces_included_with_Microsoft_Windows)

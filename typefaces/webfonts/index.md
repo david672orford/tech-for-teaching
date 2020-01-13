@@ -1,10 +1,10 @@
-# Web Fonts
+## Web Fonts
 
 In this article we explain how to select fonts using CSS in your web pages.
 We assume you already know how to create a web page by writing HTML and
 how to style is using CSS.
 
-## Selecting Fonts Built-in to the Browser
+### Selecting Fonts Built-in to the Browser
 
 In CSS fonts are selected by specifying the font family and then indicating
 the desired variant. For example:
@@ -57,7 +57,7 @@ suggests a few substitution lists
 gives dozens of substitution lists and sample pages so you can see what
 each will look like on your browser
 
-## Downloading Additional Fonts
+### Downloading Additional Fonts
 
 While you can generally get something acceptable by specifying fonts
 from the standard sets decribed in our article on
@@ -68,7 +68,7 @@ quality.
 
 TODO: Explain how to use web fonts
 
-## Additional References
+### Additional References
 * [Web Typography](https://en.wikipedia.org/wiki/Web_typography)
 Wikipedia article describes the history of the support for fonts in web browsers
 * [CSS Fonts Module Level 3](https://www.w3.org/TR/2018/REC-css-fonts-3-20180920/)

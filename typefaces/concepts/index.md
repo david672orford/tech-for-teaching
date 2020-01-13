@@ -1,8 +1,10 @@
+## Typeface Concepts
+
 A typeface is a set of letters for typesetting. Originally a font was a set
 of metal type of a particular typeface in a particular size, but today
 the terms are generally used interchangably.
 
-# Typeface Families
+### Typeface Families
 
 Typefaces come in sets called families. The typefaces within a family will
 share a common design of the letter shapes but differ from one another
@@ -36,11 +38,11 @@ slanted without significantly altering their forms, they are said to be
 <b>oblique</b>. If some of the strokes are curved to make the whole letter
 appear rounder, then the typeface is said to be <b>italic</b>.
 
-# Script Coverage
+### Script Coverage
 
 TODO
 
-# Metric Compatibility
+### Metric Compatibility
 
 TODO
 

@@ -1,6 +1,6 @@
-# Opensource Typefaces
+## Opensource Typefaces
 
-## Clones of the 35 PostScript Fonts
+### Clones of the 35 PostScript Fonts
 
 The <a href="../standard/#liberation-fonts-and-derivatives">The Libration
 fonts</a> are width-compatible with Times, Helvetica, and Courier.
@@ -9,7 +9,7 @@ The <a href="../standard/#the-urw-fonts-and-gnu-freefont">The URW Fonts</a>
 include width-compatible clones of all 35 fonts found in most level 2 PostScript
 printers.
 
-## Bitstream Vera and Decendants
+### Bitstream Vera and Decendants
 
 [Bitstream Vera](https://www.gnome.org/fonts/)
 has 300 glyphs covering the Latin alphabet. Families in the Bitstream
@@ -22,7 +22,7 @@ version collection include:
 An expanded version known as [DejaVu](https://dejavu-fonts.github.io/)
 which has almost 3500 glyphs and additional styles.
 
-## Other Noteworthy Opensource Typefaces
+### Other Noteworthy Opensource Typefaces
 
 * [Hershey Fonts](https://en.wikipedia.org/wiki/Hershey_fonts)
   Early vector font widely used in computer graphics. Includes Latin,
@@ -74,7 +74,7 @@ which has almost 3500 glyphs and additional styles.
   derived from the <b>Droid fonts</b>. Noto CJK fonts are derived from the
   <b>Adobe Source fonts</b>.
 
-## Online Opensource Font Catelogs
+### Online Opensource Font Catelogs
 
 * [Opensource Typefaces](https://en.wikipedia.org/wiki/Category:Open-source_typefaces)
   Category page at Wikipedia
