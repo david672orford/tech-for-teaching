@@ -1,9 +1,13 @@
 ## Stock Material for Lessons
 
-The sites listed here have have pictures and recordings which you may
-be able to use in instructional materials which you produce.
+The sites listed here have have pictures and recordings which you may be able
+to use in instructional materials which you produce. Pay careful attention to
+the conditions of use to make sure what you want to do is allowed. We recommend
+starting with public domain material and works with a Creative Commons license.
+Beware of sites with poorly written license statements which can be unclear
+or self-contradictory.
 
-### Advice on Use of Stock Material
+### General Advice on Use of Stock Material
 
 * https://www.quora.com/What-is-the-best-way-to-get-free-pictures-for-my-website/answer/Faye-Gelb
 
@@ -29,7 +33,9 @@ be able to use in instructional materials which you produce.
 	Intended to be used by children in school projects.
 * [Public Domain Clipart](https://www.pdclipart.org/)--
 	25 thousand drawings in low-resolution raster format. Most are colored
-	line drawings.
+	line drawings and what appear to be old book illustrations, though
+	there are some photographs. The quality is generally good, though
+	resolution tends to be low.
 * [Internet Archive Book Images](https://www.flickr.com/photos/internetarchivebookimages/)--
 	Images from scanned books at the [Internet Archive](https://archive.org/)
 
@@ -71,7 +77,8 @@ be able to use in instructional materials which you produce.
 	was released to the public domain, but sometime between May 30 and June 8, 2017
 	they started [licensing](https://unsplash.com/terms) them instead. Unsplash
 	[acknowledges](https://medium.com/@UserRoadmap/unsplash-is-no-longer-under-a-cc0-license-do-you-care-13d5656053b7)
-	that the public domain dedication still applies to photos uploaded before that date.
+	that the public domain dedication still applies to photos uploaded before they
+	introduced their license. However, they decline to clearly mark them.
 * [List of sites at Wikipedia](https://commons.m.wikimedia.org/wiki/Commons:Free_media_resources/Photography)
 	--List of image sources for possible use in Wikipedia articles
 * [List of sites at Wordpress.org](https://make.wordpress.org/themes/handbook/review/resources/#recommended-websites-for-images)
