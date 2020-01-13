@@ -22,16 +22,14 @@ HEADER {
 	}
 HEADER IMG {
 	display: block;
-	margin: 0 auto 5px auto;
-	padding: 0 5px;
-	width: 100%;
+	margin: 0 auto;
+	padding: 0 5px 5px 5px;
+	width: calc(100% - 10px);
 	max-width: 640px;
 	}
 H1 {
 	font-size: 150%;
 	padding: .67em;	/* 1em */
-	color: inherit;
-	background-color: inherit;
 	}
 H1 A {
 	text-decoration: inherit;
