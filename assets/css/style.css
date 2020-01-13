@@ -37,6 +37,9 @@ H1 A {
 	}
 H2, H3 {
 	font-family: sans-serif;
+	margin-top: .3em;
+	}
+H2 {
 	font-size: 120%;
 	}
 H3 {
