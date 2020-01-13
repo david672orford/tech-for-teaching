@@ -125,7 +125,7 @@ PRE {
 	background-color: white;
 	border: 1px solid black;
 	color: black;
-	margin: 0 1em;
+	margin: 0 1em .5em 1em;
 	}
 .nt {		/* tag */
 	color: blue;
