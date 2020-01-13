@@ -1,15 +1,44 @@
 ## Stock Material for Lessons
 
-The sites listed here have have pictures and recordings which you may be able
-to use in instructional materials which you produce. Pay careful attention to
-the conditions of use to make sure what you want to do is allowed. We recommend
-starting with public domain material and works with a Creative Commons license.
-Beware of sites with poorly written license statements which can be unclear
-or self-contradictory.
+The term **stock material** refers to representations such as drawings,
+photographs, and video clips which are kept on hand for future use in
+larger works such as articles and documentary films. For example if we
+were writing a history lesson we might search for "stock" photographs
+of the persons involved in the events described. If we were writing about
+a concept such as "family" or "cooperation", there might be a stock photograph
+or drawing to illustrate the idea.
 
-### General Advice on Use of Stock Material
+### Legal Considerations
 
-* https://www.quora.com/What-is-the-best-way-to-get-free-pictures-for-my-website/answer/Faye-Gelb
+There are three basic ways to obtain stock material: 1) is to save
+your own photographs and drawins which you think may be useful in the future,
+2) to buy the material from a commercial service when you need it, and 3)
+to obtain it from online collections.
+
+If you choose option two or three, you should pay careful attention to the
+legal terms, since they may limit how you can distribute the lessons which you
+produce. For example, a license which prohibits commercial work may prevent you
+from using the stock material in a textbook which is sold. Or the license may
+require that you include a notice crediting the creatore of the stock material.
+This will require extra work on your part.
+
+Material which is in the public domain can be used freely with no restrictions
+on modification and no requirement to name the source. Most material that is
+in the public domain entered it because the copyright term expired.
+Nowadays some material enters the public domain because the copyright holder
+has waived all rights. This is frequently done using the
+[CC0 Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).
+
+From the standpoint of one who wants to use stock material, the next best thing
+to the public domain is a [Creative Commons Licenses](https://creativecommons.org/licenses).
+That is because these licenses clearly spell out how you may use a work, including whether you may
+modify it or incorporate it into your work, and any notices which you must provide.
+
+Beware of sites with licenses written by amateurs. These are often vague, confusing,
+contradicatory, and fail to cover common situations.
+
+You should keep notes on where you obtained your stock material. A lawyer, Faye Gelb
+provides [a good explanation](https://www.quora.com/What-is-the-best-way-to-get-free-pictures-for-my-website/answer/Faye-Gelb).
 
 ### Drawings
 * [Openclipart](https://openclipart.org/)--
@@ -83,6 +112,8 @@ or self-contradictory.
 	--List of image sources for possible use in Wikipedia articles
 * [List of sites at Wordpress.org](https://make.wordpress.org/themes/handbook/review/resources/#recommended-websites-for-images)
 	--Should check these out and write about them above.
+* [Where can I find images that are free to use?](https://www.quora.com/Where-can-I-find-images-that-are-free-to-use)
+	--Question on Quora
 
 ### Video
 * [Vimeo](https://vimeo.com/creativecommons)
@@ -105,10 +136,6 @@ or self-contradictory.
 	--
 
 ### Sound Effects
-* [Wikipedia:Free sound resources](https://en.m.wikipedia.org/wiki/Wikipedia:Free_sound_resources)
-	--
-* [Where can I find free sound effects?](https://sound.stackexchange.com/questions/25298/where-can-i-find-free-sound-effects)
-	--Question on Stack Exchange
 * [Freesound.org](https://freesound.org)
 	--
 * [Gamesounds.xyz](https://gamesounds.xyz)
@@ -127,6 +154,10 @@ or self-contradictory.
 	--
 * [Soundimage](http://soundimage.org)
 	--
+* [Wikipedia:Free sound resources](https://en.m.wikipedia.org/wiki/Wikipedia:Free_sound_resources)
+	--
+* [Where can I find free sound effects?](https://sound.stackexchange.com/questions/25298/where-can-i-find-free-sound-effects)
+	--Question on Stack Exchange
 
 ### Royalty Free Music
 * [Free Music Archive](https://archive.org/details/freemusicarchive)
