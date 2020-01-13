@@ -22,10 +22,10 @@ HEADER {
 	}
 HEADER IMG {
 	display: block;
-	margin: 0 auto;
+	margin: 0 auto 5px auto;
+	padding: 0 5px;
 	width: 100%;
 	max-width: 640px;
-	margin: 0 5px 5px 5px;
 	}
 H1 {
 	font-size: 150%;
