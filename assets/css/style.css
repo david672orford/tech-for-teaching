@@ -23,7 +23,7 @@ HEADER {
 HEADER IMG {
 	display: block;
 	margin: 0 auto;
-	padding: .1em;
+	padding: .2em;
 	width: calc(100% - 10px);
 	max-width: 640px;
 	}
