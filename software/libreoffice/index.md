@@ -21,16 +21,22 @@ Spacing Above Paragraph or Below Paragraph.
 A copy of the image will be stored inside the ODT file. A PNG fall-back
 image will also be created and stored along with it.
 
-If you have several complex SVG images, it can slow Openoffice to a crawl. If
-this happens, go to Tools ⟶ Options ⟶ Libreoffice ⟶ Memory and increase the
-graphics cache size to at least 128MB. This may help somewhat.
+### SVG Image Performance Problems
+
+Starting with version 4.0 Libreoffice has a serious problem with the way it
+renders SVG images in the page.  Above a certain number of images or a certain
+level of complexity it slows to a crawl.  Users who complain about this on the
+Internet are frequently advised to increase the size of the graphics cache to
+128MB, but this does not seem to help. There is a
+[bug report](https://bugs.documentfoundation.org/show_bug.cgi?id=83426)
+open since September 2014. Though the bug causes Writer to lock up for
+seconds or minutes at a time it is categorized as of "low minor" importance!
 
 ### Creating PDF Forms
 
 1. Go to View ⟶ Toolbars and enable Form Controls.
 2. Toggle the “Design Mode” button on on the Form Controls toolbar.
-3. Click on one of the form element buttons on the Form Controls
-   toolbar.
+3. Click on one of the form element buttons on the Form Controls toolbar.
 4. Click and drag on the screen to draw the control.
 
 ### Inserting Hyperlinks
