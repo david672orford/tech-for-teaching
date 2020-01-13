@@ -121,6 +121,7 @@ FOOTER {
 
 /* Syntax highlighting */
 PRE {
+	display: inline-block;
 	padding: .5em;
 	background-color: white;
 	border: 1px solid black;
