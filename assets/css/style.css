@@ -121,7 +121,7 @@ FOOTER {
 
 /* Syntax highlighting */
 PRE {
-	display: inline-block;		/* shrink to width */
+	display: inline-block;		/* shrink to width, prevents overlap with floats */
 	padding: .5em;
 	background-color: white;
 	border: 1px solid black;
