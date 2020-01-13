@@ -12,10 +12,13 @@ BODY {
 MAIN {
 	margin: .5em;
 	}
-HEADER, FOOTER {
+H1, FOOTER {
 	font-family: sans-serif;
 	color: white;
 	background-color: #c88200;
+	}
+HEADER {
+	background-color: #808080;
 	}
 HEADER IMG {
 	display: block;
