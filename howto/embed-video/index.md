@@ -1,8 +1,8 @@
-# How to Embed Video in Web Pages
+## How to Embed Video in Web Pages
 
 Embedding videos in web pages can be complicated, but it is getting easier.
 
-## Flash Player
+### Flash Player
 
 There was a time when video on the World Wide Web required the Shockwave (later
 Adobe) Flash player plugin. But all the major browesers have been able to play
@@ -11,7 +11,7 @@ use Flash. What is more, Flash has never worked on iPads and iPhones, is seldom
 installed on Android tablets, and support for it is being dropped from web
 browsers. You should not use Flash for your videos.
 
-## The `<video>` Tag
+### The `<video>` Tag
 
 Nowadays we have the HTML `<video>` tag which is used to embed a video
 player in a page in much the same way we embed images using the `<img>`
@@ -49,7 +49,7 @@ Which should look the same, but play most any browser:
 
 So far, this is not too difficult.
 
-## Responsive Video Player
+### Responsive Video Player
 
 But there is a problem with the players above. If the screen is narrow,
 as it might be on a smartphone, the right-hand side of the picture will
@@ -148,7 +148,7 @@ Then we can reduce the HTML to this:
 
 Still not pretty, but neater.
 
-## Encoding the Video
+### Encoding the Video
 
 You can encode your videos for the web using a video editor such as
 Shotcut. Or you can use a video tool such as FFmpeg. Here are the
@@ -168,7 +168,7 @@ ffmpeg -i myvideo_original.mp4 \
   myvideo.webm
 ```
 
-## Adaptive Bitrate Video
+### Adaptive Bitrate Video
 
 The solutions above work well for small videos, and will often work for large
 videos too, provided you are very careful with the encoding options so that
