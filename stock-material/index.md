@@ -40,8 +40,8 @@ contradicatory, and fail to cover common situations.
 You should keep notes on where you obtained your stock material. A lawyer, Faye Gelb
 provides [a good explanation](https://www.quora.com/What-is-the-best-way-to-get-free-pictures-for-my-website/answer/Faye-Gelb).
 
-### Drawings
-* [Openclipart](https://openclipart.org/)--
+### Vector Drawings
+* [Openclipart](https://openclipart.org/) --
 	Tens of thousands of vector drawings in SVG format. Quality varies from
 	excellent to awful. All are in the public domain. Site was down for
 	much of 2019, but as of January 2020 its is back up, though seemingly
@@ -51,103 +51,104 @@ provides [a good explanation](https://www.quora.com/What-is-the-best-way-to-get-
 	material from Openclipart.
 	Search results from Shutterstock (a comercial supplier of stock art)
 	are displayed along side the search results and this can be confusing at times.
-* [Public Domain Q](https://publicdomainq.net/)
-	Public domain photos, illustrations, and photographs of paintings. Site is in
-	Japanese, but can be navigated without too much trouble using a web browser
-	(such as Google Chrome) which does automatical translation.
-* [Wpclipart](https://wpclipart.com/)--
-	Tens of thousands of drawings of acceptable to good quality. All in the
-	public domain. Most are in raster format. Includes simple drawings
-	done on computers, photographs, and scans of old book illustrations.
-	Intended to be used by children in school projects.
-* [Public Domain Clipart](https://www.pdclipart.org/)--
-	25 thousand drawings in low-resolution raster format. Most are colored
-	line drawings and what appear to be old book illustrations, though
-	there are some photographs. The quality is generally good, though
-	resolution tends to be low.
-* [Internet Archive Book Images](https://www.flickr.com/photos/internetarchivebookimages/)--
-	Images from scanned books at the [Internet Archive](https://archive.org/)
 
-### Photographs
-* [Librestock](https://librestock.com/)
-	--Search dozens of free stock photo sites at once
-* [Creative Commons Image Search](https://search.creativecommons.org/)
-	--Search the internet for images with a [Creative Commons](https://creativecommons.org/)
-	license. If you wish, you can limit your search to the more
-	permissive licenses.
-* [Wikimedia Commons](https://commons.wikimedia.org/wiki/Main_Page)
-	--Collection of images, sounds, and video collected for use in Wikipedia and
-	other projects
-* [Flickr: The Commons](https://www.flickr.com/commons)
-	--Collection of public domain images. Many historical images from museum
-	photograph collections and out-of-copyright books.
-* [Pics4Learning](http://pics4learning.com/)
-	--Photographs intended for use in classrooms. Not in the public domain.
-	The license statement prohibits commercial use.
-* [NCI Visuals Online](https://visualsonline.cancer.gov/)
-	--Photoraphs and drawings provided by the National Cancer Institute.
-	Copyright status indicated for each. They
-	[ask to be credited as the source](https://visualsonline.cancer.gov/about.cfm)
-	even for the public domain images.
-* [Pixabay](https://pixabay.com/)
-	--Large collection of high-resolution photographs and a smaller number
-	drawings and video clips. Tends toward the artistic and the illustration
-	of themes. Some are artistic montages with heavy atmospheric filtering.
+### Pictures Intended for School Projects
+* [Pics4Learning](http://pics4learning.com/) --
+	Good-quality photographs in moderately high resolution sorted into
+	categories such as "National Parks", "Dinosaurs", and "Parts of Your Body".
+	Not in the public domain. The [image use policy](https://pics4learning.com/about.php)
+	grants permission only "for use by students and teachers in an educational setting".
+* [Wpclipart](https://wpclipart.com/) --
+	Tens of thousands of drawings of acceptable to good quality.
+	Most are in raster format though a few are in SVG. Includes simple drawings
+	done on computers, photographs, and scans of old book illustrations.
+	Sorted into categories such as "energy", "cartoon", and "science".
+	The [terms of use](https://wpclipart.com/terms.html) indicate that the
+	pictures are in the public domain. Project of a single person who vets the
+	images to make sure they are really in the public domain and suitable
+	for children.
+* [Public Domain Clipart](https://www.pdclipart.org/) --
+	25 thousand drawings in low to medium resolution raster format. A mix of
+	colored line drawings, what look like old book illustrations, and
+	photographs. Many are from US Government sources. The quality is generally
+	good. 
+
+### High-Resolution Stock Photographs
+* [Pixabay](https://pixabay.com/) --
+	Large collection photographs and a smaller number drawings and video clips.
+	Tends toward the artistic and the illustration of themes. Some are artistic
+	montages with heavy atmospheric filtering.
 	Has some nudes. (There is a filter for excluding them.)
 	Originally everything on this site was released to the public domain,
 	but starting on January 9, 2019 they began
 	[licensing](https://pixabay.com/service/terms/) them instead.
-* [Pexels](https://www.pexels.com/)
-	--High-resolution stock photographs.
-	Uses the same [license](https://www.pexels.com/photo-license/).
-	In May of 2019 it was [announced](https://about.canva.com/news/canva-acquires-pexels-pixabay/)
-	that both sites were bought bo Canva. Confusingly the announcement says that the photos
-	will be "completely free under a Creative Commons CC0 licence".
-* [Unsplash](https://unsplash.com/)
-	--High-resolution stock photographs.
+* [Unsplash](https://unsplash.com/) --
+	High-resolution stock photographs.
 	Originally everything was released to the public domain, but sometime between
 	May 30 and June 8, 2017 they started [licensing](https://unsplash.com/terms)
 	them instead. Unsplash [acknowledges](https://medium.com/@UserRoadmap/unsplash-is-no-longer-under-a-cc0-license-do-you-care-13d5656053b7)
 	that the public domain dedication still applies to photos uploaded before they
 	introduced their license. However, they decline to clearly mark them.
-* [Stocksnap](https://stocksnap.io/)
-	--High-resolution stock photographs.
+* [Pexels](https://www.pexels.com/) --
+	Uses the same [license](https://www.pexels.com/photo-license/).
+	In May of 2019 it was [announced](https://about.canva.com/news/canva-acquires-pexels-pixabay/)
+	that both sites were bought bo Canva. Confusingly the announcement says that the photos
+	will be "completely free under a Creative Commons CC0 licence".
+* [Stocksnap](https://stocksnap.io/) --
 	Images of nature, landscapes, people, illustration of themes. Still uses the
 	CC0 public domain dedication. Watch out though, when you search they display
 	results from Shutterstock above their own results which is very confusing.
-* [StockVault](https://www.stockvault.net)
-	--High-resolution stock photographs.
+* [StockVault](https://www.stockvault.net) --
 	Uploaders choose a [license](https://www.stockvault.net/terms-of-use)
 	or CC0 public domain dedication.
-* [List of sites at Wikipedia](https://commons.m.wikimedia.org/wiki/Commons:Free_media_resources/Photography)
-	--List of image sources for possible use in Wikipedia articles
-* [List of sites at Wordpress.org](https://make.wordpress.org/themes/handbook/review/resources/#recommended-websites-for-images)
-	--Should check these out and write about them above.
-* [Where can I find images that are free to use?](https://www.quora.com/Where-can-I-find-images-that-are-free-to-use)
-	--Question on Quora
+
+### Other Image Collections
+* [Wikimedia Commons](https://commons.wikimedia.org/wiki/Main_Page) --
+	Collection of images, sounds, and video collected for use in Wikipedia and
+	other projects
+* [Internet Archive Book Images](https://www.flickr.com/photos/internetarchivebookimages/) --
+	Images from scanned books at the [Internet Archive](https://archive.org/)
+* [Flickr: The Commons](https://www.flickr.com/commons) --
+	Collection of public domain images. Many historical images from museum
+	photograph collections and out-of-copyright books.
+* [Public Domain Q](https://publicdomainq.net/)
+	Public domain photos, illustrations, and photographs of paintings. Site is in
+	Japanese, but can be navigated without too much trouble using a web browser
+	(such as Google Chrome) which does automatical translation.
+* [NCI Visuals Online](https://visualsonline.cancer.gov/) --
+	Photographs and drawings provided by the National Cancer Institute.
+	Copyright status indicated for each. They
+	[ask to be credited as the source](https://visualsonline.cancer.gov/about.cfm)
+	even for the public domain images.
+
+### Image Search Engines
+* [Librestock](https://librestock.com/) --
+	Search dozens of free stock photo sites at once
+* [Creative Commons Image Search](https://search.creativecommons.org/) --
+	Search the internet for images with a [Creative Commons](https://creativecommons.org/)
+	license. If you wish, you can limit your search to the more
+	permissive licenses.
 
 ### Video
-* [Librestock](https://video.librestock.com/)
-	--Search for CC0-licensed videos from stock footage sites
-* [Vimeo](https://vimeo.com/creativecommons)
-	--Videos on Vimeo which are tagged as being in the public domain or under
+* [Librestock](https://video.librestock.com/) --
+	Search for CC0-licensed videos from stock footage sites
+* [Vimeo](https://vimeo.com/creativecommons) --
+	Videos on Vimeo which are tagged as being in the public domain or under
 	a [Creative Commons license](https://creativecommons.org/license).
-* [Videvo](https://www.videvo.net/)
-	--Video clips, many under a [Creative Commons license](https://creativecommons.org/license).
-* [Videzy](https://www.videezy.com/)
-	--More video clips. License terms indicated for each video.
-* [Pond5](https://www.pond5.com/public-domain-curated-collections)
-	--High-quality new stuff costs money, but they offer some old public
+* [Videvo](https://www.videvo.net/) --
+	Video clips, many under a [Creative Commons license](https://creativecommons.org/license).
+* [Videzy](https://www.videezy.com/) --
+	More video clips. License terms indicated for each video.
+* [Pond5](https://www.pond5.com/public-domain-curated-collections) --
+	High-quality new stuff costs money, but they offer some old public
 	domain stuff for free.
-* [Best Stock Footage Sites You Wished You Already Knew!](https://blog.templatetoaster.com/best-stock-footage-sites/)
-	--Blog posting
 
 ### 3D Models and Textures
-* [Blend Swap](https://www.blendswap.com)
-	--Artists share models created with Blender. Many have been dedicated to
+* [Blend Swap](https://www.blendswap.com) --
+	Artists share models created with Blender. Many have been dedicated to
 	the public domain ore shared under a [Creative Commons license](https://creativecommons.org/licenses).
-* [Blogscopia](https://resources.blogscopia.com)
-	--Over 100 3D models in multiple formats including Blender and Sweethome3d.
+* [Blogscopia](https://resources.blogscopia.com) --
+	Over 100 3D models in multiple formats including Blender and Sweethome3d.
 
 ### Sound Effects
 * [Freesound.org](https://freesound.org)
@@ -168,16 +169,12 @@ provides [a good explanation](https://www.quora.com/What-is-the-best-way-to-get-
 	--
 * [Soundimage](http://soundimage.org)
 	--
-* [Wikipedia:Free sound resources](https://en.m.wikipedia.org/wiki/Wikipedia:Free_sound_resources)
-	--
-* [Where can I find free sound effects?](https://sound.stackexchange.com/questions/25298/where-can-i-find-free-sound-effects)
-	--Question on Stack Exchange
 
 ### Royalty Free Music
 * [Free Music Archive](https://archive.org/details/freemusicarchive)
 	--
-* [MusOpen](https://musopen.org)
-	--Royal free music recordings
+* [MusOpen](https://musopen.org) --
+	Royal free music recordings
 * [Soundimage](http://soundimage.org)
 	--
 * [Youtube Music Library](https://www.youtube.com/audiolibrary/music)
@@ -185,7 +182,21 @@ provides [a good explanation](https://www.quora.com/What-is-the-best-way-to-get-
 * [IncompeTech](http://incompetech.com/)
 	--
 
-### Other
-* [Global Digital Library](https://home.digitallibrary.io/)
-	--Open license children's books ready for translation
+### Other Stock Materials
+* [Global Digital Library](https://home.digitallibrary.io/) --
+	Open license children's books ready for translation
+
+### Other Lists
+* [List of sites at Wikipedia](https://commons.m.wikimedia.org/wiki/Commons:Free_media_resources/Photography) --
+	List of image sources for possible use in Wikipedia articles
+* [List of sites at Wordpress.org](https://make.wordpress.org/themes/handbook/review/resources/#recommended-websites-for-images) --
+	Should check these out and write about them above.
+* [Where can I find images that are free to use?](https://www.quora.com/Where-can-I-find-images-that-are-free-to-use) --
+	Question on Quora
+* [Best Stock Footage Sites You Wished You Already Knew!](https://blog.templatetoaster.com/best-stock-footage-sites/) --
+	Blog posting
+* [Wikipedia:Free sound resources](https://en.m.wikipedia.org/wiki/Wikipedia:Free_sound_resources)
+	--
+* [Where can I find free sound effects?](https://sound.stackexchange.com/questions/25298/where-can-i-find-free-sound-effects) --
+	Question on Stack Exchange
 
