@@ -14,10 +14,20 @@ things to the next level.
 The opensource software which I use, why I have chosen it, and tips
 for using it in to create teaching materials.
 
+## [Stock Material](stock-material/)
+Large collections a photographs, drawings, audio recordings, and other
+materials are available for free on the Internet, if you know where
+to look.
+
 ## [How to Perform Common Tasks](howto/)
 We freqently need to perform mundane tasks such as converting videos,
 scaling down photographs, and finding broken links on our websites.
 Here I collect proven solutions for my future reference and yours.
+
+## [Understanding File Formats](file-formats/)
+Any creative product produced on a computer is likely to be saved in one
+or more files. It is helpful to understand what each of the common file
+formats is for and what kind of things can be saved in it.
 
 ## [Understanding Typefaces](typefaces/)
 Have you ever opened a document someone sent you only to find that
@@ -27,7 +37,3 @@ have a problem with missing typefaces. What typefaces are generally
 available? How can we make sure they are used? What about embedding
 typefaces? Here are the results of my research.
 
-## [Stock Material](stock-material/)
-Large collections a photographs, drawings, audio recordings, and other
-materials are available for free on the Internet, if you know where
-to look.

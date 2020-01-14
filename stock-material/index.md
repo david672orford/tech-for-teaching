@@ -51,6 +51,9 @@ provides [a good explanation](https://www.quora.com/What-is-the-best-way-to-get-
 	material from Openclipart.
 	Search results from Shutterstock (a comercial supplier of stock art)
 	are displayed along side the search results and this can be confusing at times.
+* [Pixabay](https://pixabay.com/vectors/)
+	Pixabay is best known for high-resolution stock photographs, but they also
+	have tens of thousands of vector drawings.
 
 ### Pictures Intended for School Projects
 * [Pics4Learning](http://pics4learning.com/) --
@@ -81,22 +84,23 @@ provides [a good explanation](https://www.quora.com/What-is-the-best-way-to-get-
 	Has some nudes. (There is a filter for excluding them.)
 	Originally everything on this site was released to the public domain,
 	but starting on January 9, 2019 they began
-	[licensing](https://pixabay.com/service/terms/) them instead.
+	[licensing](https://pixabay.com/service/license/) them instead.
 * [Unsplash](https://unsplash.com/) --
-	High-resolution stock photographs.
-	Originally everything was released to the public domain, but sometime between
-	May 30 and June 8, 2017 they started [licensing](https://unsplash.com/terms)
-	them instead. Unsplash [acknowledges](https://medium.com/@UserRoadmap/unsplash-is-no-longer-under-a-cc0-license-do-you-care-13d5656053b7)
+	Originally everything was released using the CC0 public domain dedication,
+	but sometime between May 30 and June 8, 2017 they started
+	[licensing](https://unsplash.com/terms) them instead.
+	Unsplash [acknowledges](https://medium.com/@UserRoadmap/unsplash-is-no-longer-under-a-cc0-license-do-you-care-13d5656053b7)
 	that the public domain dedication still applies to photos uploaded before they
 	introduced their license. However, they decline to clearly mark them.
 * [Pexels](https://www.pexels.com/) --
-	Uses the same [license](https://www.pexels.com/photo-license/).
+	Uses a [license](https://www.pexels.com/photo-license/) similiar to those of Pixabay and Unsplash.
 	In May of 2019 it was [announced](https://about.canva.com/news/canva-acquires-pexels-pixabay/)
 	that both sites were bought bo Canva. Confusingly the announcement says that the photos
 	will be "completely free under a Creative Commons CC0 licence".
 * [Stocksnap](https://stocksnap.io/) --
-	Images of nature, landscapes, people, illustration of themes. Still uses the
-	CC0 public domain dedication. Watch out though, when you search they display
+	Images of nature, landscapes, people, illustration of themes. [Uses the
+	CC0 public domain dedication.](https://stocksnap.io/license)
+	Watch out though, when you search they display
 	results from Shutterstock above their own results which is very confusing.
 * [StockVault](https://www.stockvault.net) --
 	Uploaders choose a [license](https://www.stockvault.net/terms-of-use)
@@ -153,12 +157,12 @@ provides [a good explanation](https://www.quora.com/What-is-the-best-way-to-get-
 ### Sound Effects
 * [Freesound.org](https://freesound.org)
 	--
-* [Gamesounds.xyz](https://gamesounds.xyz)
-	--Royalty free or public domain game music and sounds
-* [Soundbible.com](http://soundbible.com)
-	--Free sound clips
-* [Soundjay.com](https://www.soundjay.com)
-	--Free sound effects
+* [Gamesounds.xyz](https://gamesounds.xyz) --
+	Royalty free or public domain game music and sounds
+* [Soundbible.com](http://soundbible.com) --
+	Free sound clips
+* [Soundjay.com](https://www.soundjay.com) --
+	Free sound effects
 * [Sweetsoundeffects.com](http://sweetsoundeffects.com)
 	--
 * [PartnersInRhyme](https://www.partnersinrhyme.com/pir/PIRsfx.shtml)
@@ -187,16 +191,11 @@ provides [a good explanation](https://www.quora.com/What-is-the-best-way-to-get-
 	Open license children's books ready for translation
 
 ### Other Lists
-* [List of sites at Wikipedia](https://commons.m.wikimedia.org/wiki/Commons:Free_media_resources/Photography) --
-	List of image sources for possible use in Wikipedia articles
-* [List of sites at Wordpress.org](https://make.wordpress.org/themes/handbook/review/resources/#recommended-websites-for-images) --
-	Should check these out and write about them above.
-* [Where can I find images that are free to use?](https://www.quora.com/Where-can-I-find-images-that-are-free-to-use) --
-	Question on Quora
-* [Best Stock Footage Sites You Wished You Already Knew!](https://blog.templatetoaster.com/best-stock-footage-sites/) --
-	Blog posting
+* [List of sites at Wikipedia](https://commons.m.wikimedia.org/wiki/Commons:Free_media_resources/Photography)
+* [List of sites at Wordpress.org](https://make.wordpress.org/themes/handbook/review/resources/#recommended-websites-for-images)
+* [Where can I find images that are free to use?](https://www.quora.com/Where-can-I-find-images-that-are-free-to-use)
+* [Best Stock Footage Sites You Wished You Already Knew!](https://blog.templatetoaster.com/best-stock-footage-sites/)
 * [Wikipedia:Free sound resources](https://en.m.wikipedia.org/wiki/Wikipedia:Free_sound_resources)
-	--
-* [Where can I find free sound effects?](https://sound.stackexchange.com/questions/25298/where-can-i-find-free-sound-effects) --
-	Question on Stack Exchange
-
+* [Where can I find free sound effects?](https://sound.stackexchange.com/questions/25298/where-can-i-find-free-sound-effects)
+* [13 Sources For Free Public Domain and CC0-Licensed Images](https://christianlivingbooks.com/13-sources-for-free-public-domain-and-cc0-licensed-images/)
+* [Pro Theme Design: Free Stock Photos](https://prothemedesign.com/tools/free-stock-photos/)
