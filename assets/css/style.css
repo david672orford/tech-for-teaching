@@ -60,14 +60,14 @@ LI {
 
 FIGURE.right_edge {
 	float: right;
-	width: 33%;
+	width: 15%;
+	max-width: 200px;
 	border: 1px solid black;
 	padding: 5px;
 	}
 FIGURE IMG {
 	display: block;
-	width: 15%;
-	max-width: 200px;
+	width: 100%;
 	}
 
 TABLE {
