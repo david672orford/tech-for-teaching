@@ -60,6 +60,11 @@ provides [a good explanation](https://www.quora.com/What-is-the-best-way-to-get-
 	have tens of thousands of vector drawings.
 
 ### Pictures Intended for School Projects
+<figure class="right_edge">
+	<img src="images/Airedale_Terrier.png" src="Picture of a Dog">
+	<figcaption>From Pdclipart.org</figcaption>
+</figure>
+</figure>
 * [Pics4Learning](http://pics4learning.com/) --
 	Good-quality photographs in moderately high resolution sorted into
 	categories such as "National Parks", "Dinosaurs", and "Parts of Your Body".
