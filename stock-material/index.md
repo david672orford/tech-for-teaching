@@ -61,7 +61,9 @@ provides [a good explanation](https://www.quora.com/What-is-the-best-way-to-get-
 
 ### Pictures Intended for School Projects
 <figure class="right_edge">
-	<img src="images/Airedale_Terrier.png" alt="Picture of a Dog">
+	<a href="https://www.pdclipart.org/displayimage.php?album=23&pos=5">
+		<img src="images/Airedale_Terrier.png" alt="Picture of a Dog">
+	</a>
 	<figcaption>From Pdclipart.org</figcaption>
 </figure>
 * [Pics4Learning](http://pics4learning.com/) --
@@ -86,7 +88,9 @@ provides [a good explanation](https://www.quora.com/What-is-the-best-way-to-get-
 
 ### High-Resolution Stock Photographs
 <figure class="right_edge">
-	<img src="images/city-4742329_640.jpg" alt="Cityscape seen across water with waves breaking on short to left">
+	<a href="https://pixabay.com/photos/city-skyline-surf-cityscape-beach-4742329/">
+		<img src="images/city-4742329_640.jpg" alt="Cityscape seen across water with waves breaking on short to left">
+	</a>
 	<figcaption>From Pixabay.com</figcaption>
 </figure>
 * [Pixabay](https://pixabay.com/) --
