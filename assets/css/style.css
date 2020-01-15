@@ -58,6 +58,14 @@ LI {
 	margin: 0 0 .4em 0;
 	}
 
+FIGURE.right_edge {
+	float: right;
+	width: 33%;
+	}
+FIGURE IMG {
+	width: 100%;
+	}
+
 TABLE {
 	border-collapse: collapse;
 	}

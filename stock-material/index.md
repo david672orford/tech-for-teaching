@@ -41,6 +41,10 @@ You should keep notes on where you obtained your stock material. A lawyer, Faye 
 provides [a good explanation](https://www.quora.com/What-is-the-best-way-to-get-free-pictures-for-my-website/answer/Faye-Gelb).
 
 ### Vector Drawings
+<figure class="right_edge">
+	<img src="publicdomainq-0007007wkjwpa.svg" alt="Teacher at blackboard with little boy at desk listening">
+	<figcaption>From Openclipart.org</figcaption>
+</figure>
 * [Openclipart](https://openclipart.org/) --
 	Tens of thousands of vector drawings in SVG format. Quality varies from
 	excellent to awful. All are in the public domain. Site was down for
