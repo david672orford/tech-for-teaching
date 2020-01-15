@@ -71,6 +71,10 @@ Other programs:
 	for switching slides, revealing points one at a time, etc. The library
 	is free. If you do not know how to write HTML, there is an online
 	presentation editor, but that requires a paid subscription.
+* [Jessyink](http://tavmjong.free.fr/INKSCAPE/MANUAL/html/Extensions-JessyInk.html)
+	An Inkscape extension (included) which makes each layer a slide in an
+	presentation. It adds Javascript to the SVG file so that when it is
+	viewed in a web browser one can page through the slides.
 
 ### Audio Processing
 * [Audacity](https://www.audacityteam.org/) --
