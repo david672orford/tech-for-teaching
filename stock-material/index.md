@@ -42,7 +42,7 @@ provides [a good explanation](https://www.quora.com/What-is-the-best-way-to-get-
 
 ### Vector Drawings
 <figure class="right_edge">
-	<img src="publicdomainq-0007007wkjwpa.svg" alt="Teacher at blackboard with little boy at desk listening">
+	<img src="images/publicdomainq-0007007wkjwpa.svg" alt="Teacher at blackboard with little boy at desk listening">
 	<figcaption>From Openclipart.org</figcaption>
 </figure>
 * [Openclipart](https://openclipart.org/) --
