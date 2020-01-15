@@ -64,7 +64,6 @@ provides [a good explanation](https://www.quora.com/What-is-the-best-way-to-get-
 	<img src="images/Airedale_Terrier.png" alt="Picture of a Dog">
 	<figcaption>From Pdclipart.org</figcaption>
 </figure>
-</figure>
 * [Pics4Learning](http://pics4learning.com/) --
 	Good-quality photographs in moderately high resolution sorted into
 	categories such as "National Parks", "Dinosaurs", and "Parts of Your Body".
@@ -86,6 +85,10 @@ provides [a good explanation](https://www.quora.com/What-is-the-best-way-to-get-
 	good. 
 
 ### High-Resolution Stock Photographs
+<figure class="right_edge">
+	<img src="images/city-4742329_640.jpg" alt="Cityscape seen across water with waves breaking on short to left">
+	<figcaption>From Pixabay.com</figcaption>
+</figure>
 * [Pixabay](https://pixabay.com/) --
 	Large collection photographs and a smaller number drawings and video clips.
 	Tends toward the artistic and the illustration of themes. Some are artistic
@@ -116,6 +119,12 @@ provides [a good explanation](https://www.quora.com/What-is-the-best-way-to-get-
 	or CC0 public domain dedication.
 
 ### Other Image Collections
+<figure class="right_edge">
+	<a href="https://commons.wikimedia.org/wiki/File:MosMetro_Krasnopresnenskaya_asv2018-01.jpg">
+		<img src="images/256px-MosMetro_Krasnopresnenskaya_asv2018-01.jpg" alt="Corridor between platforms of a Moscow metro station">
+	</a>
+	<figcaption>From Wikimedia Commons</figcaption>
+</figure>
 * [Wikimedia Commons](https://commons.wikimedia.org/wiki/Main_Page) --
 	Collection of images, sounds, and video collected for use in Wikipedia and
 	other projects

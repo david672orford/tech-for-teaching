@@ -67,7 +67,7 @@ FIGURE.right_edge {
 	padding: 5px;
 	border: 1px solid black;
 	}
-FIGURE IMG {
+FIGURE A, FIGURE IMG {
 	display: block;
 	width: 100%;
 	}
