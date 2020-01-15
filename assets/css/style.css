@@ -63,7 +63,8 @@ FIGURE.right_edge {
 	width: 33%;
 	}
 FIGURE IMG {
-	width: 100%;
+	width: 15%;
+	max-width: 200px;
 	}
 
 TABLE {
