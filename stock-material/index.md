@@ -61,7 +61,7 @@ provides [a good explanation](https://www.quora.com/What-is-the-best-way-to-get-
 
 ### Pictures Intended for School Projects
 <figure class="right_edge">
-	<img src="images/Airedale_Terrier.png" src="Picture of a Dog">
+	<img src="images/Airedale_Terrier.png" alt="Picture of a Dog">
 	<figcaption>From Pdclipart.org</figcaption>
 </figure>
 </figure>
