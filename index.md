@@ -37,3 +37,5 @@ have a problem with missing typefaces. What typefaces are generally
 available? How can we make sure they are used? What about embedding
 typefaces? Here are the results of my research.
 
+## [Animation](animation/)
+Collection of information about how to do animation
