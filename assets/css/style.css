@@ -74,6 +74,7 @@ P {
 	}
 UL, OL {
 	padding-left: 1.2em;
+	margin-bottom: .5em;
 	}
 LI {
 	margin: 0 0 .4em 0;
