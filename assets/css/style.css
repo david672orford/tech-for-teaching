@@ -35,7 +35,7 @@ H1 {
 	font-size: 150%;
 	padding: .4em;
 	}
-H1 A {
+H1 A, FOOTER A {
 	text-decoration: inherit;
 	color: inherit;
 	}
