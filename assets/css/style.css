@@ -28,11 +28,11 @@ HEADER IMG {
 	max-width: 640px;
 	}
 DIV.breadcrumbs {
-	padding: .2em;
+	padding: .3em .7em;
 	}
 H1 {
 	font-size: 150%;
-	padding: .5em;
+	padding: .4em;
 	}
 H1 A {
 	text-decoration: inherit;
