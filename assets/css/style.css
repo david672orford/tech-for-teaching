@@ -28,7 +28,10 @@ HEADER IMG {
 	max-width: 640px;
 	}
 DIV.breadcrumbs {
-	padding: .3em .7em;
+	padding: 0 .7em .3em .7em;
+	}
+DIV.breadcrumbs A {
+	color: inherit;
 	}
 H1 {
 	font-size: 150%;
