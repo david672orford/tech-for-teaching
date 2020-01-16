@@ -30,6 +30,10 @@ In a few cases we describe well-known programs which we found unsuitable or
 which we are still evaluating.
 
 ### Document Preparation and Viewing
+<figure class="right_edge">
+	<img src="images/libreoffice.png" alt="Document open in a word processor">
+	<figcaption>Libreoffice Writer</figcaption>
+</figure>
 * [Libreoffice](https://www.libreoffice.org/) --
 	Libreoffice is a version of the popular [Openoffice](https://www.openoffice.org/) suite.
 	This version is updated more frequently than the original.
@@ -77,6 +81,10 @@ Other programs:
 	viewed in a web browser one can page through the slides.
 
 ### Audio Processing
+<figure class="right_edge">
+	<img src="images/audacity.png" alt="Screenshot of an editor showing an audio waveform">
+	<figcaption>Audacity</figcaption>
+</figure>
 * [Audacity](https://www.audacityteam.org/) --
 	An excellent audio editor. You can load audio from files in formats
 	including MP3 and WAV. If you have a microphone, you can record right
@@ -126,9 +134,9 @@ Other programs:
 	The Classic opensource image editor. An answer to Adobe Photoshop. Can be
 	bewildering for the casual user which is why we recommend Pinta.
 * [Pinta](https://pinta-project.com) --
-	An easy-to-use image editor. Can be used to draw like MS Paint. Can crop photos
-	and adjust their color. Can load and save in BMP, PNG, JPEG, TIFF, and other
-	formats, but seeminly not GIF. Recommended.
+	An easy-to-use image editor. Can be used to draw as one would in say MS
+	Paint. Can crop photos and adjust their color. Can load and save in BMP,
+	PNG, JPEG, TIFF, and other formats, but seeminly not GIF. Recommended.
 * [Imagemagick](https://www.imagemagick.org) --
 	If you need to convert one or two images, you can use one of the raster
 	graphics editors described above. But if you are processing hundreds

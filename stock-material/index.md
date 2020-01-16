@@ -37,8 +37,12 @@ modify it or incorporate it into your work, and any notices which you must provi
 Beware of sites with licenses written by amateurs. These are often vague, confusing,
 contradicatory, and fail to cover common situations.
 
-You should keep notes on where you obtained your stock material. A lawyer, Faye Gelb
-provides [a good explanation](https://www.quora.com/What-is-the-best-way-to-get-free-pictures-for-my-website/answer/Faye-Gelb).
+You should keep notes on where you obtained your stock material, particularly if
+you will be putting it on line. That way you can show you obtained it legitimately
+if anyone every questions this. A lawyer, Faye Gelb provides
+[advice](https://www.quora.com/What-is-the-best-way-to-get-free-pictures-for-my-website/answer/Faye-Gelb)
+on how to do this. You should be able to save this information in or alongside 
+your project files.
 
 ### Vector Drawings
 <figure class="right_edge">
@@ -93,26 +97,44 @@ provides [a good explanation](https://www.quora.com/What-is-the-best-way-to-get-
 	</a>
 	<figcaption>From Pixabay.com</figcaption>
 </figure>
+<p>There are quite a number of sites which offer high-resolution photographs of
+landscapes, objects, and people. Often these photographs are contributed by
+photographers who want to share their work.</p>
+<p>Originally, these sites used the Creative Commons Public Domain Dedication
+(CC0) to release these photographs to the public domain, or if the law did not
+allow that, to offer a very broad fallback license. This was very convenient
+for users who did not need to study license terms or worry about whether
+they had included all the required legal notices. But it eventually created a
+problem for the sites. This was that upstart sites could simply copy all of
+their best photographs. This was perfectly legal. Eventually the two biggest
+sites (Pixabay and Unsplash) stopped releasing the photographs to the public
+domain and instead licensed them under terms which they consider very permissive
+but which prohibit other sites from taking the pictures. Sadly, these licenses,
+while good as readable statements of what they intend to accomplish, are not
+backed up by a comprehensive precisely worded license document written by
+lawyers. This leaves a lot of grey areas, particularly for those who wish to 
+incorporate these photographs into larger works which they intend to release
+under a free-culture license such as Creative Commons.</p>
+<p>Confusion continues. In May of 2019 a company called [Canva](https://about.canva.com/)
+[announced](https://about.canva.com/news/canva-acquires-pexels-pixabay/)
+that it had bought Pixabay and Pexels. The announcement says that the photos
+will be "completely free under a Creative Commons CC0 licence". However,
+as of January 2020 the licenses on these sites are unchanged.</p>
 * [Pixabay](https://pixabay.com/) --
 	Large collection photographs and a smaller number drawings and video clips.
 	Tends toward the artistic and the illustration of themes. Some are artistic
-	montages with heavy atmospheric filtering.
-	Has some nudes. (There is a filter for excluding them.)
-	Originally everything on this site was released to the public domain,
-	but starting on January 9, 2019 they began
-	[licensing](https://pixabay.com/service/license/) them instead.
+	montages with heavy atmospheric filtering. Has some nudes. (There is a
+	filter for excluding them.) Used CC0 until January 9, 2019, after which they
+	use the [Pixabay License](https://pixabay.com/service/license/).
 * [Unsplash](https://unsplash.com/) --
-	Originally everything was released using the CC0 public domain dedication,
-	but sometime between May 30 and June 8, 2017 they started
-	[licensing](https://unsplash.com/terms) them instead.
-	Unsplash [acknowledges](https://medium.com/@UserRoadmap/unsplash-is-no-longer-under-a-cc0-license-do-you-care-13d5656053b7)
-	that the public domain dedication still applies to photos uploaded before they
-	introduced their license. However, they decline to clearly mark them.
+	Used CC0 until sometime between May 30 and June 8, 2017 when they switched to the
+	[Unsplash Licensing](https://unsplash.com/terms).
+	Unsplash has [acknowledged](https://medium.com/@UserRoadmap/unsplash-is-no-longer-under-a-cc0-license-do-you-care-13d5656053b7)
+	that CC0 still applies to photos uploaded before the license change, but decline
+	to identify the CC0 photographs on their site.
 * [Pexels](https://www.pexels.com/) --
-	Uses a [license](https://www.pexels.com/photo-license/) similiar to those of Pixabay and Unsplash.
-	In May of 2019 it was [announced](https://about.canva.com/news/canva-acquires-pexels-pixabay/)
-	that both sites were bought bo Canva. Confusingly the announcement says that the photos
-	will be "completely free under a Creative Commons CC0 licence".
+	As site similiar to those of Pixabay and Unsplash.
+	Uses a similiar informally-worded [license](https://www.pexels.com/photo-license/).
 * [Stocksnap](https://stocksnap.io/) --
 	Images of nature, landscapes, people, illustration of themes. [Uses the
 	CC0 public domain dedication.](https://stocksnap.io/license)
@@ -132,11 +154,10 @@ provides [a good explanation](https://www.quora.com/What-is-the-best-way-to-get-
 * [Wikimedia Commons](https://commons.wikimedia.org/wiki/Main_Page) --
 	Collection of images, sounds, and video collected for use in Wikipedia and
 	other projects
-* [Internet Archive Book Images](https://www.flickr.com/photos/internetarchivebookimages/) --
-	Images from scanned books at the [Internet Archive](https://archive.org/)
 * [Flickr: The Commons](https://www.flickr.com/commons) --
-	Collection of public domain images. Many historical images from museum
-	photograph collections and out-of-copyright books.
+	Collection of public domain images posted by over 100 public institutions.
+	Includes the [Internet Archive Book Images](https://www.flickr.com/photos/internetarchivebookimages/)
+	described in [this announcment](https://blog.archive.org/2014/08/29/millions-of-historic-images-posted-to-flickr/).
 * [Public Domain Q](https://publicdomainq.net/)
 	Public domain photos, illustrations, and photographs of paintings. Site is in
 	Japanese, but can be navigated without too much trouble using a web browser
