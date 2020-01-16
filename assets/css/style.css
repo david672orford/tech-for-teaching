@@ -12,7 +12,7 @@ BODY {
 MAIN {
 	margin: .5em;
 	}
-H1, FOOTER {
+H1, DIV.breadcrumbs, FOOTER {
 	font-family: sans-serif;
 	color: white;
 	background-color: #c88200;
@@ -27,9 +27,12 @@ HEADER IMG {
 	width: calc(100% - 10px);
 	max-width: 640px;
 	}
+DIV.breadcrumbs {
+	padding: .2em;
+	}
 H1 {
 	font-size: 150%;
-	padding: .67em;	/* 1em */
+	padding: .5em;
 	}
 H1 A {
 	text-decoration: inherit;

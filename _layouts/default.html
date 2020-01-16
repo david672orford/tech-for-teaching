@@ -11,6 +11,7 @@
 <header>
   <h1><a href="{{ "/" | absolute_url }}">{{ site.title }}</a></h1>
 
+  <div class="breadcrumbs">
   <a href="/">Home</a>
   {% assign crumbs = page.url | split: '/' %}
   {% for crumb in crumbs offset: 1 %}
@@ -20,6 +21,7 @@
       / <a href="{% assign crumb_limit = forloop.index | plus: 1 %}{% for crumb in crumbs limit: crumb_limit %}{{ crumb | append: '/' }}{% endfor %}">{{ crumb | replace:'-',' ' | capitalize }}</a>
     {% endif %}
   {% endfor %}
+  </div>
 
   {% if page.title_img %}
   <img src="{{ page.title_img }}" alt="{{ page.title_alt }}">
