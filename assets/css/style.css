@@ -15,7 +15,7 @@ MAIN {
 H1, DIV.breadcrumbs, FOOTER {
 	font-family: sans-serif;
 	color: white;
-	background-color: #c88200;
+	background-color: #c88200;		/* different on different sites */
 	}
 HEADER {
 	background-color: #808080;
