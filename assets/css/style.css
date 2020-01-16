@@ -12,24 +12,18 @@ BODY {
 	color: black;
 	font-size: 12pt;
 	}
+DIV.scroller {
+	flex: 1 1 auto;
+	height: 100px;
+	overflow-y: auto;
+	}
 MAIN {
 	margin: .5em;
-	flex-grow: 1;
 	}
 HEADER, FOOTER {
 	font-family: sans-serif;
 	color: white;
 	background-color: #c88200;		/* different on different sites */
-	}
-DIV.img_border {
-	background-color: #808080;
-	}
-HEADER IMG {
-	display: block;
-	margin: 0 auto;
-	padding: .2em;
-	width: calc(100% - 10px);
-	max-width: 640px;
 	}
 DIV.breadcrumbs {
 	padding: 0 .7em .3em .7em;
@@ -49,6 +43,17 @@ FOOTER {
 	display: flex;
 	justify-content: space-between;
 	padding: .5em;
+	}
+
+DIV.title_img {
+	background-color: #808080;
+	}
+DIV.title_img IMG {
+	display: block;
+	margin: 0 auto;
+	padding: .2em;
+	width: calc(100% - 10px);
+	max-width: 640px;
 	}
 
 /* Content */

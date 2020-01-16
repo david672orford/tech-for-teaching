@@ -23,12 +23,15 @@
   {% endfor %}
   </div>
 
-  {% if page.title_img %}
-  <div class="img_border">
-    <img src="{{ page.title_img }}" alt="{{ page.title_alt }}">
-  </div>
-  {% endif %}
 </header>
+
+<div class="scroller">
+
+{% if page.title_img %}
+<div class="title_img">
+  <img src="{{ page.title_img }}" alt="{{ page.title_alt }}">
+</div>
+{% endif %}
 
 <main>
 {{ content }}
@@ -36,11 +39,10 @@
 
 <div class="author_box">
   <img src="/assets/images/author.jpg">
-    <div>
-      <div class="author_byline">David Chappell</div>
-      <div class="author_blurb">
-        {{ site.author_blurb }}
-      </div>
+  <div>
+    <div class="author_byline">David Chappell</div>
+    <div class="author_blurb">
+      {{ site.author_blurb }}
     </div>
   </div>
 </div>
@@ -57,6 +59,8 @@
   <script>
   (adsbygoogle = window.adsbygoogle || []).push({});
   </script>
+</div>
+
 </div>
 
 <footer>
