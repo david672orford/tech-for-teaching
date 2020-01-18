@@ -2,11 +2,10 @@
 
 ## Useful Special Characters to Copy
 
-Em Dash: —
-
-Quote Marks: “ ” « »
-
-Ellipsis: …
-
-Arrows: 🡐 🡒 🡑 🡓
+<table>
+<tr><th>Em Dash</th><td>—</td></tr>
+<tr><th>Quote Marks</th><td>“ ” « »</td></tr>
+<tr><th>Ellipsis</th><td>…</td></tr>
+<tr><th>Arrows</th><td>🡐 🡒 🡑 🡓</td></tr>
+</table>
 
