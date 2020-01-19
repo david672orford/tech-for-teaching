@@ -234,16 +234,24 @@ as of January 2020 the licenses on these sites are unchanged.
 	All under the Creative Commons Attribution 3.0 license
 
 ### Royalty Free Music
-* [Free Music Archive](https://archive.org/details/freemusicarchive)
-	--
 * [MusOpen](https://musopen.org) --
-	Royal free music recordings
-* [Soundimage](http://soundimage.org)
-	--
-* [Youtube Music Library](https://www.youtube.com/audiolibrary/music)
-	--
-* [IncompeTech](http://incompetech.com/)
-	--
+	Classical music recordings in the public domain or under a [Creative Commons](https://www.creativecommons.org) license.
+	In addition to recordings, this site offers sheet music and textbooks.
+	It is not clear what is the source of these music recordings and who performs in them.
+* [IncompeTech](https://incompetech.filmmusic.io/) --
+	Original and classical music performed by Kevin MacLeod.
+	Released under the [Creative Commons Attribution 4.0 License](http://creativecommons.org/licenses/by/4.0/).
+	Some of this music is also available on his [old site](http://incompetech.com/).
+* [Youtube Music Library](https://www.youtube.com/audiolibrary/music) --
+	Searchable collection of hundreds of music tracks which Google has approved
+	for use in Youtube videos. Includes tracks from
+	[Kevin MacLeod](http://incompetech.com/),
+	[Chris Zabriskie](http://chriszabriskie.com/),
+	[Kevin Shaw](https://audionautix.com/), and
+	[Twin Musicom](http://www.twinmusicom.org/)
+	under a [Creative Commons Attribution license](https://creativecommons.org/licenses/by/4.0/).
+	For tracks which do not require attribution, the performer's name is sometimes
+	linked to his Youtube channel.
 
 ### Other Stock Materials
 * [Global Digital Library](https://home.digitallibrary.io/) --
