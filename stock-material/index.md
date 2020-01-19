@@ -59,7 +59,7 @@ your project files.
 	material from Openclipart.
 	Search results from Shutterstock (a comercial supplier of stock art)
 	are displayed along side the search results and this can be confusing at times.
-* [Pixabay](https://pixabay.com/vectors/)
+* [Pixabay Vectors](https://pixabay.com/vectors/)
 	Pixabay is best known for high-resolution stock photographs, but they also
 	have tens of thousands of vector drawings.
 
@@ -97,10 +97,12 @@ your project files.
 	</a>
 	<figcaption>From Pixabay.com</figcaption>
 </figure>
-<p>There are quite a number of sites which offer high-resolution photographs of
+
+There are quite a number of sites which offer high-resolution photographs of
 landscapes, objects, and people. Often these photographs are contributed by
-photographers who want to share their work.</p>
-<p>Originally, these sites used the Creative Commons Public Domain Dedication
+photographers who want to share their work.
+
+Originally, these sites used the Creative Commons Public Domain Dedication
 (CC0) to release these photographs to the public domain, or if the law did not
 allow that, to offer a very broad fallback license. This was very convenient
 for users who did not need to study license terms or worry about whether
@@ -114,12 +116,14 @@ while good as readable statements of what they intend to accomplish, are not
 backed up by a comprehensive precisely worded license document written by
 lawyers. This leaves a lot of grey areas, particularly for those who wish to 
 incorporate these photographs into larger works which they intend to release
-under a free-culture license such as Creative Commons.</p>
-<p>Confusion continues. In May of 2019 a company called [Canva](https://about.canva.com/)
+under a free-culture license such as Creative Commons.
+
+Confusion continues. In May of 2019 a company called [Canva](https://about.canva.com/)
 [announced](https://about.canva.com/news/canva-acquires-pexels-pixabay/)
 that it had bought Pixabay and Pexels. The announcement says that the photos
 will be "completely free under a Creative Commons CC0 licence". However,
-as of January 2020 the licenses on these sites are unchanged.</p>
+as of January 2020 the licenses on these sites are unchanged.
+
 * [Pixabay](https://pixabay.com/) --
 	Large collection photographs and a smaller number drawings and video clips.
 	Tends toward the artistic and the illustration of themes. Some are artistic
@@ -198,24 +202,24 @@ as of January 2020 the licenses on these sites are unchanged.</p>
 	Over 100 3D models in multiple formats including Blender and Sweethome3d.
 
 ### Sound Effects
-* [Freesound.org](https://freesound.org)
-	--
+* [Freesound.org](https://freesound.org) --
+	Over 400,000 sound effects released under
+	[Creative Commons licenses](https://www.creativecommons.org/licenses).
 * [Gamesounds.xyz](https://gamesounds.xyz) --
-	Royalty free or public domain game music and sounds
+	Someone's collection of sound libraries which he believes are free to use.
+	It appears that each top-level folder is a separate collection with its
+	own terms. In most cases these are in a file called "LICENSE". We have traced
+	some of these collections to their original sources:
+    * [99Sounds](http://99sounds.org/) (
+    * [BBC Sound Effects Library](http://bbcsfx.acropolis.org.uk/) (16,000 BBC sound effects licensed for "personal, educational or research purposes")
+    * [Kennedy's Sound Pack](https://www.kenney.nl/)
+    * [Octave-UISounds](http://www.raisedbeaches.com/octave)
 * [Soundbible.com](http://soundbible.com) --
-	Free sound clips
-* [Soundjay.com](https://www.soundjay.com) --
-	Free sound effects
-* [Sweetsoundeffects.com](http://sweetsoundeffects.com)
-	--
-* [PartnersInRhyme](https://www.partnersinrhyme.com/pir/PIRsfx.shtml)
-	--
-* [Zapsplat](https://www.zapsplat.com)
-	--
-* [FXhome](https://fxhome.com/sound-effects)
-	--
-* [Soundimage](http://soundimage.org)
-	--
+	Hundreds of sound effects which are either in the public domain or released
+	under the Creative Commons Attribution 3.0 license
+* [FXhome](https://fxhome.com/sound-effects) --
+	A few hundred sound effects downloadable as sets in ZIP files.
+	All under the Creative Commons Attribution 3.0 license
 
 ### Royalty Free Music
 * [Free Music Archive](https://archive.org/details/freemusicarchive)
