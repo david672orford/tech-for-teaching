@@ -147,6 +147,10 @@ as of January 2020 the licenses on these sites are unchanged.
 * [StockVault](https://www.stockvault.net) --
 	Uploaders choose a [license](https://www.stockvault.net/terms-of-use)
 	or CC0 public domain dedication.
+* [Kaboompics](https://kaboompics.com/) --
+	A photographer named Karolina Grabowska has posted about 15,000 of her own pictures.
+	The [license](https://kaboompics.com/page/license-and-faq) is similar to
+	those used by Pixabay and Unsplash.
 
 ### Other Image Collections
 <figure class="right_edge">
@@ -157,7 +161,10 @@ as of January 2020 the licenses on these sites are unchanged.
 </figure>
 * [Wikimedia Commons](https://commons.wikimedia.org/wiki/Main_Page) --
 	Collection of images, sounds, and video collected for use in Wikipedia and
-	other projects
+	other projects. Check the information page for each image to see why it is
+	considered suitable for use in Wikipedia. Grounds are that it is in the
+	public domain, that it has been released under a suitable license, or that
+	its use in the online encyclopidia is fair use.
 * [Flickr: The Commons](https://www.flickr.com/commons) --
 	Collection of public domain images posted by over 100 public institutions.
 	Includes the [Internet Archive Book Images](https://www.flickr.com/photos/internetarchivebookimages/)
@@ -171,6 +178,11 @@ as of January 2020 the licenses on these sites are unchanged.
 	Copyright status indicated for each. They
 	[ask to be credited as the source](https://visualsonline.cancer.gov/about.cfm)
 	even for the public domain images.
+* [Rawpixel's Public Domain Images](https://www.rawpixel.com/category/53/public-domain)
+	Fantastic collection of images taken from out-of-copyright books, chromolithographic
+	plates, and US government sources. Includes fine art paintings, high quality
+	illustrations of persons, places, floura and fauna, illustations and photographs
+	from NASA.
 
 ### Image Search Engines
 * [Librestock](https://librestock.com/) --
