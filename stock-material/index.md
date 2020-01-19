@@ -58,7 +58,7 @@ your project files.
 	60,000 public domain vector images. Includes some of the better
 	material from Openclipart.
 	Search results from Shutterstock (a comercial supplier of stock art)
-	are displayed along side the search results and this can be confusing at times.
+	are displayed alongside the search results and this can be confusing at times.
 * [Pixabay Vectors](https://pixabay.com/vectors/)
 	Pixabay is best known for high-resolution stock photographs, but they also
 	have tens of thousands of vector drawings.
@@ -142,8 +142,10 @@ as of January 2020 the licenses on these sites are unchanged.
 * [Stocksnap](https://stocksnap.io/) --
 	Images of nature, landscapes, people, illustration of themes. [Uses the
 	CC0 public domain dedication.](https://stocksnap.io/license)
-	Watch out though, when you search they display
-	results from Shutterstock above their own results which is very confusing.
+	Watch out though, when you search they display results from Shutterstock
+	before their own results which is very confusing. That a photograph is
+	from Shutterstock is indicated only be a small start in a yellow tab
+	in the top-left corner.
 * [StockVault](https://www.stockvault.net) --
 	Uploaders choose a [license](https://www.stockvault.net/terms-of-use)
 	or CC0 public domain dedication.
@@ -168,7 +170,10 @@ as of January 2020 the licenses on these sites are unchanged.
 * [Flickr: The Commons](https://www.flickr.com/commons) --
 	Collection of public domain images posted by over 100 public institutions.
 	Includes the [Internet Archive Book Images](https://www.flickr.com/photos/internetarchivebookimages/)
-	described in [this announcment](https://blog.archive.org/2014/08/29/millions-of-historic-images-posted-to-flickr/).
+	described in [this announcement](https://blog.archive.org/2014/08/29/millions-of-historic-images-posted-to-flickr/).
+	Be sure to always start your search from search box in the middle of the
+	Commons home page. If you accidently use the search box at the top of that
+	or any other page, you will be searching all of Flickr instead.
 * [Public Domain Q](https://publicdomainq.net/)
 	Public domain photos, illustrations, and photographs of paintings. Site is in
 	Japanese, but can be navigated without too much trouble using a web browser
