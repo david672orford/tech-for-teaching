@@ -57,8 +57,8 @@ which we are still evaluating.
 	reflowable HTML first while preserving most formatting. To run this
 	program you must have Python 2 installed on your computer.
 * [Evince](https://wiki.gnome.org/Apps/Evince/)
-	[Windows version](https://www.fosshub.com/Evince.html) --
 	Document viewer for electronic document formats including PDF and DjVu.
+	The version for Microsoft Windows is on [Fosshub](https://www.fosshub.com/Evince.html).
 * [Calibre](https://calibre-ebook.com/) --
 	High quality ebook reader and ebook management system.
 

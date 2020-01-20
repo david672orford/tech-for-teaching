@@ -48,10 +48,14 @@ vector versions of your drawings.
 ### Vector Formats
 
 The most common vector formats are SVG, EPS, and Adobe Illustrator format.
-SVG is the most modern format. Images in this format can be edited in a variety
-of programs and can be embedded in web pages without conversion.
 
-### Raster Formats
+SVG is the most modern format. Images in this format can be edited in a variety
+of programs. Nowadays almost all web browsers can display them.
+
+EPS and Adobe Illustrator files need to be converted before you can use them
+in web pages. You can use Inkscape to convert them.
+
+### Raster Formats for Web Pages
 
 GIF format is one of the first used on the World Wide Web. It used to be the
 dominant format for photographs. It keeps the details of a photograph sharp,
@@ -84,6 +88,26 @@ include screenshots, line art, and logos. For these you should use PNG format.
 This format is designed to deal well with the large areas of the same color
 followed by a clean switch to another color which characterize such images.
 
-In summary, use JPEG for photographs and things which look like photographs.
+The earliest web browsers such as NCSA Mosaic would display BMP and XBM images.
+These formats are completely obsolete and should not be used. Modern browsers
+are dropping support for them.
+
+ICO files are a format from Microsoft Windows. They have a niche use on the
+World Wide Web for storing the icon which which is displayed next to the page
+title in the tab or in the bookmarks. An ICO file can hold multiple copies of
+the icon in different resolutions such as 16x16, 32x32, and 64x64 pixels.
+
+In summary, is good for JPEG for photographs and things which look like photographs.
 Use PNG drawings created in a computer, including screenshots of user interfaces.
+
+### TIFF Format
+
+TIFF is a raster image format originally intended for use in desktop
+publishing.  It is a container format which means that a single TIFF file can
+contain multiple images and these images can be in various different formats.
+TIFF format is sometimes used to store faxes. Photographers often use it with
+compression turned off to keep high-quality master copies of their images.
+Uncompressed TIFF files tend to be large and thus not suitable for use in web
+pages. Most browsers will not display TIFF files at all. Before inclusion in
+a web page, they should be converted to JPEG or PNG format.
 
