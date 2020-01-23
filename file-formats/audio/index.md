@@ -54,8 +54,11 @@ bitrate chosen. To accomplish this some of the details are thrown away. Voice
 recordings can be compressed more than music. If an MP3 file is compressed
 to heavily, a ringing noise may be heard behind the speakers voice.
 
-Almost all web browsers can play MP3 files. Playback was covered by patents,
-but these are all thought to be expired.
+Like other MPEG standards, MP3 was covered by patents, but it appears the last
+of these expired in 2017. This means that this already very popular format can
+be deployed everywhere. Though it has been surpassed technically, its ubuquity
+gives it a decided advantage. As of January 2020, about 97% of web browsers can
+play MP3 files.
 
 ### M4A Files (Lossy)
 
@@ -64,16 +67,18 @@ Usually the compression method is the Advanced Audio Coding (AAC). Because this
 is a newer standard than MP3, the audio quality will be higher for the same file
 size or the file size will be smaller for the same quality.
 
-AAC is still covered by patents, so while most all browsers can play it, support
-is not quite as high as it is for MP3.
+Though AAC is still covered by patents, as of January 2020, about 97% of web browsers
+can play it. Because of the patents, the Firefox web browser can play AAC only if
+the underlying operating system has an AAC decoder.
 
 ### OGG Files (Lossy)
 
-Because MP3 was covered by patents, a pattent-free alternatives were sought. The
-most popular is the OGG container format with the Vorbis codec inside. Most
-browsers will play it, but Internet Explorer will not and Safari may not.
+Because MP3 was covered by patents, a patent-free alternatives were sought. The
+most popular is the OGG container format with the audio inside in a format known
+as Vorbis. Most browsers will play it, but Internet Explorer will not and Safari
+may not.
 
 Just as AAC is an improvement over MP3, there is a modern improvement over Vorbis
-which is known as Opus. Modern web browsers which can play OGG files support
-both Vorbis and Opus.
+which is known as Opus. As of January 2020 about 90% of web browsers will
+play Ogg files with either Vorbis or Opus audio.
 
