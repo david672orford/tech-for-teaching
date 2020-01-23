@@ -34,6 +34,13 @@ a single hour of video since this pays off in lower data transfer and storage co
 If a faster computer is used to do the encoding, a more thorough search can be
 performed in a reasonable period of time.
 
+Compressors for new video formats can be very slow. This is for two reasons.
+One is that the new format provides new ways to compress the video which requires
+more effort to find the best one. The second reason is that the initial versions
+of the encoders have been written with emphasis on correctness rather than speed.
+In time they speed up as the code is improved. Computers also get faster which
+makes new more CPU-intensive video formats practical.
+
 The degree of compression achievable without loss of quality is also limited by
 the capabilities of the playback device. Reconstructing each frame takes time.
 If the instructions for doing so are too convoluted, the player may not complete
