@@ -78,7 +78,7 @@ later revisions of the MPEG-2 standard. This is probably just as well, since
 it would have been confused with MP3 audio.
 
 MPEG-4 was first published in 1996. It provided a moderately-improved picture
-format know as the Advanced Simple Profile (ASP).  An addendum known as Part 10
+format know as the Advanced Simple Profile (ASP). An addendum known as Part 10
 which was published in 1999 defined a new and improved picture format known as
 H.264 or the Advanced Video Coding (AVC) which soon displaced ASP.
 
@@ -94,11 +94,12 @@ were probably all expired by 2018. Patents on ASP decoders seem to have expired 
 does not expire until 2027.
 
 As of 2020 the most popular video format used on the Internet is MPEG-4 with
-the picture in H.264 and the audio in AAC. This is one of two key formats used
-by Youtube. It is also the format in which must consumer devices such as video
-cameras and smartphones record. As of January 2020 this combination will play
-in about 95% of web browsers. ASP video and MP3 audio will also likely work.
-You should assume that web browsers will not play MPEG-1 or MPEG-2 videos.
+the picture in H.264 and the audio in AAC wrapped in an MP4 container. This is
+one of two key formats used by Youtube. It is also the format in which most
+consumer devices such as video cameras and smartphones record. About 95% of
+web browsers will play this format. MP3 audio will also likely work instead.
+Apple's Safari browser will play ASP instead if H.264, but most other browsers
+will not. Few if any browsers will play MPEG-1 and MPEG-2 videos.
 
 ### Software Patents
 
@@ -106,9 +107,9 @@ An organization called MPEG LA serves as an agent for holders of about a
 thousand patents which supposedly apply to the MPEG standards.
 
 In 1997 MPEG LA charged $4 for an MPEG-2 encoder or decoder and $6 for a device
-which needs both. Market forces have pushed prices down. As of 2015 MPEG LA
+which needed both. Market forces have pushed prices down. As of 2015 MPEG LA
 charged about $0.10 for each H.264 encoder or decoder in a consumer device such
-as a video camera or a computer and $0.16 for a device which does both. Paying
+as a video camera or a computer and $0.16 for a device which did both. Paying
 $0.16 royalty on a $200 video camera or a $600 iPhone is no big deal. But it is
 a serious problem for publishers of free software.
 
@@ -119,12 +120,13 @@ So if Firefox were to include an H.264 decoder, the royalties would be $150,000
 per day with no way to pay them.
 
 This situation has caused considerable consternation. An important reason the
-Internet was able to rise from an obscure network in the 1990's to the world's
-network is that the core technologies are in the public domain. Nobody needed
-to seek permission and persuade a corporation to license its technology on
-favorable terms before they could create a web site or a new web browser.
-Now giant companies such as Google, Amazon, and Yahoo were started as hobby
-projects or small businesses in college dorm rooms and garages.
+Internet was able to rise from an obscure network in the 1990's to the whole
+world's network is that the core technologies are in the public domain. Nobody
+needed to seek permission and persuade a corporation to license its technology
+on favorable terms before they could create a web site or a new web browser.
+Companies which are now household names such as Google, Amazon, and Yahoo were
+started as hobby projects or small businesses in college dorm rooms and
+garages.
 
 Many saw it as a serious problem that such a basic feature of the 21st century
 Internet as streaming video was not available under the free and open terms which
@@ -140,41 +142,43 @@ for free. This was enough for MPEG video to become the dominate format on the
 Internet despite misgivings.
 
 Neverthless there remains a desire in many quarters to find a completely
-royalty free alternative to MPEG-4. There is also a certain amount of
-resentment about the patents themselves. Software patents as a class are viewed
-by computer programmers with almost universal contempt. To qualify for a
-patent, an "invention" has to go beyond what we would expect a competent
-practitioner to come up with in the ordinary course of doing his job. Software
-patents seldom actually meet this legal standard.
+royalty free alternative to MPEG-4. There is also a considerable resentment
+about the patents themselves. Software patents as a class are viewed by
+computer programmers with almost universal contempt. To qualify for a patent,
+an invention has to go beyond what we would expect a competent practitioner to
+come up with in the ordinary course of doing his job. Software patents seldom
+actually meet this legal standard.
 
 Junk software patents can be manufactured at will without having to invent
 anything. Company lawyers interview programmers and write up the ordinary
 solutions they used. Harried patent examiners approve these trivial patents.
 Companies collect them as legal-defense ammunition. If a competitor sues them
-for patent infringment, they can sue right back. The very vagueness and
-triviality of these patents makes it a forgone conclusion that the competitor
-is violating several of them. At this point both sides agree to "cross
-license" their patents which is a face-saving way of dropping the whole thing.
+for patent infringment, they can sue for the same thing. Junk software patents
+are so trivial and so broad that they can be used to sue practically anyone.
+At this point both sides agree to "cross license" their patents which is a
+face-saving way of dropping the whole thing.
 
 We can safely assume that very few of the 1000 patents which supposedly must be
-licensed in order to use MPEG video actually describe valuable inventions which
-anyone, given the choice, would choose to license. But once the things they
-describe are required by a popular standard, then everyone has to license them
-or risk being sued. The Motion Picture Experts Group could have weighted the
-cost of licensing various patents when which techniques to incorporate into
-the standard, but did not. In a few cases MPEG members are suspected of getting
+licensed in order to use MPEG video actually describe valuable inventions for
+which anyone would willingly pay money. But once the things they describe are
+required by a popular standard, then everyone has to license them or risk being
+sued. The Motion Picture Experts Group could have weighted the cost of
+licensing various patents when which techniques to incorporate into the
+standard, but did not. In a few cases MPEG members are suspected of getting
 algorithms of dubious value mandated by the standard so that they could collect
 royalties on their use.
 
 The situation with patents on MPEG video has deteriorated with the introduction
-of the new H.265 standard for which about ten thousand patents are claimed.  As
-before, some can be licensed from the MPEG LA for $0.10 per device.  Some more
-can be licensed from a new organization, HEVC Advance, which announced that
-they would be charging $2.80 per device and be taking a share of the revenue of
-video service which use HEVC, though they have made some concessions since.
-Nor is it clear whether a license from these two companies will cover all of
-the patents. H.265 was expected to become the dominant standard, replacing
-H.264, but the patent fiasco has thrown its future into doubt.
+of the new H.265 standard for which an extrordinary 10,000 or so patents are
+claimed.  (Ask yourself if an incrementally improved anything could really
+embody 10,000 new inventions.) As before, some can be licensed from the MPEG LA
+for $0.10 per device. Some more can be licensed from a new organization, HEVC
+Advance, which announced that they would be charging $2.80 per device and be
+taking a share of the revenue of video service which use HEVC, though they have
+made some concessions since. Nor is it clear whether a license from these two
+companies will cover all of the patents. H.265 was expected to become the
+dominant standard, replacing H.264, but the patent fiasco has thrown its future
+into doubt.
 
 At first glance it would seem that users of any competing standard would have
 to license most of these patents too if they wanted their standard to be any
@@ -182,19 +186,20 @@ good, but this is not necessarily the case. First, the patents on earlier
 versions of the MPEG standards have expired or will expire soon. Second, many
 of the remaining patents are so narrow and arbitrary that they can be
 circumvented simply by selecting a slightly different solution. Third, if the
-royalties become too onerous, large organizations may start fighting back in
-the courts and bring their own defensive patent portfolios to bear.
+royalties become too onerous, large corporate sponsors of a competing standard
+can fighting back in the courts and bring their own defensive patent portfolios
+to bear.
 
 ### Ogg Theora Video
 
-One company which attempted to produce a patent free video coder is On2 Technologies.
-Their programers studied the known video encoding patents and avoided doing what
-was described in them. In September 2001 they released their VP3 video format for
-free use and the Xiph.org Foundation (which had already produced the OGG Vorbis and FLAC
-audio formats) developed it furthur into the Theora video format. Though early
-implementations of Theora had defects which impaired quality, but by 2009 these had
-been corrected and Theora was producing results comparable to those of the first
-MPEG-4 format, ASP.
+One company which attempted to produce a patent free video coder is On2
+Technologies.  Their programers studied the known video encoding patents and
+avoided doing what was described in them. In September 2001 they released their
+VP3 video format for royalty-free use and the Xiph.org Foundation (which had
+already produced the OGG Vorbis and FLAC audio formats) developed it furthur
+into the Theora video format. Though early implementations of Theora had
+defects which impaired quality, by 2009 these had been corrected and Theora
+was producing results comparable to those of the first MPEG-4 format, ASP.
 
 Early drafts of the HTML5 standard required that web browsers be able to play
 Theora video Vorbis audio in an OGG container. Advocates of a free and open
@@ -202,7 +207,7 @@ Internet spoke elequently in its favor. They argued that web site operators
 should have at least royalty-free video format of acceptable quality which they
 could be confident would play on all devices. However this proposal faced
 opposition, particularly from Apple which had already committed to H.264 and
-had no problem paying a $0.10 fee for each iPhone. They had already spent the
+had no problem paying a $0.10 fee for each iPhone. They had also already spent the
 effort to create special hardware to play H.264 without draining the battery
 to quickly and did not want to repeat that work for a format with lower
 picture quality. The requirement to support Vorbis was eventually dropped from
