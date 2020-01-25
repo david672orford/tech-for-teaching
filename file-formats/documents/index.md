@@ -143,7 +143,7 @@ here are two paragraphs in HTML:
     <p>This paragraph goes on for more than one line. There is
     no doubt that all these lines are part of the same
     paragraph because they are surrounded by <b>p</b> tags.</p>
-    <p>We can print in <b>bold</i> or <i>italic</i>. We can even
+    <p>We can print in <b>bold</b> or <i>italic</i>. We can even
     do <b><i>both at once</i></b>.</p>
 
 This produces the following:
@@ -151,7 +151,7 @@ This produces the following:
 <p>This paragraph goes on for more than one line. There is
 no doubt that all these lines are part of the same
 paragraph because they are surrounded by <b>p</b> tags.</p>
-<p>We can print in <b>bold</i> or <i>italic</i>. We can even
+<p>We can print in <b>bold</b> or <i>italic</i>. We can even
 do <b><i>both at once</i></b>.</p>
 
 Writing all the tags in HTML can be tedious. There are editors which make the job easier.
