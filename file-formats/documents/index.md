@@ -1,6 +1,8 @@
 ## Document Formats
 
-There are many different file formats for creating and storing documents.
+There are many different file formats for creating and storing documents
+in offices and on the Internet. Here we describe some of the most important.
+
 
 ### Plain Text Files
 
