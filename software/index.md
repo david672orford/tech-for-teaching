@@ -130,23 +130,42 @@ Other programs:
 	the URL of the video's webpage and it does the rest.
 
 ### Raster Image Editing
+Photographs are stored in a computer as an array of tiny dots. Drawings
+done on a computer or scanned from paper may also take this form. If you
+want to crop the image or alter its brightness, contrast, color tone,
+or sharpness, you need a raster image editor. If you have the skills
+and a suitable image editor, you can perform more radical alterations
+such as removing distracting or unsightly details or even whole objects.
 * [GIMP](https://www.gimp.org/) --
-	The Classic opensource image editor. An answer to Adobe Photoshop. Can be
-	bewildering for the casual user which is why we recommend Pinta.
+	The GIMP is a very capable image editor. It is the opensource world's
+	first answer to Adobe's Photoshop. People either love it or hate it.
+	Common criticisms are that the user interface is cluttered and poorly
+	organized, and that its behavior is different from that of most other
+	editors for no obvious benefit. If you use it only occasionally,
+	you will spend an inordination amount of time trying to remember how
+	to perform even basic tasks. Casual users would probably be better
+	off with Pinta or Krita.
 * [Pinta](https://pinta-project.com) --
-	An easy-to-use image editor. Can be used to draw as one would in say MS
-	Paint. Can crop photos and adjust their color. Can load and save in BMP,
-	PNG, JPEG, TIFF, and other formats, but seeminly not GIF. Recommended.
+	This edit has a basic set of features which will be sufficient for the needs of many users.
+	It is not nearly as capable as the GIMP, but far easier to use.
+	Suitable for cropping photos, adjusting their color, and removing redeye and blemishes.
+	Has simple tools for freehand drawing, adding shapes and lines, and adding text.
+	You can create multiple layers.
+	Can load and save in OpenRaster, BMP, PNG, JPEG, TIFF, and other formats, but seeminly not GIF.
+	Pinta is a clone of Paint.Net which in turn was inspired by Microsoft Paint.
+	Highly recommended.
+* [Krita](https://krita.org/) --
+	While Pinta is primarily for editing photographs, Krita is primarily for drawing and painting.
+	It has numerous brushes which can be used with a mouse or a drawing tablet.
+	Has vector graphics layers which can be loaded from SVG files and saved to them.
+	Vector shapes can be copied between Krita and Inkscape.
+	Can be used to draw animation, though there is no automatic tweening.
 * [Imagemagick](https://www.imagemagick.org) --
 	If you need to convert one or two images, you can use one of the raster
 	graphics editors described above. But if you are processing hundreds
 	of images, you are better off using Imagemagick. It can be used as a
 	command-line program or you can use it as a library from your favorite
 	programming language.
-
-Other programs:
-	[Krita](https://krita.org/),
-	[MyPaint](http://mypaint.org/)
 
 ### Vector Drawing
 * [Inkscape](https://inkscape.org/) --
@@ -162,20 +181,28 @@ Other programs:
         to use Inkscape
     * [Isometric Projection in Inkscape](http://ahninniah.blogspot.com/2013/04/isometric-projection-in-inkscape.html) --
         Tutorial in drawing pseudo 3D pictures as done in technical drawings
+* [Krita](https://krita.org/) --
+	Krita version 4.0 has vector layers with support for SVG.
 * [Dia Diagram Editor](http://dia-installer.de/) --
 	Program for drawing flowchards, circuit diagrams, etc.
 
 ### 2D Animation
+* [Wick Editor](https://www.wickeditor.com/) --
+    A promising web application for creating animations. Can export the finished
+	animation as a video file or as a player which draws the animation in real
+	time to an HTML5 canvas.
+* [Krita](https://krita.org/) --
+	Krita has support for 2D animation drawn frame-by-frame. Can export to video.
 * [Svg.svg](https://svgjs.com/) --
 	Javascript library for adding animation to SVG drawings. You can make a drawing in
 	Inkscape, put it on your web page, and then use this library to show and hide elements
 	(including layers), move things around, scale and rotate, them, all at a time
 	and speed you specify. Recommended for basic animation needs were a game platform
 	would be overkill.
-* [Wick Editor](https://www.wickeditor.com/) --
-    A promising web application for creating animations.
 
-Other programs: [Synfig Studio](https://www.synfig.org/), [Pencil](https://www.pencil2d.org/),
+Other programs:
+	[Synfig Studio](https://www.synfig.org/),
+	[Pencil](https://www.pencil2d.org/),
 	[TupiTube](http://www.tupitube.com/)
 
 ### Stop Motion Animation
@@ -197,13 +224,14 @@ Other programs: [Synfig Studio](https://www.synfig.org/), [Pencil](https://www.p
 	An easy-to-use program for creating 3D models of rooms with doors, windows, and furniture.
 	See our article [Using Sweethome 3D](sweethome/).
 * [X3dom](https://www.x3dom.org/) --
-	Javascript library for displaying a 3D model on a webpage so it can be
-	zoomed and rotated by the viewer.
+	Javascript library for embedding X3D files in a webpage. X3D is a format
+	for 3D scenes on the Internet. It is the successor to VRML.
 
 ### Web Game Platforms
-* [Pixi](https://github.com/kittykatattack/learningPixi) --
+* [Pixi](https://www.pixijs.com/) --
 	Game plaform with 2D sprite animation
 	<br>(Not yet evaluated.)
+    * [Learning Pixi](https://github.com/kittykatattack/learningPixi)
 * [Babylon.js](https://www.babylonjs.com/) --
 	Game platform with 3D animation
 	<br>(Not yet evaluated.)
