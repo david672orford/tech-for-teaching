@@ -112,8 +112,8 @@ Other programs:
 	you can use them quickly without struggling to figure out what buttons
 	you pressed in some GUI conversion tool. There are FFmpeg cookbooks on the
 	web where you can find most of the commands you will need. These include
-	[FFmprovisr](https://amiaopensource.github.io/ffmprovisr/) and our
-	own [FFmpeg Cookbook](ffmpeg/).
+	[FFmprovisr](https://amiaopensource.github.io/ffmprovisr/). See also
+	our instructions for [trimming video using FFmpeg](../howto/trim-video/).
 * [Handbrake](https://handbrake.fr/) --
 	Handbrake is an easy-to-use program for ripping DVD’s and converting
 	video files from one format to another.
@@ -143,7 +143,7 @@ such as removing distracting or unsightly details or even whole objects.
 	organized, and that its behavior is different from that of most other
 	editors for no obvious benefit. If you use it only occasionally,
 	you will spend an inordination amount of time trying to remember how
-	to perform even basic tasks. Casual users would probably be better
+	to perform even basic tasks. Most casual users will be better
 	off with Pinta or Krita.
 * [Pinta](https://pinta-project.com) --
 	This edit has a basic set of features which will be sufficient for the needs of many users.
@@ -157,9 +157,9 @@ such as removing distracting or unsightly details or even whole objects.
 * [Krita](https://krita.org/) --
 	While Pinta is primarily for editing photographs, Krita is primarily for drawing and painting.
 	It has numerous brushes which can be used with a mouse or a drawing tablet.
-	Has vector graphics layers which can be loaded from SVG files and saved to them.
+	Has vector graphics layers which can be loaded from and saved to SVG files.
 	Vector shapes can be copied between Krita and Inkscape.
-	Can be used to draw animation, though there is no automatic tweening.
+	Has provisions for frame-by-frame animation of raster (but not vector) layers.
 * [Imagemagick](https://www.imagemagick.org) --
 	If you need to convert one or two images, you can use one of the raster
 	graphics editors described above. But if you are processing hundreds
@@ -185,6 +185,8 @@ such as removing distracting or unsightly details or even whole objects.
 	Krita version 4.0 has vector layers with support for SVG.
 * [Dia Diagram Editor](http://dia-installer.de/) --
 	Program for drawing flowchards, circuit diagrams, etc.
+* Libreoffice Draw --
+	(Not evaluated yet.)
 
 ### 2D Animation
 * [Wick Editor](https://www.wickeditor.com/) --
