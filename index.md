@@ -4,11 +4,17 @@ title_alt: A teacher jestures at a projection screen showing a laptop, microphon
 ---
 I created this site to share what I have learned about using computer
 technology, especially opensource software to create classroom handouts,
-videos, audio lessons, and instructional websites. It is intended for an
-audiance which is already comfortable using desktop computer software and
-already knows how to perform computing tasks such as organizing files, creating
-documents, and uploading materials to a website. This site is about taking
-things to the next level.
+videos, audio lessons, and instructional websites. It is about really
+understanding how the technology works and how to use it.
+
+This site is intended for an audiance which already has solid computer
+skills. We assume you know how to create documents, organize your files,
+and how to create a simple website.
+
+## [How to Perform Common Tasks](howto/)
+We freqently need to perform mundane tasks such as converting videos,
+scaling down photographs, and finding broken links on our websites.
+Here I collect proven solutions for my future reference and yours.
 
 ## [Software Reviews](software/)
 The opensource software which I use, why I have chosen it, and tips
@@ -18,11 +24,6 @@ for using it in to create teaching materials.
 Large collections a photographs, drawings, audio recordings, and other
 materials are available for free on the Internet, if you know where
 to look.
-
-## [How to Perform Common Tasks](howto/)
-We freqently need to perform mundane tasks such as converting videos,
-scaling down photographs, and finding broken links on our websites.
-Here I collect proven solutions for my future reference and yours.
 
 ## [Understanding File Formats](file-formats/)
 Any creative product produced on a computer is likely to be saved in one
@@ -39,3 +40,4 @@ typefaces? Here are the results of my research.
 
 ## [Animation](animation/)
 Collection of information about how to do animation
+
