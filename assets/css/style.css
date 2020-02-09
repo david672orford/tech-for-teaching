@@ -147,12 +147,15 @@ DIV.author_blurb {
 	font-size: 80%;
 	}
 
-DIV.google_ads {
+DIV.google_ads_container {
 	clear: both;
 	max-width: 600px;
-	max-height: 100px;
 	margin: .5em;
 	border: thin solid #808080;
+	}
+.adsbygoogle {
+	display: block;
+	height: 25%;
 	}
 
 /* Syntax highlighting */
