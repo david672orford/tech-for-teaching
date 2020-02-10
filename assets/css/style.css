@@ -24,6 +24,7 @@ HEADER, FOOTER {
 	font-family: sans-serif;
 	color: white;
 	background-color: #c88200;		/* different on different sites */
+	box-shadow: 0px 1px 5px 0px rgba(0,0,0,0.40);
 	}
 DIV.breadcrumbs {
 	padding: 0 .7em .3em .7em;
@@ -62,7 +63,7 @@ UL.tiles LI {
 	width: 20em;
 	border: 1px solid grey;
 	border-radius: 5px;
-	box-shadow: 2px 2px 9px 2px rgba(0,0,0,0.37);
+	box-shadow: 1px 1px 5px 0px rgba(0,0,0,0.40);
 	}
 
 /* Illustration at the top of each page */
