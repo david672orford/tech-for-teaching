@@ -24,7 +24,7 @@ HEADER, FOOTER {
 	font-family: sans-serif;
 	color: white;
 	background-color: #c88200;		/* different on different sites */
-	box-shadow: 0px 1px 3px 0px rgba(0,0,0,0.40);
+	box-shadow: 0px 1px 2px 0px rgba(0,0,0,0.40);
 	}
 DIV.breadcrumbs {
 	padding: 0 .7em .3em .7em;
@@ -63,14 +63,14 @@ UL.tiles LI {
 	width: 20em;
 	border: 1px solid grey;
 	border-radius: 7px;
-	box-shadow: 1px 1px 3px 0px rgba(0,0,0,0.40);
+	box-shadow: 1px 1px 2px 0px rgba(0,0,0,0.40);
 	}
 
 /* Illustration at the top of each page */
 DIV.article_image {
 	background-color: #606060;
 	padding: 5px;
-	box-shadow: 0px 1px 3px 0px rgba(0,0,0,0.40);
+	box-shadow: 0px 1px 2px 0px rgba(0,0,0,0.40);
 	}
 DIV.article_image DIV {
 	width: calc(100% - 10px);
@@ -133,7 +133,7 @@ FIGURE.right_edge {
 	margin: .5em 0 .5em .5em;
 	padding: 5px;
 	border: 1px solid black;
-	box-shadow: 0px 1px 3px 0px rgba(0,0,0,0.40);
+	box-shadow: 0px 1px 2px 0px rgba(0,0,0,0.40);
 	}
 FIGURE A, FIGURE IMG {
 	display: block;
@@ -142,7 +142,7 @@ FIGURE A, FIGURE IMG {
 
 TABLE {
 	border-collapse: collapse;
-	box-shadow: 0px 1px 3px 0px rgba(0,0,0,0.40);
+	box-shadow: 0px 1px 2px 0px rgba(0,0,0,0.40);
 	}
 TH, TD {
 	border: thin solid black;
@@ -156,7 +156,7 @@ DIV.author_box {
 	max-width: 600px;
 	margin: .5em;
 	border: thin solid black;
-	box-shadow: 1px 1px 3px 0px rgba(0,0,0,0.40);
+	box-shadow: 1px 1px 2px 0px rgba(0,0,0,0.40);
 	}
 DIV.author_box IMG {
 	display: block;
@@ -178,7 +178,7 @@ DIV.google_ads_container {
 	max-width: 600px;
 	margin: .5em;
 	border: thin solid #808080;
-	box-shadow: 1px 1px 3px 0px rgba(0,0,0,0.40);
+	box-shadow: 1px 1px 2px 0px rgba(0,0,0,0.40);
 	}
 .adsbygoogle {
 	display: block;
@@ -193,7 +193,7 @@ PRE {
 	border: 1px solid black;
 	color: black;
 	margin: 0 .5em .5em .5em;
-	box-shadow: 0px 1px 3px 0px rgba(0,0,0,0.40);
+	box-shadow: 0px 1px 2px 0px rgba(0,0,0,0.40);
 	}
 .nt {		/* tag */
 	color: blue;
