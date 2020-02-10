@@ -62,7 +62,7 @@ UL.tiles LI {
 	padding: .5em;
 	width: 20em;
 	border: 1px solid grey;
-	border-radius: 5px;
+	border-radius: 7px;
 	box-shadow: 1px 1px 5px 0px rgba(0,0,0,0.40);
 	}
 
@@ -153,6 +153,7 @@ DIV.author_box {
 	max-width: 600px;
 	margin: .5em;
 	border: thin solid black;
+	box-shadow: 1px 1px 5px 0px rgba(0,0,0,0.40);
 	}
 DIV.author_box IMG {
 	display: block;
@@ -174,6 +175,7 @@ DIV.google_ads_container {
 	max-width: 600px;
 	margin: .5em;
 	border: thin solid #808080;
+	box-shadow: 1px 1px 5px 0px rgba(0,0,0,0.40);
 	}
 .adsbygoogle {
 	display: block;

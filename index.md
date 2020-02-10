@@ -47,11 +47,13 @@ the letters run together? Or is the text in the SVG illustrations
 on your website too wide when displayed on mobile devices? You may
 have a problem with missing typefaces. What typefaces are generally
 available? How can we make sure they are used? What about embedding
-typefaces? Here are the results of my research.
-</li.
+typefaces? Here is what I learned.
+</li>
+
+<li><a href="animation/">Animation</a>
+<br>
+Collection of information about how to do animation
+</li>
 
 </ul>
-
-## [Animation](animation/)
-Collection of information about how to do animation
 
