@@ -45,6 +45,23 @@ FOOTER {
 	padding: .5em;
 	}
 
+/* Tiled table of contents */
+UL.tiles {
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+	align-items: stretch;
+	}
+UL.tiles LI {
+	display: block;
+	flex-grow: 1;
+	margin: 1em;
+	width: 20em;
+	border: thin solid grey;
+	border-radius: .2em;
+	}
+
+/* Illustration at the top of each page */
 DIV.article_image {
 	background-color: #808080;
 	padding: 5px;
