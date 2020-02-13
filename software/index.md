@@ -63,7 +63,7 @@ which we are still evaluating.
 	High quality ebook reader and ebook management system.
 
 Other programs:
-	[Abiword](),
+	[Abiword](https://www.abisource.com/),
 	[Calgra Words](https://www.calligra.org/words/),
 	[OnlyOffice](https://github.com/ONLYOFFICE/),
 	[WordGrinder](https://cowlark.com/wordgrinder/)
@@ -169,23 +169,18 @@ such as removing distracting or unsightly details or even whole objects.
 
 ### Vector Drawing
 * [Inkscape](https://inkscape.org/) --
-    An excellent vector drawing program which uses SVG as its native format.
-    * [Inkscape: Guide to a Vector Drawing Program](http://tavmjong.free.fr/INKSCAPE/MANUAL/html/) --
-        Book describing the features of Inkscape. Written by one of the
-        program's authors.
-    * [Inkscape](https://en.flossmanuals.net/inkscape/_full/)
-        Draft version of a new (as of April 2019) book which explains the
-        basic features of Inkscape.
-    * [Mastering Inkscape in 2018](http://libregraphicsworld.org/blog/entry/mastering-inkscape-in-2018) --
-        Blog posting with recommendations of books and video lessons on how
-        to use Inkscape
-    * [Isometric Projection in Inkscape](http://ahninniah.blogspot.com/2013/04/isometric-projection-in-inkscape.html) --
-        Tutorial in drawing pseudo 3D pictures as done in technical drawings
+	An excellent vector drawing program which uses SVG as its native format.
+	We discuss Inkscape in our article [How to Create Illustrations](../illustration/).
 * [Krita](https://krita.org/) --
-	Krita version 4.0 has vector layers with support for SVG.
+	While Krita is mainly a program for drawing by painting pixels, version 4.0 has
+	vector layers with support for SVG.
 * [Dia Diagram Editor](http://dia-installer.de/) --
-	Program for drawing flowchards, circuit diagrams, etc.
-* Libreoffice Draw --
+	Program for drawing flowchards, circuit diagrams, etc. Unlike Inkscape, Dia
+	saves its drawings in its own private format. However finished drawings 
+	be be exported in a number of standard formats including SVG and PNG.
+	Includes a hug library of symbols for drawing everything from flowcharts
+	to electronic circuits.
+* [Libreoffice Draw](https://www.libreoffice.org/) --
 	(Not evaluated yet.)
 
 ### 2D Animation
@@ -225,15 +220,31 @@ Other programs:
 * [Sweet Home 3D](http://www.sweethome3d.com) --
 	An easy-to-use program for creating 3D models of rooms with doors, windows, and furniture.
 	See our article [Using Sweethome 3D](sweethome/).
-* [X3dom](https://www.x3dom.org/) --
-	Javascript library for embedding X3D files in a webpage. X3D is a format
-	for 3D scenes on the Internet. It is the successor to VRML.
 
-### Web Game Platforms
+### Games and Animation in Web Browsers
 * [Pixi](https://www.pixijs.com/) --
-	Game plaform with 2D sprite animation
-	<br>(Not yet evaluated.)
+	This is a sprite renderer. A sprite is a 2D image which is moved around the
+	screen in a video game. Think of the of the invaders, canon, and bullets
+	in Space Invaders. To use Pixi you write Javascript code to load your
+	sprite image and to move then around, changes their size, rotate them, etc.
+	Pixi alone is sufficient for animation. If you want to make a game, you can
+	use additional libraries (suggested in the documentation) to detect
+	collisions, make sounds, and simulate physics, or you can use one of
+	several game engines which incorporate Pixi while providing these functions.
     * [Learning Pixi](https://github.com/kittykatattack/learningPixi)
+* [Phaser](https://phaser.io/) --
+	Phaser is a complete system for creating games which run in a web browser.
+	Games are created by writing code in Javascript, so a basic understanding
+	of that language is required. Phaser 2 uses Pixi as the sprite renderer.
+	Developement of Phaser 2 continues under the name Phaser CE. Phaser 3
+	uses its own sprite renderer.	
+* [Gdevelop](https://gdevelop-app.com/) --
+	Gdevelop is another system for 2D games run in a web browser. Like Phaser,
+	it uses Pixi to render the sprites.	
+* [X3DOM](https://www.x3dom.org/) --
+	Javascript library for embedding X3D files in a webpage. X3D and its
+	predecessor VRML are file formats for 3D scenes to be displayed in web
+	browsers.
 * [Babylon.js](https://www.babylonjs.com/) --
 	Game platform with 3D animation
 	<br>(Not yet evaluated.)

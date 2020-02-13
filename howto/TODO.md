@@ -5,6 +5,7 @@
   * Boilerplate
   * SEO
   * Markdown
+  * Images: resolution, retina displays, avoiding reflow, adaptive size
 * How to make handouts
   * Use Openoffice Writer
   * Convert to HTML using odt2html

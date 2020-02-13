@@ -2,14 +2,16 @@
 title_img: assets/images/title/image.png
 title_alt: A teacher jestures at a projection screen showing a laptop, microphone, and camera on a desk. The laptop is running an audio editor.
 ---
-I created this site to share what I have learned about using computer
+I created this site to share what I am learning about using computer
 technology, especially opensource software to create classroom handouts,
-videos, audio lessons, and instructional websites. It is about really
-understanding how the technology works and how to use it.
+videos, audio lessons, and instructional websites. It is important to me
+to really understand how these technologies work and to know now to use
+them effectively.
 
-This site is intended for an audiance which already has solid computer
-skills. We assume you know how to create documents, organize your files,
-and how to create a simple website.
+This is a complicated subject with much to understand any many skills to
+aquire. Writing on this site helps me to sort it all out in my mind and
+understand what I have to do to make progress. If you would like to
+join me in this journey, welcome!
 
 <ul class="tiles">
 
@@ -30,7 +32,7 @@ for using it in to create teaching materials.
 <br>
 Large collections a photographs, drawings, audio recordings, and other
 materials are available for free on the Internet, if you know where
-to look.
+to look. Here are some of the sites which we have found useful.
 </li>
 
 <li><a href="file-formats/">Understanding File Formats</a>
@@ -50,9 +52,31 @@ available? How can we make sure they are used? What about embedding
 typefaces? Here is what I learned.
 </li>
 
-<li><a href="animation/">Animation</a>
+<li><a href="illustration/">Creating Illustrations</a>
 <br>
-Collection of information about how to do animation
+Some concepts are best presented visually. Even if you do not consider
+yourself an artist, there are techniques which you can use to produce
+passable illustrations for your courses.
+</li>
+
+<li><a href="animation/">Creating Animations</a>
+<br>
+In some cases the best way to present an idea is with a moving or interactive
+illustration. I am exploring ways to do this and collecting notes here.
+</li>
+
+<li><a href="video/">Creating Videos</a>
+<br>
+Creating videos is easier than ever. You probably already have a camera which
+can shoot video. With free software you can edit it, add caption and narration
+to produce an instructional video.
+</li>
+
+<li><a href="photography/">Taking and Using Photographs</a>
+<br>
+Photographs can be used as illustrations or to make flash cards. Creating
+high-quality photographs is easier than ever whether you are using a camera
+or your phone.
 </li>
 
 </ul>
