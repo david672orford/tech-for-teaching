@@ -4,7 +4,7 @@
 
 <li><a href="libreoffice/">Use Libreoffice Write</a>
 <br>
-Our notes on using Libreoffice Write to create classroom handouts.
+Our notes on using Libreoffice Writer to create classroom handouts.
 </li>
 
 <li><a href="trim-video/">Trimming Video Files</a>
