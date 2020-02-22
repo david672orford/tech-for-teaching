@@ -76,6 +76,7 @@ Here is an example:
 <tr><th>Quote Marks</th><td>“ ” « »</td></tr>
 <tr><th>Ellipsis</th><td>…</td></tr>
 <tr><th>Arrows</th><td>🡐 🡒 🡑 🡓</td></tr>
+<li><th>Checkboxes</th><td>☐ ☑</td></tr>
 </table>
 
 ### Alt Codes

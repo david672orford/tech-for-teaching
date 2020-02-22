@@ -3,6 +3,15 @@
 Here are some notes on things we have had to do in Libreoffice when
 creating classroom handouts.
 
+### Escaping from Tables
+
+If the the last item on a page is a table, it can be difficult to insert
+something after it. The trick is to move the cursor to the far bottom 
+right cell of the table and press Alt-Enter.
+
+If the page begings with a table and you want to insert something before it,
+go to the top left cell and press Alt-Enter.
+
 ### Using Stylesheets
 
 Each handout should have a document title at the top with a style of
@@ -24,7 +33,7 @@ image will also be created and stored along with it.
 ### SVG Image Performance Problems
 
 Starting with version 4.0 Libreoffice has a serious problem with the way it
-renders SVG images in the page.  Above a certain number of images or a certain
+renders SVG images in the page. Above a certain number of images or a certain
 level of complexity it slows to a crawl.  Users who complain about this on the
 Internet are frequently advised to increase the size of the graphics cache to
 128MB, but this does not seem to help. There is a
@@ -115,7 +124,7 @@ TODO
 
 TODO
 
-### Tables for Layout
+### Using Tables for Layout
 
 TODO
 

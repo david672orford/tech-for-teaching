@@ -40,7 +40,7 @@ which we are still evaluating.
 	We particularly recommend the word processor which is called Write. Its native
 	document format is ODF which is an international standard and can be read and
 	written by most other word processors including Microsoft Word. See our
-	[Libreoffice Cookbook](libreoffice/) for hints on using Write to produce
+	[Libreoffice Cookbook](../howto/libreoffice/) for hints on using Write to produce
 	classroom handouts.
 * [ODF Format Specification](http://docs.oasis-open.org/office/v1.2/cs01/OpenDocument-v1.2-cs01.html) --
 	Technical description of the file format used by Libreoffice. ODF files

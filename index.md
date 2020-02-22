@@ -52,14 +52,14 @@ available? How can we make sure they are used? What about embedding
 typefaces? Here is what I learned.
 </li>
 
-<li><a href="illustration/">Creating Illustrations</a>
+<li><a href="illustration/">Creating Illustrations and 2D Animations</a>
 <br>
 Some concepts are best presented visually. Even if you do not consider
 yourself an artist, there are techniques which you can use to produce
 passable illustrations for your courses.
 </li>
 
-<li><a href="animation/">Creating Animations</a>
+<li><a href="models/">Creating 3D Models and Animations</a>
 <br>
 In some cases the best way to present an idea is with a moving or interactive
 illustration. I am exploring ways to do this and collecting notes here.

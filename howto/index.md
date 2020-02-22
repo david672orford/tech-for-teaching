@@ -2,6 +2,11 @@
 
 <ul class="tiles">
 
+<li><a href="libreoffice/">Use Libreoffice Write</a>
+<br>
+Our notes on using Libreoffice Write to create classroom handouts.
+</li>
+
 <li><a href="trim-video/">Trimming Video Files</a>
 <br>
 Do you want to show clips from videos in class? Your presentation will
