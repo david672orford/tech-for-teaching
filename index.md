@@ -52,7 +52,7 @@ available? How can we make sure they are used? What about embedding
 typefaces? Here is what I learned.
 </li>
 
-<li><a href="illustration/">Creating Illustrations and 2D Animations</a>
+<li><a href="illustration/">Creating Illustrations</a>
 <br>
 Some concepts are best presented visually. Even if you do not consider
 yourself an artist, there are techniques which you can use to produce

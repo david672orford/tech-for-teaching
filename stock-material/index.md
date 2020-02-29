@@ -217,6 +217,8 @@ as of January 2020 the licenses on these sites are unchanged.
 	the public domain ore shared under a [Creative Commons license](https://creativecommons.org/licenses).
 * [Blogscopia](https://resources.blogscopia.com) --
 	Over 100 3D models in multiple formats including Blender and Sweethome3d.
+* [Open Game Art](https://opengameart.org/) --
+	TODO
 
 ### Sound Effects
 * [Freesound.org](https://freesound.org) --
@@ -237,6 +239,8 @@ as of January 2020 the licenses on these sites are unchanged.
 * [FXhome](https://fxhome.com/sound-effects) --
 	A few hundred sound effects downloadable as sets in ZIP files.
 	All under the Creative Commons Attribution 3.0 license
+* [Open Game Art](https://opengameart.org/) --
+	TODO
 
 ### Royalty Free Music
 * [MusOpen](https://musopen.org) --
