@@ -59,6 +59,7 @@ which we are still evaluating.
 * [Evince](https://wiki.gnome.org/Apps/Evince/)
 	Document viewer for electronic document formats including PDF and DjVu.
 	The version for Microsoft Windows is on [Fosshub](https://www.fosshub.com/Evince.html).
+	Ubuntu MATE includes Atril which is a version of Evince.
 * [Calibre](https://calibre-ebook.com/) --
 	High quality ebook reader and ebook management system.
 
