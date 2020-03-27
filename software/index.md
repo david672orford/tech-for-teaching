@@ -103,6 +103,24 @@ Other programs:
 * [VLC](https://www.videolan.org) --
 	A good solid all-around video player which will play most any file.
 	Has classic media player controls.
+* [Shotcut](https://www.shotcut.org) --
+	This is a good video non-linear video editor. Such editors simulate the
+	process of editing motion picture film using scissors and tape.
+	Video shots recorded earlier are loaded, trimmed and placed in the desired
+	order on a timeline. Still images, titles, and smooth transitions (such as
+	fads and wipes) are be added. The finished product is exported as a
+	single video file.
+* [OBS Studio](https://obsproject.com/)
+	This program simulates a video switcher such as used at a TV broadcast
+	station to control what is going out over the air. It is often used for
+	live streaming on Youtube or feeding the projector in a lecture hall. Live
+	elements from video cameras or screen captures can be combined with
+	elements prepared earlier such as video clips, slides, overlays, and
+	music. An operator chooses which elements to display as the program is
+	being broadcast or recorded.
+* [Handbrake](https://handbrake.fr/) --
+	Handbrake is an easy-to-use program for ripping DVD’s and converting
+	video files from one format to another.
 * [FFmpeg](https://www.ffmpeg.org) --
 	Very capable command-line program for converting audio and video files
 	from one format to another or making them smaller in preparation for
@@ -115,20 +133,14 @@ Other programs:
 	web where you can find most of the commands you will need. These include
 	[FFmprovisr](https://amiaopensource.github.io/ffmprovisr/). See also
 	our instructions for [trimming video using FFmpeg](../howto/trim-video/).
-* [Handbrake](https://handbrake.fr/) --
-	Handbrake is an easy-to-use program for ripping DVD’s and converting
-	video files from one format to another.
-* [Shotcut](https://www.shotcut.org) --
-	This is a good video non-linear video editor. Such editors are used to
-	assembled recorded video into a finished film. You load your video files
-	into the program, trim off unwanted material, and arrange them on a
-	timeline. You can then add transitions (such as fads and wipes), titles,
-	sound effects, and music. Then you can export the finished product as a
-	single video file.
 * [Youtube-DL](https://ytdl-org.github.io/youtube-dl/index.html) --
-	A command-line program for downloading videos from Youtube and other
-	websites. Useful if you want to show a video in class. You give it
-	the URL of the video's webpage and it does the rest.
+	A command-line program for downloading videos from Youtube and dozens
+	of other websites. Useful if you want to show a video in class. You give
+	it the URL of the video's webpage and it does the rest.
+
+Other programs:
+	[Openshot](https://www.openshot.org/),
+	[Kdenlive](https://kdenlive.org/)
 
 ### Raster Image Editing
 Photographs are stored in a computer as an array of tiny dots. Drawings
