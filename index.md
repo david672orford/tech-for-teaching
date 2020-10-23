@@ -1,6 +1,6 @@
 ---
 title_img: assets/images/title/image.png
-title_alt: A teacher jestures at a projection screen showing a laptop, microphone, and camera on a desk. The laptop is running an audio editor.
+title_alt: A teacher gestures at a projection screen showing a laptop, microphone, and camera on a desk. The laptop is running an audio editor.
 ---
 I created this site to share what I am learning about using computer
 technology, especially opensource software to create classroom handouts,

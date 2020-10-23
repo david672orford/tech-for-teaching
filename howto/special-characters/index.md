@@ -72,12 +72,15 @@ can save time in future by pasting them into a document or a web page.
 Here is an example:
 
 <table>
+<tr><th>English Quote Marks</th><td>“ ” ‘ ’</td></tr>
+<tr><th>Russian Quote Marks</th><td>« » „ “</td></tr>
 <tr><th>Em Dash</th><td>—</td></tr>
-<tr><th>Quote Marks</th><td>“ ” « »</td></tr>
 <tr><th>Ellipsis</th><td>…</td></tr>
-<tr><th>Arrows</th><td>🡐 🡒 🡑 🡓</td></tr>
-<tr><th>Checkboxes</th><td>☐ ☑</td></tr>
-<tr><th>Cyrillic letter yo</th><td>ё</td></tr>
+<tr><th>Arrows</th><td>🡐  🡒  🡑  🡓</td></tr>
+<tr><th>Checkboxes</th><td>☐  ☑</td></tr>
+<tr><tr>Bullets</th><td>• ◦</td></tr>
+<tr><th>Cyrillic letter yo</th><td>Ё ё</td></tr>
+<tr><th>Pre-1917 Russian Letters</th><td>І і Ѣ ѣ Ѳ ѳ Ѵ ѵ</td></tr>
 </table>
 
 ### Alt Codes

@@ -104,12 +104,13 @@ Other programs:
 	A good solid all-around video player which will play most any file.
 	Has classic media player controls.
 * [Shotcut](https://www.shotcut.org) --
-	This is a good video non-linear video editor. Such editors simulate the
+	This is a good non-linear video editor. Such editors emulate the
 	process of editing motion picture film using scissors and tape.
 	Video shots recorded earlier are loaded, trimmed and placed in the desired
 	order on a timeline. Still images, titles, and smooth transitions (such as
 	fads and wipes) are be added. The finished product is exported as a
 	single video file.
+	See our article [Using Shotcut](shotcut/).
 * [OBS Studio](https://obsproject.com/)
 	This program simulates a video switcher such as used at a TV broadcast
 	station to control what is going out over the air. It is often used for

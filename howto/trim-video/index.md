@@ -67,8 +67,8 @@ some hardware players may be unable to play the file produced.
 **-crf 25** sets the level of compression. Higher numbers mean more
 compression and more loss of detail. Noticable smearing sets in around 35.
 
-You will need audio options too. These audio options are good, but they
-require an FFmpeg compiled from source:
+H.264 video is usually paired with AAC audio. These audio options are good,
+but they require an FFmpeg compiled from source:
 
     -c:a libfdk_acc -profile:a aac_he -ar 48000
 
@@ -94,13 +94,48 @@ And here are reasonable audio options:
 
 	-c:a libopus -ar 48000
 
+### Reencoding a Video File (MPEG-4 Part 2)
+
+On a typical desktop computer circa 2018 encoding a video using the H.264 codec
+as described above will take about two minutes for every minute of video. The
+VP9 codec can take even longer. During this time the computer is working hard
+searching for a way to make the file as small as possible while preserving
+quality. This is important when you will be distributing your videos on disks
+or on the Internet since more of them fit and they can be downloaded more
+quickly.
+
+But sometimes you need a video encoded right away such as to show at a class
+which will start in a few minutes. At these times you can use an obsolete
+codec from when computers were less powerful.
+
+A good choice for this is the MPEG-5 Part 2 codec.  These video options are a
+good starting point:
+
+	-c:v mpeg4 -qscale:v 7
+
+On a modern computer this will encode an hour-long video in about 15 minutes.
+It will be nearly twice as large as the same video in H.264, but that is the
+price you pay for speed.
+
+**qscale:v** sets the level of compression. A lower number gives higher quality
+video, a higher number produces smaller files.
+
+While in the past MPEG-4 Part 2 video was often paired with MP3 audio, for this
+application it is reasonable to pair it with AAC audio and put them in an MP4
+container like with did for H.264. See above for the AAC options.
+
 ### Scaling the Video
 
-To reduce the resolution of the image, use the scale video filter. For example,
-if you have 1280x720 video and want to reduce it to 640x360, add this
-filter to the ffmpeg command:
+To reduce the resolution of the image, use the scale video filter. You may
+want to do this if you now that the video will be played in a small window
+or on a device with limitted resolution. Cutting the resolution will allow
+the file to be much smaller and it may play more smoothly on old devices.
+
+For example, if you have 1280x720 video and want to reduce it to 640x360,
+add this filter to the ffmpeg command:
 
     -vf scale=640:-1
 
-You can add this option to any of the commands above.
+Here we specify the target width and allow FFmpeg to computing the
+cooresponding new height. You can add this option to any of the commands above.
 
