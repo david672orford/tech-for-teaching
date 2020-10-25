@@ -78,7 +78,7 @@ Here is an example:
 <tr><th>Ellipsis</th><td>…</td></tr>
 <tr><th>Arrows</th><td>🡐  🡒  🡑  🡓</td></tr>
 <tr><th>Checkboxes</th><td>☐  ☑</td></tr>
-<tr><tr>Bullets</th><td>• ◦</td></tr>
+<tr><th>Bullets</th><td>• ◦</td></tr>
 <tr><th>Cyrillic letter yo</th><td>Ё ё</td></tr>
 <tr><th>Pre-1917 Russian Letters</th><td>І і Ѣ ѣ Ѳ ѳ Ѵ ѵ</td></tr>
 </table>
