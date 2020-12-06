@@ -1,3 +1,7 @@
+---
+author: David Chappell
+---
+
 ## Web Fonts
 
 In this article we explain how to select fonts using CSS in your web pages.

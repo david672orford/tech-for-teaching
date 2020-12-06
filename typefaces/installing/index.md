@@ -1,3 +1,7 @@
+---
+author: David Chappell
+---
+
 ## Installing Fonts
 
 ### On Linux Systems with Fontconfig

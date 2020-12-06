@@ -1,3 +1,7 @@
+---
+author: David Chappell
+---
+
 ## How to Trim and Reencode Video Files
 
 Here are FFmpeg commands which we have found useful for making clips

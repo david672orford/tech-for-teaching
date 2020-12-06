@@ -1,3 +1,7 @@
+---
+author: David Chappell
+---
+
 ## Document Formats
 
 There are many different file formats for creating and storing documents

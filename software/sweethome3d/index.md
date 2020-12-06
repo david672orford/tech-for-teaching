@@ -1,3 +1,7 @@
+---
+author: David Chappell
+---
+
 ## Using Sweethome 3D
 
 [Sweethome 3D](http://www.sweethome3d.com) is an easy-to-use program for

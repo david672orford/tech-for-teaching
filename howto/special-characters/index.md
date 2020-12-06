@@ -1,3 +1,7 @@
+---
+author: David Chappell
+---
+
 ## Entering Special Characters
 
 Computer keyboards typically have over 100 keys on them of which fewer than 50

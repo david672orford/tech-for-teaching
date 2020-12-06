@@ -1,3 +1,7 @@
+---
+author: David Chappell
+---
+
 ## Video Formats
 
 Digital video formats are the most complicated we discuss here. This is because

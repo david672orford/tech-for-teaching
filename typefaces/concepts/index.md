@@ -1,3 +1,7 @@
+---
+author: David Chappell
+---
+
 ## Typeface Concepts
 
 A typeface is a set of letters for typesetting. Originally a font was a set

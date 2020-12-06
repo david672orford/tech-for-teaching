@@ -1,3 +1,7 @@
+---
+author: David Chappell
+---
+
 ## Libreoffice Writer Cookbook
 
 Here are some notes on things we have had to do in Libreoffice when

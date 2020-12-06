@@ -1,3 +1,7 @@
+---
+author: David Chappell
+---
+
 ## Stock Material for Lessons
 
 The term **stock material** refers to representations such as drawings,

@@ -1,3 +1,7 @@
+---
+author: David Chappell
+---
+
 ## Checking for Broken Links on Your Website
 
 Links in your web pages will become invalid if the page they point to is

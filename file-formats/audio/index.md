@@ -1,3 +1,7 @@
+---
+author: David Chappell
+---
+
 ## Audio Formats
 
 Audio is stored in a computer as a list of **samples**. Each sample is a

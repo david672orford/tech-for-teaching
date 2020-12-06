@@ -1,3 +1,7 @@
+---
+author: David Chappell
+---
+
 ## Image Formats
 
 Image files are used to store photographs, drawings, and scans of documents.

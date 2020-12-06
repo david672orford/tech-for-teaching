@@ -1,3 +1,7 @@
+---
+author: David Chappell
+---
+
 ## How to Embed Video in Web Pages
 
 Embedding videos in web pages can be complicated, but it is getting easier.

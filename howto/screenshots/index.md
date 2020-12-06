@@ -1,3 +1,7 @@
+---
+author: David Chappell
+---
+
 ## How to Take Screenshots
 
 1. Open the application of which you wish to take a screenshot.

@@ -1,3 +1,7 @@
+---
+author: David Chappell
+---
+
 ## Standard Typefaces on Personal Computers
 
 ### Three Basic Typefaces

@@ -1,3 +1,7 @@
+---
+author: David Chappell
+---
+
 ## Freeware Typefaces
 
 * [URW Garamond](https://garamond.org/urw/)
