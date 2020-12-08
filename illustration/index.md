@@ -7,9 +7,10 @@ scissors, glue, and construction paper. They may then add lines with crayons.
 They may also cut elements out of discarded magazines and add them to their
 compositions.
 
-You can use many of the same techniques with Inkscape. Start by drawing
-simple things and elements you find an stock illustration sites. Learn
-to modify these and create new elements like them.
+You can use many of the same techniques with Inkscape. Start by drawing simple
+things and recombining elements which you can find on
+[stock illustration sites](../stock-material/).
+Learn to modify these and create new elements like them.
 
 ### Inkscape Tutorials on Other Sites
 
