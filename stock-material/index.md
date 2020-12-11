@@ -218,11 +218,14 @@ as of January 2020 the licenses on these sites are unchanged.
 ### 3D Models and Textures
 * [Blend Swap](https://www.blendswap.com) --
 	Artists share models created with Blender. Many have been dedicated to
-	the public domain ore shared under a [Creative Commons license](https://creativecommons.org/licenses).
+	the public domain or shared under a [Creative Commons license](https://creativecommons.org/licenses).
 * [Blogscopia](https://resources.blogscopia.com) --
 	Over 100 3D models in multiple formats including Blender and Sweethome3d.
 * [Open Game Art](https://opengameart.org/) --
-	TODO
+	Large searchable archive of 3D models, textures, and other video game assets
+	released to the public domain or under a permissive license such as the
+	[GNU](https://www.gnu.org/licenses/) or [Creative Commons](https://creativecommons.org/licenses)
+	licenses.
 
 ### Sound Effects
 * [Freesound.org](https://freesound.org) --
@@ -244,7 +247,10 @@ as of January 2020 the licenses on these sites are unchanged.
 	A few hundred sound effects downloadable as sets in ZIP files.
 	All under the Creative Commons Attribution 3.0 license
 * [Open Game Art](https://opengameart.org/) --
-	TODO
+	Large searchable archive of sound effects and other video game assets
+	released to the public domain or under a permissive license such as the
+	[GNU](https://www.gnu.org/licenses/) or [Creative Commons](https://creativecommons.org/licenses)
+	licenses.
 
 ### Royalty Free Music
 * [MusOpen](https://musopen.org) --
@@ -265,6 +271,11 @@ as of January 2020 the licenses on these sites are unchanged.
 	under a [Creative Commons Attribution license](https://creativecommons.org/licenses/by/4.0/).
 	For tracks which do not require attribution, the performer's name is sometimes
 	linked to his Youtube channel.
+* [Open Game Art](https://opengameart.org/) --
+	Large searchable archive of music and other video game assets
+	released to the public domain or under a permissive license such as the
+	[GNU](https://www.gnu.org/licenses/) or [Creative Commons](https://creativecommons.org/licenses)
+	licenses.
 
 ### Other Stock Materials
 * [Global Digital Library](https://home.digitallibrary.io/) --
