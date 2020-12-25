@@ -183,4 +183,20 @@ If you wish to disable the embeded thumbnails, go to **Tools** ⟶  **Options** 
 false. This will reduce the size of the file by about 15000 bytes which can be
 significant since the rest of the ODT file may not be much larger than that.
 
+### Using Mail Merge
+
+Here is a simple way to do a mail merge:
+
+1.  Create a list of names and address in tabular format. You can use Libreoffice
+    Calc or Base or a CSV file.
+2.  Open your document in Write and go to **File** ⟶  **Exchange Database**.
+3.  Click on Browse, and select the file created in step one.
+4.  Find the file in the list of available **Available Databases**, select a sheet,
+    and press **Define**.
+5.  Open the **View** menu and turn on **Data Sources**. A list of data sources
+    and a table showing the data will appear at the top.
+6.  Find the columns you want and drag the column headers into your document.
+
+More information about mail merging can be found in the
+[Libreoffice Writer Guide Chapter 11](https://documentation.libreoffice.org/assets/Uploads/Documentation/en/WG4.2/PDF/WG4211-UsingMailMerge.pdf).
 
