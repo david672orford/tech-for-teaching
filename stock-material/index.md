@@ -277,6 +277,17 @@ as of January 2020 the licenses on these sites are unchanged.
 	[GNU](https://www.gnu.org/licenses/) or [Creative Commons](https://creativecommons.org/licenses)
 	licenses.
 
+### Icon Sets
+* [Nuvola SVG Icons](https://commons.m.wikimedia.org/wiki/Category:Nuvola_SVG_icons) --
+    Icon set created for the GNOME desktop
+* [Crystal Clear Icons](https://commons.wikimedia.org/wiki/Category:Crystal_Project) --
+    Icon set created for the KDE desktop, in PNG format
+* [The Noun Project](https://thenounproject.com/)
+	Goal of project is described as "building a global visual language that
+	unites us. Provides color photographs and black-and-white icons to represent
+	things and concepts. Icons are either in the public domain or under a Creative
+	Commons license requiring attribution. Other terms are available for a fee.
+
 ### Other Stock Materials
 * [Global Digital Library](https://home.digitallibrary.io/) --
 	Open license children's books ready for translation
