@@ -62,6 +62,8 @@ which we are still evaluating.
 	Ubuntu MATE includes Atril which is a version of Evince.
 * [Calibre](https://calibre-ebook.com/) --
 	High quality ebook reader and ebook management system.
+* [Xournal++](https://xournalpp.github.io/) --
+	Note taking and PDF annotation.
 
 Other programs:
 	[Abiword](https://www.abisource.com/),

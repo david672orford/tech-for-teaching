@@ -1,3 +1,4 @@
-## References
+* [Video For Linux](v4l2)
+* [Pulseaudio Sound Server](pulseaudio)
+* [Zoom](zoom)
 
-* [Guide to Zoom](https://janelledurham.com/guide-to-zoom/)
