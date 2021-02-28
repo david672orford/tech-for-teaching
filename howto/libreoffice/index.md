@@ -189,7 +189,7 @@ Here is a simple way to do a mail merge:
 
 1.  Create a list of names and address in tabular format. You can use Libreoffice
     Calc or Base or a CSV file.
-2.  Open your document in Write and go to **File** ⟶  **Exchange Database**.
+2.  Open your document in Write and go to **Edit** ⟶  **Exchange Database**.
 3.  Click on Browse, and select the file created in step one.
 4.  Find the file in the list of available **Available Databases**, select a sheet,
     and press **Define**.
@@ -197,6 +197,30 @@ Here is a simple way to do a mail merge:
     and a table showing the data will appear at the top.
 6.  Find the columns you want and drag the column headers into your document.
 
+When you connect databases in Libreoffice, they remain connnected indefinitely.
+To disconnect them, go to **Tools** ⟶   **Options** in the menu. Then open
+the **LibreOffice Base** category in the left-hand panel and choose
+**Databases**. Select the unwanted database connection and press **Delete**.
+
 More information about mail merging can be found in the
 [Libreoffice Writer Guide Chapter 11](https://documentation.libreoffice.org/assets/Uploads/Documentation/en/WG4.2/PDF/WG4211-UsingMailMerge.pdf).
+
+### Hiding Blank Lines in Mail Merge
+
+* Open the data sources
+* Got to **Insert** ⟶   **Field** ⟶   **More Fields**, select the 
+  **Functions** tab, and then **Hidden Paragraph**.
+* Drag the data field which is sometimes blank from the data sources to
+  the **Condition** field. This will insert the name of the field in
+  square brackets.
+* Append a space and EQ "" to define the condition for hiding the paragraph.
+* Click the **Insert** button.
+* If the hidden paragraph is now empty, reinsert the data field.
+
+### Toggling Display of Hidden Paragraphs
+
+There used to be an option in the **View** menu for toggling the display
+of hidden paragraphs, but it was removed at some point. To get it back,
+go to **Options** ⟶   **Customize** ⟶   **Menus**. There is you find
+the command and insert it into the **View** menu.
 

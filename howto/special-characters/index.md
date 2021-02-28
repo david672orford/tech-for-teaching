@@ -4,10 +4,13 @@ author: David Chappell
 
 ## Entering Special Characters
 
-Computer keyboards typically have over 100 keys on them of which fewer than 50
-actually produce a letter, number, or symbol when pressed. In constract, a
-modern computer font seldom contains fewer than 300 symbols and many contain
-thousands. 
+Computer keyboards typically have just over 100 keys on them of which fewer
+than 50 actually produce a letter, number, or symbol when pressed. In
+constract, a modern computer font seldom contains fewer than 300 symbols and
+many contain thousands. 
+
+One reason modern fonts contain so many symbols is that they provide alphabets
+for additional languages such as Arabic, Greek, Hebrew, and Russian.
 
 This explosion of symbols has been facilitated by the widespread adoption of
 Unicode which is an international standard which assigns a numeric code to each
@@ -15,9 +18,7 @@ of the world's tens of thousands of letters, numbers, and symbols.
 
 ### Switchable Keyboard Layouts
 
-One reason modern fonts contain so many symbols is that they provide alphabets
-for additional languages such as Arabic, Greek, Hebrew, and Russian. If you
-will be typing in a foreign language, you will need to load an appropriate
+If you will be typing in a foreign language, you will need to load an appropriate
 **keyboard map**.
 
 A keyboard map is a table in your computer which tells it what letter, number,
