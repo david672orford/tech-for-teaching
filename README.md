@@ -1,7 +1,7 @@
 This repository holds the source code for the
 [Tech for Teaching](https://tech-for-teaching.nohub.net) website.
 
-## To Evaluate
+## Software To Evaluate
 
 * [TUI Editor](https://github.com/nhn/tui.editor)
 * [JAVASCRIPT & CSS MARKDOWN EDITOR](https://www.cssscript.com/tag/markdown-editor/)

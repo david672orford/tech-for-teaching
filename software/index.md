@@ -237,7 +237,7 @@ Other programs:
 	An easy-to-use program for creating 3D models of rooms with doors, windows, and furniture.
 	See our article [Using Sweethome 3D](sweethome/).
 
-### Games and Animation in Web Browsers
+### 2D Games and Animation in Web Browsers
 * [Pixi](https://www.pixijs.com/) --
 	This is a sprite renderer. A sprite is a 2D image which is moved around the
 	screen in a video game. Think of the of the invaders, canon, and bullets
@@ -257,6 +257,8 @@ Other programs:
 * [Gdevelop](https://gdevelop-app.com/) --
 	Gdevelop is another system for 2D games run in a web browser. Like Phaser,
 	it uses Pixi to render the sprites.	
+
+### 3D Games and Animation in Web Browsers
 * [X3DOM](https://www.x3dom.org/) --
 	Javascript library for embedding X3D files in a webpage. X3D and its
 	predecessor VRML are file formats for 3D scenes to be displayed in web
