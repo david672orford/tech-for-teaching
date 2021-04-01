@@ -1,11 +1,10 @@
 ## Creating 3D Models and Animations
 
-In some cases the most effective way to explain an idea is with
-a moving or interactive illustration.
+Eventually I hope to offer recommendations for creating 3D illustrations
+for use in instruction. Since I have not figured how best to do this
+myself yet, for now this is just my notes.
 
-For now this is just some notes.
-
-## Software For VRML/X3D
+## Software For Creating VRML/X3D Scenes
 
 * [Blender](https://www.blender.org) --
 	Can import and export in X3D format
@@ -20,10 +19,21 @@ For now this is just some notes.
 	Last release in 2019
 * [X3DOM Component Editor](https://github.com/x3dom/component-editor) --
 	Very basic web editor
+
+### 3D Scenes, Animation, and Games in Web Browsers
 * [X3DOM](https://www.x3dom.org/) --
-	Display X3D in a web browser
+	Javascript library for embedding X3D files in a webpage. X3D and its
+	predecessor VRML are file formats for 3D scenes to be displayed in web
+	browsers.
 * [X\_ITE](https://github.com/create3000/x_ite/wiki) --
 	Display X3D in a web browser
+* [Babylon.js](https://www.babylonjs.com/) --
+	Game platform with 3D animation
+	<br>(Not yet evaluated.)
+* [Three.js](https://threejs.org/) --
+	
+* [A-Frame](https://aframe.io/) --
+	Higher level layer over Three.js
 
 ## Animation Tutorials
 

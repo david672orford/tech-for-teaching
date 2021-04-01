@@ -191,13 +191,19 @@ such as removing distracting or unsightly details or even whole objects.
 	While Krita is mainly a program for drawing by painting pixels, version 4.0 has
 	vector layers with support for SVG.
 * [Dia Diagram Editor](http://dia-installer.de/) --
-	Program for drawing flowchards, circuit diagrams, etc. Unlike Inkscape, Dia
-	saves its drawings in its own private format. However finished drawings 
-	be be exported in a number of standard formats including SVG and PNG.
-	Includes a hug library of symbols for drawing everything from flowcharts
-	to electronic circuits.
+	Program for drawing flowchards, circuit diagrams, etc. Includes a huge
+	library of symbols for drawing everything from flowcharts to electronic
+	circuits. Unlike Inkscape, Dia saves its drawings in its own private
+	format. You should keep your work copy in this format and export
+	the finished drawing in a standard format such as SVG or PNG.
 * [Libreoffice Draw](https://www.libreoffice.org/) --
-	(Not evaluated yet.)
+	A vector drawing program adapted for office document preparation.
+	In additional to tools for drawing basic shapes such as rectangles
+	and circules, it offers a wide variety of special-purpose tools for
+	such things as flowcharts, labels, banners, and 3D primatives such
+	as spheres, cones, and cylinders.
+	Like Dia, Libreoffice Draw has its own file format.
+	Finished drawings can be exported in formats including SVG and PNG.
 
 ### 2D Animation
 * [Wick Editor](https://www.wickeditor.com/) --
@@ -237,7 +243,7 @@ Other programs:
 	An easy-to-use program for creating 3D models of rooms with doors, windows, and furniture.
 	See our article [Using Sweethome 3D](sweethome/).
 
-### 2D Games and Animation in Web Browsers
+### 2D Games with Sprite Animation in Web Browsers
 * [Pixi](https://www.pixijs.com/) --
 	This is a sprite renderer. A sprite is a 2D image which is moved around the
 	screen in a video game. Think of the of the invaders, canon, and bullets
@@ -257,15 +263,6 @@ Other programs:
 * [Gdevelop](https://gdevelop-app.com/) --
 	Gdevelop is another system for 2D games run in a web browser. Like Phaser,
 	it uses Pixi to render the sprites.	
-
-### 3D Games and Animation in Web Browsers
-* [X3DOM](https://www.x3dom.org/) --
-	Javascript library for embedding X3D files in a webpage. X3D and its
-	predecessor VRML are file formats for 3D scenes to be displayed in web
-	browsers.
-* [Babylon.js](https://www.babylonjs.com/) --
-	Game platform with 3D animation
-	<br>(Not yet evaluated.)
 
 ### Other Software Lists
 * [34 open source tools for creatives](https://opensource.com/article/16/12/yearbook-top-open-source-creative-tools-2016) --
