@@ -27,8 +27,11 @@ For now this is just some notes.
 
 ## Animation Tutorials
 
-* [Walk Cycle Tutorial](http://www.angryanimator.com/word/2010/11/26/tutorial-2-walk-cycle/)
-	--How to realistically animate a walking character
-* [Animation magician: 8 ways to turn cheating into an art form](https://opensource.com/article/17/5/animation-magician-how-turn-cheating-art-form)
-	--Techniques for telling a story with less animation
+* [Walk Cycle Tutorial](http://www.angryanimator.com/word/2010/11/26/tutorial-2-walk-cycle/) --
+	How to realistically animate a walking character
+* [Animation magician: 8 ways to turn cheating into an art form](https://opensource.com/article/17/5/animation-magician-how-turn-cheating-art-form) --
+	Techniques for telling a story with less animation
+* [How to Make Animated Peeps](http://www.jaanga.com/2012/04/how-to-make-animated-peeps.html) --
+	Creating human models with Makehuman and animating them with BVH files in Three.js
+
 
