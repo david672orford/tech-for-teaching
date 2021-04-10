@@ -38,5 +38,9 @@ Links in your web pages will become invalid if the page they point to is
 deleted or renamed. Automated tools help you to proactively fix the problem.
 </li>
 
+<li><a href="pdf/">Work with PDF files</a>
+<br>
+</li>
+
 </ul>
 
