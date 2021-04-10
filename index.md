@@ -60,7 +60,7 @@ passable illustrations for your courses.
 </li>
 
 <!--
-<li><a href="models/">Creating 3D Models and Animations</a> (stub)
+<li><a href="3d-modeling/">Creating 3D Models and Animations</a> (stub)
 <br>
 In some cases the best way to present an idea is with a moving or interactive
 illustration. I am exploring ways to do this and collecting notes here.

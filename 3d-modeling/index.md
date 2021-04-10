@@ -28,12 +28,20 @@ myself yet, for now this is just my notes.
 * [X\_ITE](https://github.com/create3000/x_ite/wiki) --
 	Display X3D in a web browser
 * [Babylon.js](https://www.babylonjs.com/) --
-	Game platform with 3D animation
-	<br>(Not yet evaluated.)
+	Game platform with 3D animation.
+	Cannot load X3D scenes.
 * [Three.js](https://threejs.org/) --
-	
+	Limitted ability to load X3D scenes.
 * [A-Frame](https://aframe.io/) --
 	Higher level layer over Three.js
+
+## 3D Game Engines
+* [Castle Game Engine](https://castle-engine.io/)
+	X3D seems to be its native format. Can load models in various formats.
+	Scripting language is Pascal, though they are working on adding Javascript.
+* [Godot Engine](https://godotengine.org/)
+	Scripting language is similiar to Python.
+	Does not seem to be able to load X3D scenes.
 
 ## Animation Tutorials
 
