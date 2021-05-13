@@ -35,13 +35,19 @@ myself yet, for now this is just my notes.
 * [A-Frame](https://aframe.io/) --
 	Higher level layer over Three.js
 
-## 3D Game Engines
-* [Castle Game Engine](https://castle-engine.io/)
+## Standalone 3D Game Engines and X3D Viewers
+* [Castle Game Engine](https://castle-engine.io/) --
 	X3D seems to be its native format. Can load models in various formats.
 	Scripting language is Pascal, though they are working on adding Javascript.
-* [Godot Engine](https://godotengine.org/)
+* [Godot Engine](https://godotengine.org/) --
 	Scripting language is similiar to Python.
 	Does not seem to be able to load X3D scenes.
+* [FreeWRL](http://freewrl.sourceforge.net/) --
+	Last release was in January 2017.
+* [Panda3D](https://www.panda3d.org/)
+
+## Other Animation Tools
+* [Monster Mash](https://ai.googleblog.com/2021/04/monster-mash-sketch-based-tool-for.html)
 
 ## Animation Tutorials
 
@@ -51,5 +57,11 @@ myself yet, for now this is just my notes.
 	Techniques for telling a story with less animation
 * [How to Make Animated Peeps](http://www.jaanga.com/2012/04/how-to-make-animated-peeps.html) --
 	Creating human models with Makehuman and animating them with BVH files in Three.js
+
+## OpenGL Benchmarks
+
+* Glxgears 
+* [GLmark2](https://openbenchmarking.org/test/pts/glmark2)
+* https://unigine.com/products/heaven/download/
 
 

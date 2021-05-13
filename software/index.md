@@ -65,7 +65,7 @@ which we are still evaluating.
 * [Xournal++](https://xournalpp.github.io/) --
 	Note taking and PDF annotation.
 
-Other programs:
+Other noteworthy programs:
 	[Abiword](https://www.abisource.com/),
 	[Calgra Words](https://www.calligra.org/words/),
 	[OnlyOffice](https://github.com/ONLYOFFICE/),
@@ -95,11 +95,6 @@ Other programs:
 	and combine multiple audio clips on a timeline. You can save the project
 	to continue working on it later. When you are ready, you can export
 	the finished audio in WAV, FLAC, MP3, and OGG formats.
-* [Aeneas Forced Aligner](https://github.com/readbeyond/aeneas) --
-	Given a recording of speech and a transcript, find the start and end
-	time of each utterance. See also detailed instructions at
-	[Sil.org](http://software.sil.org/downloads/r/readingappbuilder/Reading-App-Builder-07-Using-aeneas-for-Audio-Text-Synchronization.pdf).
-	<br>(Not yet evaluated.)
 
 ### Video Processing and Viewing
 * [VLC](https://www.videolan.org) --
@@ -141,7 +136,7 @@ Other programs:
 	of other websites. Useful if you want to show a video in class. You give
 	it the URL of the video's webpage and it does the rest.
 
-Other programs:
+Other noteworthy programs:
 	[Openshot](https://www.openshot.org/),
 	[Kdenlive](https://kdenlive.org/)
 
@@ -205,31 +200,6 @@ such as removing distracting or unsightly details or even whole objects.
 	Like Dia, Libreoffice Draw has its own file format.
 	Finished drawings can be exported in formats including SVG and PNG.
 
-### 2D Animation
-* [Wick Editor](https://www.wickeditor.com/) --
-    A promising web application for creating animations. Can export the finished
-	animation as a video file or as a player which draws the animation in real
-	time to an HTML5 canvas.
-* [Krita](https://krita.org/) --
-	Krita has support for 2D animation drawn frame-by-frame. Can export to video.
-* [Svg.svg](https://svgjs.com/) --
-	Javascript library for adding animation to SVG drawings. You can make a drawing in
-	Inkscape, put it on your web page, and then use this library to show and hide elements
-	(including layers), move things around, scale and rotate, them, all at a time
-	and speed you specify. Recommended for basic animation needs were a game platform
-	would be overkill.
-
-Other programs:
-	[Synfig Studio](https://www.synfig.org/),
-	[Pencil](https://www.pencil2d.org/),
-	[TupiTube](http://www.tupitube.com/)
-
-### Stop Motion Animation
-* [qStopMotion](http://www.qstopmotion.org) --
-	Program to take a series of photos using a camera connected to your
-	computer and later assemble them into a video. Works with webcams
-	and some SLR's.
-
 ### 3D Modeling
 * [Blender](https://www.blender.org) --
 	This is the definitive opensource 3D modeling program. It is very capable
@@ -243,27 +213,6 @@ Other programs:
 	An easy-to-use program for creating 3D models of rooms with doors, windows, and furniture.
 	See our article [Using Sweethome 3D](sweethome/).
 
-### 2D Games with Sprite Animation in Web Browsers
-* [Pixi](https://www.pixijs.com/) --
-	This is a sprite renderer. A sprite is a 2D image which is moved around the
-	screen in a video game. Think of the of the invaders, canon, and bullets
-	in Space Invaders. To use Pixi you write Javascript code to load your
-	sprite image and to move then around, changes their size, rotate them, etc.
-	Pixi alone is sufficient for animation. If you want to make a game, you can
-	use additional libraries (suggested in the documentation) to detect
-	collisions, make sounds, and simulate physics, or you can use one of
-	several game engines which incorporate Pixi while providing these functions.
-    * [Learning Pixi](https://github.com/kittykatattack/learningPixi)
-* [Phaser](https://phaser.io/) --
-	Phaser is a complete system for creating games which run in a web browser.
-	Games are created by writing code in Javascript, so a basic understanding
-	of that language is required. Phaser 2 uses Pixi as the sprite renderer.
-	Developement of Phaser 2 continues under the name Phaser CE. Phaser 3
-	uses its own sprite renderer.	
-* [Gdevelop](https://gdevelop-app.com/) --
-	Gdevelop is another system for 2D games run in a web browser. Like Phaser,
-	it uses Pixi to render the sprites.	
-
 ### Other Software Lists
 * [34 open source tools for creatives](https://opensource.com/article/16/12/yearbook-top-open-source-creative-tools-2016) --
 	Describes applications for creating documents, drawings, videos, music, typefaces, and 3D models
@@ -274,4 +223,6 @@ Other programs:
 	Describes programs for producing diagrams such as flowcharts, organizational charts, and circuit schematics.	
 * [Pixls](https://pixls.us/software/) --
 	A photographer's list of opensource tools
+
+[Unfinished Evaluations](draft)
 

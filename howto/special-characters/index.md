@@ -95,3 +95,16 @@ and typing its Unicode number in decimal on the numeric keypad. The
 character will appear when you release **Alt**. Note that this will
 work only if **Numlock** is on.
 
+### Keyboard Tricks on a Macintosh
+
+On a Macintosh computer if you hold down a letter key a little menu will
+pop up from which you can choose an accented version of that letter.
+
+If you want to add an accute accent to a letter, there is a quicker way:
+Hold down **Option**, press **e**, and the letter over which you wish
+to place the accent. There are a number of other sequences like this.
+
+The article [How to Type Letters with Accents on Mac](https://www.freecodecamp.org/news/how-to-type-letters-with-accents-on-mac/)
+at FreeCodeCamp gives many more.
+
+
