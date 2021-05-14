@@ -171,6 +171,7 @@ such as removing distracting or unsightly details or even whole objects.
 	Has vector graphics layers which can be loaded from and saved to SVG files.
 	Vector shapes can be copied between Krita and Inkscape.
 	Has provisions for frame-by-frame animation of raster (but not vector) layers.
+	Takes about 10 times as long to start as Pinta does.
 * [Imagemagick](https://www.imagemagick.org) --
 	If you need to convert one or two images, you can use one of the raster
 	graphics editors described above. But if you are processing hundreds

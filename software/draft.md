@@ -7,22 +7,27 @@ I have not used them and do not have enough information about them.
 * [TUI Editor](https://github.com/nhn/tui.editor) text editor
 * [JAVASCRIPT & CSS MARKDOWN EDITOR](https://www.cssscript.com/tag/markdown-editor/) text editor
 * [Anvil](https://anvil.works/) some kind of framework based on Python
+* [Twinery](https://twinery.org/) may be a framework for interactive fiction
 
 ### Web Office Suites
 * [Onlyoffice](https://helpcenter.onlyoffice.com/server/docker/opensource/opensource-script-installation.aspx?_ga=2.171818464.1118353405.1597510942-615934063.1597510942)
 * [Nextcloud](https://hub.docker.com/_/nextcloud/)
 
 ### Raster Graphics
-* [MyPaint](http://mypaint.org/)
+* [MyPaint](http://mypaint.org/) -- Tested version 2.0.1 in May 2021 on Ubuntu 20.04. Worked but drawing
+  was laggy. Bar at top for selecting tools gave no visual indication that a tool had been 
+  successfully selected.
+* [Photopea](https://www.photopea.com/)
 
-### Video
+### Video Production
 * [Natron](https://natrongithub.github.io/)
+* [Storyboarder](https://wonderunit.com/storyboarder/)
+* [qStopMotion](http://www.qstopmotion.org) --
+	Program to take a series of photos using a camera connected to your
+	computer and later assemble them into a video. Works with webcams
+	and some SLR's.
 
 ### 2D Animation
-* [Wick Editor](https://www.wickeditor.com/) --
-    A promising web application for creating animations. Can export the finished
-	animation as a video file or as a player which draws the animation in real
-	time to an HTML5 canvas.
 * [Krita](https://krita.org/) --
 	Krita has support for 2D animation drawn frame-by-frame. Can export to video.
 * [Svg.svg](https://svgjs.com/) --
@@ -32,16 +37,22 @@ I have not used them and do not have enough information about them.
 	and speed you specify. Recommended for basic animation needs were a game platform
 	would be overkill.
 * [Synfig Studio](https://www.synfig.org/)
-* [Pencil](https://www.pencil2d.org/)
-* [TupiTube](http://www.tupitube.com/)
-* [Glaxnimate](https://glaxnimate.mattbas.org/)
-* [Enve](https://maurycyliebner.github.io/)
-
-### Stop Motion Animation
-* [qStopMotion](http://www.qstopmotion.org) --
-	Program to take a series of photos using a camera connected to your
-	computer and later assemble them into a video. Works with webcams
-	and some SLR's.
+	Vector and cutout animation. Supports tweening. Now has vector export.
+* [Pencil2D Animation](https://www.pencil2d.org/) --
+	Raster and vector "hand drawn" animation. Does it support tweening?
+* [TupiTube](http://www.tupitube.com/) --
+	Site does not impress. Linux version has a sub-1.0 version number.
+* [Wick Editor](https://www.wickeditor.com/) --
+    A promising web application for creating animations. Can export the finished
+	animation as a video file or as a player which draws the animation in real
+	time to an HTML5 canvas.
+* [Glaxnimate](https://glaxnimate.mattbas.org/) --
+	Vector animation with tweening. Has a "record" mode in which all
+	changes (supposedly) produce keyframes.
+* [Enve](https://maurycyliebner.github.io/) --
+	Very promising vector animation. As of May 2021 tweens do not have
+	easing. Developer says he is in poor health, project has slowed
+	and may not continue. Frustration attempting to create keyframes.
 
 ### 2D Games with Sprite Animation in Web Browsers
 * [Pixi](https://www.pixijs.com/) --
