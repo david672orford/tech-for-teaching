@@ -208,7 +208,8 @@ as of January 2020 the licenses on these sites are unchanged.
 	Videos on Vimeo which are tagged as being in the public domain or under
 	a [Creative Commons license](https://creativecommons.org/license).
 * [Videvo](https://www.videvo.net/) --
-	Video clips, many under a [Creative Commons license](https://creativecommons.org/license).
+	Video clips, including effects shots such as snoke and fireworks,
+	many under a [Creative Commons license](https://creativecommons.org/license).
 * [Videzy](https://www.videezy.com/) --
 	More video clips. License terms indicated for each video.
 * [Pond5](https://www.pond5.com/public-domain-curated-collections) --

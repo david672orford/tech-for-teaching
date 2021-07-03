@@ -20,14 +20,23 @@ I have not used them and do not have enough information about them.
 * [Photopea](https://www.photopea.com/)
 
 ### Video Production
-* [Natron](https://natrongithub.github.io/)
-* [Storyboarder](https://wonderunit.com/storyboarder/)
+* [Natron](https://natrongithub.github.io/) --
+	Compose effects shots. Keying, tracking, etc.
+	As 2021 this program has not been actively developed for several years.
+* [Storyboarder](https://wonderunit.com/storyboarder/) --
+	Assemble drawings into storyboards.
+	Can generate basic drawings of characters automatically.
 * [qStopMotion](http://www.qstopmotion.org) --
 	Program to take a series of photos using a camera connected to your
 	computer and later assemble them into a video. Works with webcams
 	and some SLR's.
 
 ### 2D Animation
+* [Blender](https://blender.org) --
+	2D animation can be done in blender using the Grease Pencil. 2D objects
+	can also be placed in 3D scenes and animated.
+* [OpenToonz](https://opentoonz.github.io/e/) --
+	Seems to be for hand-drawn 2D animation.
 * [Krita](https://krita.org/) --
 	Krita has support for 2D animation drawn frame-by-frame. Can export to video.
 * [Svg.svg](https://svgjs.com/) --
@@ -38,6 +47,7 @@ I have not used them and do not have enough information about them.
 	would be overkill.
 * [Synfig Studio](https://www.synfig.org/)
 	Vector and cutout animation. Supports tweening. Now has vector export.
+	Interfaces seems cluttered and chaotic.
 * [Pencil2D Animation](https://www.pencil2d.org/) --
 	Raster and vector "hand drawn" animation. Does it support tweening?
 * [TupiTube](http://www.tupitube.com/) --
@@ -47,12 +57,22 @@ I have not used them and do not have enough information about them.
 	animation as a video file or as a player which draws the animation in real
 	time to an HTML5 canvas.
 * [Glaxnimate](https://glaxnimate.mattbas.org/) --
-	Vector animation with tweening. Has a "record" mode in which all
-	changes (supposedly) produce keyframes.
+	Vector animation with tweening. Has a "record" mode in which all changes
+	(supposedly) produce keyframes.
+	Saves in some kind of JSON format.
+	Can export in Lottie and Telegram animated stickers formats, animated SVG, and video.
+	Scriptable in Python.
+* [Python Lottie](https://pypi.org/project/lottie/) --
+	A Python framework for working with Telegraph animated stickers which
+	are in a subset of Lottie format. Includes a Blender export plugin.
+	By the author of Glaxnimate.
 * [Enve](https://maurycyliebner.github.io/) --
 	Very promising vector animation. As of May 2021 tweens do not have
 	easing. Developer says he is in poor health, project has slowed
 	and may not continue. Frustration attempting to create keyframes.
+	Can export to SVG format with animation.
+* [Tahoma2D](https://tahoma2d.org/) --
+	Seems to support hand-drawn, vector, and stop-motion animation.
 
 ### 2D Games with Sprite Animation in Web Browsers
 * [Pixi](https://www.pixijs.com/) --

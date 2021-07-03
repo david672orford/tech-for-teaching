@@ -205,7 +205,7 @@ the **LibreOffice Base** category in the left-hand panel and choose
 More information about mail merging can be found in the
 [Libreoffice Writer Guide Chapter 11](https://documentation.libreoffice.org/assets/Uploads/Documentation/en/WG4.2/PDF/WG4211-UsingMailMerge.pdf).
 
-### Hiding Blank Lines in Mail Merge
+### Hiding Blank Lines in Mail Merge Labels
 
 * Open the data sources
 * Got to **Insert** ⟶   **Field** ⟶   **More Fields**, select the 
@@ -216,6 +216,15 @@ More information about mail merging can be found in the
 * Append a space and EQ "" to define the condition for hiding the paragraph.
 * Click the **Insert** button.
 * If the hidden paragraph is now empty, reinsert the data field.
+
+### Multiple Mail Merge Labels Per Page
+
+You can print multiple labels per page by repeating the template. However, you must
+insert an invisible "next record" field in front of all templates after the
+first. Otherwise you will get a whole page of labels for each address.
+
+To insert the "next record" field, go to **Insert** ⟶  **Field** ⟶  **Other**. Switch
+to the **Database** tab and choose **Next Record** and press **Insert**.
 
 ### Toggling Display of Hidden Paragraphs
 

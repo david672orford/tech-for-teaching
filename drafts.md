@@ -5,4 +5,5 @@
 * [Taking and Using Photographs](photography/)
 * [Python Programming](python/)
 * [Virtual Classrooms](virtual-classrooms/)
+* [More Software Reviews](software/draft)
 
