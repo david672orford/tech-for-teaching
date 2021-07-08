@@ -37,6 +37,9 @@ I have not used them and do not have enough information about them.
 	can also be placed in 3D scenes and animated.
 * [OpenToonz](https://opentoonz.github.io/e/) --
 	Seems to be for hand-drawn 2D animation.
+* [Tahoma2D](https://tahoma2d.org/) --
+	Seems to support hand-drawn, vector, and stop-motion animation.
+	Author describes it as "based on OpenToonz".
 * [Krita](https://krita.org/) --
 	Krita has support for 2D animation drawn frame-by-frame. Can export to video.
 * [Svg.svg](https://svgjs.com/) --
@@ -71,8 +74,6 @@ I have not used them and do not have enough information about them.
 	easing. Developer says he is in poor health, project has slowed
 	and may not continue. Frustration attempting to create keyframes.
 	Can export to SVG format with animation.
-* [Tahoma2D](https://tahoma2d.org/) --
-	Seems to support hand-drawn, vector, and stop-motion animation.
 
 ### 2D Games with Sprite Animation in Web Browsers
 * [Pixi](https://www.pixijs.com/) --
