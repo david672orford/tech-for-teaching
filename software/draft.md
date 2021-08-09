@@ -65,6 +65,7 @@ I have not used them and do not have enough information about them.
 	Saves in some kind of JSON format.
 	Can export in Lottie and Telegram animated stickers formats, animated SVG, and video.
 	Scriptable in Python.
+	Has fairly good documentation.
 * [Python Lottie](https://pypi.org/project/lottie/) --
 	A Python framework for working with Telegraph animated stickers which
 	are in a subset of Lottie format. Includes a Blender export plugin.
@@ -74,6 +75,7 @@ I have not used them and do not have enough information about them.
 	easing. Developer says he is in poor health, project has slowed
 	and may not continue. Frustration attempting to create keyframes.
 	Can export to SVG format with animation.
+	No meaningful documentation. Tutorials on Youtube.
 
 ### 2D Games with Sprite Animation in Web Browsers
 * [Pixi](https://www.pixijs.com/) --
@@ -91,7 +93,8 @@ I have not used them and do not have enough information about them.
 	Games are created by writing code in Javascript, so a basic understanding
 	of that language is required. Phaser 2 uses Pixi as the sprite renderer.
 	Developement of Phaser 2 continues under the name Phaser CE. Phaser 3
-	uses its own sprite renderer.	
+	uses its own sprite renderer.
+    [Flavio Tutorials](https://flaviocopes.com/tags/phaser/)
 * [Gdevelop](https://gdevelop-app.com/) --
 	Gdevelop is another system for 2D games run in a web browser. Like Phaser,
 	it uses Pixi to render the sprites.	
@@ -101,4 +104,8 @@ I have not used them and do not have enough information about them.
 	Given a recording of speech and a transcript, find the start and end
 	time of each utterance. See also detailed instructions at
 	[Sil.org](http://software.sil.org/downloads/r/readingappbuilder/Reading-App-Builder-07-Using-aeneas-for-Audio-Text-Synchronization.pdf).
+
+### References
+* [Libre Arts](https://librearts.org/)
+* [Self-Hosted Photo Management](https://arstechnica.com/gadgets/2021/06/the-big-alternatives-to-google-photos-showdown/)
 

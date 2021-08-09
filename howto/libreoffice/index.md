@@ -233,3 +233,9 @@ of hidden paragraphs, but it was removed at some point. To get it back,
 go to **Options** ⟶   **Customize** ⟶   **Menus**. There is you find
 the command and insert it into the **View** menu.
 
+### Macros
+
+* [Recording Macros](https://help.libreoffice.org/6.2/en-US/text/shared/guide/macro_recording.html?DbPAR=SHARED)
+* [Assigning a Macro to a Toolbar](https://ask.libreoffice.org/t/assign-macro-to-toolbar/33575)
+
+
