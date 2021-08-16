@@ -4,8 +4,8 @@ These entries are here because, while I found these programs interesting,
 I have not used them and do not have enough information about them.
 
 ### Web Development
-* [TUI Editor](https://github.com/nhn/tui.editor) text editor
-* [JAVASCRIPT & CSS MARKDOWN EDITOR](https://www.cssscript.com/tag/markdown-editor/) text editor
+* [TUI Editor](https://github.com/nhn/tui.editor) embedable text editor
+* [JAVASCRIPT & CSS MARKDOWN EDITOR](https://www.cssscript.com/tag/markdown-editor/) embedable text editor
 * [Anvil](https://anvil.works/) some kind of framework based on Python
 * [Twinery](https://twinery.org/) may be a framework for interactive fiction
 
@@ -17,7 +17,7 @@ I have not used them and do not have enough information about them.
 * [MyPaint](http://mypaint.org/) -- Tested version 2.0.1 in May 2021 on Ubuntu 20.04. Worked but drawing
   was laggy. Bar at top for selecting tools gave no visual indication that a tool had been 
   successfully selected.
-* [Photopea](https://www.photopea.com/)
+* [Photopea](https://www.photopea.com/) -- Online photo editor
 
 ### Video Production
 * [Natron](https://natrongithub.github.io/) --
@@ -26,6 +26,7 @@ I have not used them and do not have enough information about them.
 * [Storyboarder](https://wonderunit.com/storyboarder/) --
 	Assemble drawings into storyboards.
 	Can generate basic drawings of characters automatically.
+	Owner feudes online with those who object to dirty words in the program.
 * [qStopMotion](http://www.qstopmotion.org) --
 	Program to take a series of photos using a camera connected to your
 	computer and later assemble them into a video. Works with webcams
