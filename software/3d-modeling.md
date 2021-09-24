@@ -4,8 +4,14 @@ Eventually I hope to offer recommendations for creating 3D illustrations
 for use in instruction. Since I have not figured how best to do this
 myself yet, for now this is just my notes.
 
+## X3D Format Documentation
+
 X3D and its predecessor VRML (Virtual Reality Markup Language) are file
 formats for 3D scenes to be displayed in web browsers.
+
+* [X3D Resources](https://www.web3d.org/x3d/content/examples/X3dResources.html)
+* [X3D Scene Authoring Hints](http://x3dgraphics.com/examples/X3dSceneAuthoringHints.html)
+* [Phong Reflection Model](https://en.wikipedia.org/wiki/Phong_reflection_model)
 
 ## Software For Creating VRML/X3D Scenes
 
@@ -58,13 +64,15 @@ formats for 3D scenes to be displayed in web browsers.
 	There is a web version which uses webasm.
 * [Panda3D](https://www.panda3d.org/) --
 	Game engine written in C++, scripted in Python.
-	Updated website around 2021.
+	Updated website around 2021. Can now load many model formats.
+	See this [3D file viewer example](https://github.com/trueprice/python-video-tool).
 
 ## Other Animation Tools
 
 * [Monster Mash](https://ai.googleblog.com/2021/04/monster-mash-sketch-based-tool-for.html)
 * [PyMesh — Geometry Processing Library for Python](https://pymesh.readthedocs.io/en/latest/)
 * [Armory3D](https://armory3d.org/)
+* [Maverick Model 3D](https://github.com/zturtleman/mm3d)
 
 ## Animation Tutorials
 
@@ -81,11 +89,7 @@ formats for 3D scenes to be displayed in web browsers.
 * [GLmark2](https://openbenchmarking.org/test/pts/glmark2)
 * https://unigine.com/products/heaven/download/
 
-## Wavefront OBJ Files
-
-* [Format Description in Wikipedia](https://en.wikipedia.org/wiki/Wavefront_.obj_file)
-
-## References
+## Other Lists
 
 * [A collection of WebGL and WebGPU frameworks and libraries](https://gist.github.com/dmnsgn/76878ba6903cf15789b712464875cfdc)
 
