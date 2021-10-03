@@ -106,6 +106,10 @@ I have not used them and do not have enough information about them.
 	time of each utterance. See also detailed instructions at
 	[Sil.org](http://software.sil.org/downloads/r/readingappbuilder/Reading-App-Builder-07-Using-aeneas-for-Audio-Text-Synchronization.pdf).
 
+### Web Content Management Systems
+* [Nikola](https://getnikola.com/) --
+	Static site generator in Python
+
 ### References
 * [Libre Arts](https://librearts.org/)
 * [Self-Hosted Photo Management](https://arstechnica.com/gadgets/2021/06/the-big-alternatives-to-google-photos-showdown/)

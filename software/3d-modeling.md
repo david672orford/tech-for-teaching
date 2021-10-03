@@ -32,7 +32,13 @@ formats for 3D scenes to be displayed in web browsers.
 * [X3DOM Component Editor](https://github.com/x3dom/component-editor) --
 	Very basic web editor
 
-### For displaying 3D Scenes, Animation, and Games in Web Browsers
+## Other 3D Editors
+
+* [FreeCAD](https://www.freecadweb.org/)
+* [Maverick Model 3D](https://github.com/zturtleman/mm3d)
+* [K-3D](http://www.k-3d.org/)
+
+## For displaying 3D Scenes, Animation, and Games in Web Browsers
 
 * [X3DOM](https://www.x3dom.org/) --
 	Javascript library for embedding X3D files in a webpage.

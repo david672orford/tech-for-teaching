@@ -40,6 +40,8 @@ deleted or renamed. Automated tools help you to proactively fix the problem.
 
 <li><a href="pdf/">Work with PDF files</a>
 <br>
+Extract selected pages, combine PDF files, rotate scanned pages to the
+proper orientation.
 </li>
 
 </ul>
