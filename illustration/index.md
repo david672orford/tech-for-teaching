@@ -1,16 +1,33 @@
 ## How to Create Illustrations
 
 Even if you do not consider yourself an artist, there are techniques which you
-can use to produce passable illustrations for your courses. Some of these will
-be familiar from grammar school. Think how children create illustrations with
+can use to produce passable illustrations for your courses.
+
+### Simple Shapes and Lines
+
+One of the easiest techniques is one you probably know from
+grammar school. Think how children create illustrations with
 scissors, glue, and construction paper. They may then add lines with crayons.
 They may also cut elements out of discarded magazines and add them to their
 compositions.
 
-You can use many of the same techniques with Inkscape. Start by drawing simple
-things and recombining elements which you can find on
-[stock illustration sites](../stock-material/).
-Learn to modify these and create new elements like them.
+You can use many of the same techniques with Inkscape. Start by drawing 
+circles, squares and rectangles. Move them around, resize and stretch them,
+rotate them as if they were pieces of construction paper which you were
+gluing down to make a picture.
+
+Just like children may cut illustrations and graphical elements out of
+old magazines with scissors, you can find online photos, illustrations,
+and graphical elements to import into your drawings. See our
+on our [stock illustration sites](../stock-material/) page.
+
+Some of the stock materials are themselves vector illustrations which you
+can learn to modify in Inkscape. Depending on how well the vector drawing
+is designed, you may be able to change colors, add or remove elements, and
+move elements around.
+
+
+import them into Inkscape. Y
 
 ### Inkscape Tutorials on Other Sites
 
