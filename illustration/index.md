@@ -26,9 +26,6 @@ can learn to modify in Inkscape. Depending on how well the vector drawing
 is designed, you may be able to change colors, add or remove elements, and
 move elements around.
 
-
-import them into Inkscape. Y
-
 ### Inkscape Tutorials on Other Sites
 
 * [Inkscape: Guide to a Vector Drawing Program](http://tavmjong.free.fr/INKSCAPE/MANUAL/html/) --
