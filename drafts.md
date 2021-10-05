@@ -2,6 +2,16 @@
 
 <ul class="tiles">
 
+<li><a href="software/draft">Software Reviews</a>
+<br>
+Unfinished software reviews
+</li>
+
+<li><a href="3d-modeling/">3D Modeling</a>
+<br>
+How to create 3D models to use in illustrations and animations
+</li>
+
 <li><a href="video/">Creating Videos</a> (stub)
 <br>
 Creating videos is easier than ever. You probably already have a camera which

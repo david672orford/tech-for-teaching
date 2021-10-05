@@ -225,8 +225,3 @@ such as removing distracting or unsightly details or even whole objects.
 * [Pixls](https://pixls.us/software/) --
 	A photographer's list of opensource tools
 
-### Unfinished Evaluations
-
-* [Unfinished Evaluations](draft)
-* [3D Modeling](3d-modeling)
-
