@@ -16,21 +16,26 @@ formats for 3D scenes to be displayed in web browsers.
 ## Software For Creating VRML/X3D Scenes
 
 * [Blender](https://www.blender.org) --
-	Can import and export in X3D format
+	Full-featured 3D modeling system. Can import and export in numberous
+	formats including X3D.
 * [Art of Illusion](http://www.artofillusion.org) --
-	Can export in VRML format
+	Fairly capable 3D modeling system written in Java. Can export in OBJ
+	and VRML format.
+* [Titania](https://github.com/create3000/titania/wiki) --
+	As of 2021 the project as active and moving to Github. A few nits though:
+	Snap package is 4.6.9 from December 2019. Though it works on Ubuntu 20.04,
+	it suffers from long pauses. The oldest release is marked as the newest.
+	Titania uses X\_ITE as the viewer.
 * [White Dune](http://wdune.ourproject.org/) --
 	Attempt to run on version 1.956 on Ubuntu 20.04 failed.
-* [Titania](https://github.com/create3000/titania/wiki) --
-	Snap package works on Ubuntu 20.04. Seems to suffer from
-	long pauses.
 * [X3D-Edit](https://savage.nps.edu/X3D-Edit/) --
 	Appears to be an XML editor for X3D with preview. Written in Java.
 	Uses an X3D viewer called Xj3D which is also written in Java.
 	(The Xj3D.org website is now a programming news site.)
 	As of 2021 website looks dated. Last stable release (4.0) in 2019.
+	On Ubuntu 20.04 it throws up warnings when started, crashes.
 * [X3DOM Component Editor](https://github.com/x3dom/component-editor) --
-	Very basic web editor
+	Very basic web scene editor
 
 ## Other 3D Editors
 
@@ -77,8 +82,9 @@ formats for 3D scenes to be displayed in web browsers.
 
 * [Monster Mash](https://ai.googleblog.com/2021/04/monster-mash-sketch-based-tool-for.html)
 * [PyMesh — Geometry Processing Library for Python](https://pymesh.readthedocs.io/en/latest/)
-* [Armory3D](https://armory3d.org/)
-* [Maverick Model 3D](https://github.com/zturtleman/mm3d)
+* [Armory3D](https://armory3d.org/) -- 3D engine, texture tools
+* [Maverick Model 3D](https://github.com/zturtleman/mm3d) -- model editor
+* [MB-Lab](https://github.com/animate1978/MB-Lab) -- character creator
 
 ## Animation Tutorials
 

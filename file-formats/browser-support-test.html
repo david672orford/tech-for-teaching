@@ -1,0 +1,106 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<title>Browser Media Formats Support Test</title>
+<style>
+TABLE {
+	border-collapse: collapse;
+	}
+TH, TD {
+	border: thin solid black;
+	padding: .3em;
+	}
+</style>
+</head>
+<body>
+<h1>Media Formats Support Test</h1>
+<p>This page contains code to ask your browser whether if supports various
+audio and video formats. The results are shown below.</p>
+<h2>Audio Results</h2>
+<table>
+<tbody id="audio_results">
+</tbody>
+</table>
+<h2>Video Results</h2>
+<table>
+<table>
+<tbody id="video_results">
+</tbody>
+</table>
+<script>
+	/* Convenience function for building HTML tags, inspired by LXML */
+	function E(name) {
+		var el = document.createElement(name);
+		for(var i=1; i<arguments.length; i++) {
+			var arg = arguments[i];
+			switch(typeof(arg)) {
+				case 'string':
+					el.appendChild(document.createTextNode(arg));
+					break;
+				case 'object':
+					if('nodeType' in arg) {
+						el.appendChild(arg);
+					} else {
+						for(var name in arg) {
+							if(name === 'className')
+								el.setAttribute('class', arg[name]);
+							else if(name === 'onclick')
+								el.onclick = arg[name];
+							else
+								el.setAttribute(name, arg[name]);
+						}
+					}
+					break;
+				default:
+					throw "Unhandled case: " + arg;
+					break;
+			}
+		}
+		return el;
+	}
+
+	let audio_results = document.getElementById("audio_results");
+	let video_results = document.getElementById("video_results");
+	let audio = document.createElement('audio');
+	let video = document.createElement('video');
+
+	function test_format(player, results, name, mimetype) {
+		let result = player.canPlayType(mimetype) || "no";
+		results.appendChild(E('tr', E('td', name), E('td', mimetype), E('td', result)));
+		}
+
+	/* See https://wiki.whatwg.org/wiki/Video_type_parameters */
+
+	test_format(audio, audio_results, "MP3", "audio/mpeg");
+	test_format(audio, audio_results, "FLAC", "audio/flac");
+
+	test_format(audio, audio_results, "MP4 container", "audio/mp4");
+	test_format(audio, audio_results, "MP4 container, AAC-LC", 'audio/mp4;codecs="mp4a.40.2"');
+	test_format(audio, audio_results, "MP4 container, AAC-HE", 'audio/mp4;codecs="mp4a.40.5"');
+
+	test_format(audio, audio_results, "Ogg container", "audio/ogg");
+	test_format(audio, audio_results, "Ogg Vorbis", 'audio/ogg;codecs="vorbis"');
+	test_format(audio, audio_results, "Ogg Opus", 'audio/ogg;codecs="opus"');
+	test_format(audio, audio_results, "Ogg FLAC", 'audio/ogg;codecs="flac"');
+
+	test_format(video, video_results, "Ogg container", "video/ogg");
+	test_format(video, video_results, "Ogg Vorbis Theora", 'video/ogg;codecs="vorbis,theora"');
+
+	test_format(video, video_results, "MP4 container", 'video/mp4');
+	test_format(video, video_results, "MP4 Visual Simple Profile Level 0", 'video/mp4;codecs="mp4v.20.9"');
+	test_format(video, video_results, "MP4 Visual Advanced Simple Profile Level 0", 'video/mp4;codecs="mp4v.20.240"');
+	test_format(video, video_results, "MP4 H.264 Baseline Profile Level 3.0", 'video/mp4;codecs="avc1.42E01E"');
+	test_format(video, video_results, "MP4 H.264 Main Profile Level 3.0", 'video/mp4;codecs="avc1.4D401E"');
+	test_format(video, video_results, "MP4 H.264 High Profile Level 4.1", 'video/mp4;codecs="avc1.640029"');
+	test_format(video, video_results, "MP4 VP9", 'video/mp4;codecs="vp9"');
+
+	test_format(video, video_results, "Webm Container", 'video/webm');
+	test_format(video, video_results, "Webm VP8", 'video/webm;codecs="vp8"');
+	test_format(video, video_results, "Webm VP9", 'video/webm;codecs="vp9"');
+	test_format(video, video_results, "Webm AV1", 'video/webm;codecs="av1"');
+	test_format(video, video_results, "Webm Vorbis", 'video/webm;codecs="vorbis"');
+	test_format(video, video_results, "Webm Opus", 'video/webm;codecs="opus"');
+
+</script>
+</body>
+</html>
