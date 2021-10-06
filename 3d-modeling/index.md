@@ -1,8 +1,8 @@
 ## Creating 3D Models and Animations
 
 Eventually I hope to offer recommendations for creating 3D illustrations
-for use in instruction. Since I have not figured how best to do this
-myself yet, for now this is just my notes.
+and simple animations for use in instruction. For now I am collecting
+information on this page.
 
 ## X3D Format Documentation
 
@@ -39,9 +39,14 @@ formats for 3D scenes to be displayed in web browsers.
 
 ## Other 3D Editors
 
-* [FreeCAD](https://www.freecadweb.org/)
 * [Maverick Model 3D](https://github.com/zturtleman/mm3d)
 * [K-3D](http://www.k-3d.org/)
+* [Wings 3D](http://www.wings3d.com/) --
+	A "subdivision modeler", whatever that means. Site seems to indicate it
+	can create mesh models and add materials. Says there is no support for
+	animation.
+* [FreeCAD](https://www.freecadweb.org/)
+* [BRL-CAD](https://brlcad.org/)
 
 ## For displaying 3D Scenes, Animation, and Games in Web Browsers
 
@@ -74,17 +79,27 @@ formats for 3D scenes to be displayed in web browsers.
 	Does not seem to be able to load X3D scenes.
 	There is a web version which uses webasm.
 * [Panda3D](https://www.panda3d.org/) --
-	Game engine written in C++, scripted in Python.
+	Game engine written in C++ with scripted in Python.
 	Updated website around 2021. Can now load many model formats.
 	See this [3D file viewer example](https://github.com/trueprice/python-video-tool).
 
 ## Other Animation Tools
 
-* [Monster Mash](https://ai.googleblog.com/2021/04/monster-mash-sketch-based-tool-for.html)
-* [PyMesh — Geometry Processing Library for Python](https://pymesh.readthedocs.io/en/latest/)
-* [Armory3D](https://armory3d.org/) -- 3D engine, texture tools
-* [Maverick Model 3D](https://github.com/zturtleman/mm3d) -- model editor
-* [MB-Lab](https://github.com/animate1978/MB-Lab) -- character creator
+* [Monster Mash](https://ai.googleblog.com/2021/04/monster-mash-sketch-based-tool-for.html) --
+	Quickly creates crude 3D models by "inflating" 2D outlines drawn by hand	
+* [Armory3D](https://armory3d.org/) --
+	3D engine, texture tools
+* [Maverick Model 3D](https://github.com/zturtleman/mm3d) --
+	Model editor
+* [MB-Lab](https://github.com/animate1978/MB-Lab) --
+	Character creator
+* [MeshLab](https://www.meshlab.net/) --
+	System for processing and editing 3D triangular meshes
+* [PyMesh — Geometry Processing Library for Python](https://pymesh.readthedocs.io/en/latest/) --
+	Mesh processing routines. Described on the site as a unified
+	inteface to a number of other tools. I do not really understand
+	the purpose of the processing functions described, but they sound
+	like they are for simplification and cleanup. 
 
 ## Animation Tutorials
 
