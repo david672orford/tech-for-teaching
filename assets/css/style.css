@@ -125,6 +125,22 @@ LI {
 	margin: 0 0 .4em 0;
 	}
 
+/* Blog posting */
+ARTICLE {
+	border: thin solid black;
+	padding: 0.5em;
+	}
+ARTICLE H1 {
+	font-size: 120%;
+	padding: 0;
+	margin-bottom: .2em;
+	}
+ARTICLE H2 {
+	font-size: 110%;
+	margin-bottom: .2em;
+	}
+
+
 FIGURE.right_edge {
 	float: right;
 	clear: both;

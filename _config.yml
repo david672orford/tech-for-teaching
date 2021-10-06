@@ -17,3 +17,4 @@ defaults:
     values:
       image: /assets/images/title/image.png
       image_alt: Students listen intently as an instructor jestures toward a screen showing a laptop computer, camera, and microphone.
+permalink: /blog/:year/:month/:day/:title
