@@ -9,8 +9,13 @@ information on this page.
 X3D and its predecessor VRML (Virtual Reality Markup Language) are file
 formats for 3D scenes to be displayed in web browsers.
 
-* [X3D Resources](https://www.web3d.org/x3d/content/examples/X3dResources.html)
-* [X3D Scene Authoring Hints](http://x3dgraphics.com/examples/X3dSceneAuthoringHints.html)
+* [X3D 3 Standard](https://www.web3d.org/standards/version/V3.3)
+* [X3D 3 Node Types Index](https://www.web3d.org/documents/specifications/19775-1/V3.3/Part01/nodeIndex.html)
+* [Scene Authoring Hints](http://x3dgraphics.com/examples/X3dSceneAuthoringHints.html)
+* [X\_ITE Tutorial](https://github.com/create3000/x_ite/wiki/Tutorials)
+* [X\_ITE Supported Node Types](https://github.com/create3000/x_ite/wiki/Supported-Nodes)
+* [X3DOM Scene Author API](https://doc.x3dom.org/author/index.html)
+* [Grouping and Transforms](http://edutechwiki.unige.ch/en/X3D_grouping_and_transforms)
 * [Phong Reflection Model](https://en.wikipedia.org/wiki/Phong_reflection_model)
 
 ## Software For Creating VRML/X3D Scenes
@@ -48,7 +53,7 @@ formats for 3D scenes to be displayed in web browsers.
 * [FreeCAD](https://www.freecadweb.org/)
 * [BRL-CAD](https://brlcad.org/)
 
-## For displaying 3D Scenes, Animation, and Games in Web Browsers
+## Displaying 3D Scenes, Animation, and Games in Web Browsers
 
 * [X3DOM](https://www.x3dom.org/) --
 	Javascript library for embedding X3D files in a webpage.
@@ -100,6 +105,14 @@ formats for 3D scenes to be displayed in web browsers.
 	inteface to a number of other tools. I do not really understand
 	the purpose of the processing functions described, but they sound
 	like they are for simplification and cleanup. 
+* [Open Asset Import Library](https://www.assimp.org/) --
+	Library for reading numerous 3D asset formats. Includes command-line
+	tool for converting formats. Command-line tool is not properly documented.
+* [Mixamo](https://www.mixamo.com) --
+	Website owned by Adobe which auto-rigs humanoid models, adds animations. Sample models provided.
+	FAQ says the the characters and animations can be used "royalty free"
+	but does not provide a clear license statement.	
+	[What is Mixamo and How Can it be Used in Games](https://cgobsession.com/what-is-mixamo-and-how-can-it-be-used-in-games/).
 
 ## Animation Tutorials
 
@@ -118,5 +131,6 @@ formats for 3D scenes to be displayed in web browsers.
 
 ## Other Lists
 
+* [Web 3D Consortium X3D Resources List](https://www.web3d.org/x3d/content/examples/X3dResources.html)
 * [A collection of WebGL and WebGPU frameworks and libraries](https://gist.github.com/dmnsgn/76878ba6903cf15789b712464875cfdc)
 

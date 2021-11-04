@@ -237,6 +237,8 @@ as of January 2020 the licenses on these sites are unchanged.
 	Thousands of models uploaded by users. Free to use with certain restrictions
 	outlined in the [license](https://3dwarehouse.sketchup.com/tos/#license).
 	Models can be downloaded in Sketchup or Collada format.
+* [Quaternius](https://quaternius.com/) --
+	Artist creates model sets, CC0 licenses them. Work supported through Patreon.
 
 ### Sound Effects
 * [Freesound.org](https://freesound.org) --
