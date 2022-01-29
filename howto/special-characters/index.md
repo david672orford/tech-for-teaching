@@ -77,6 +77,7 @@ can save time in future by pasting them into a document or a web page.
 Here is an example:
 
 <table>
+<tr><th>With Accents</th><td>А́ Е́ И́ О́ У́ Ы́ Э́ Ю́ Я́<br>а́ е́ и́ о́ у́ ы́ э́ ю́ я́</td></tr>
 <tr><th>English Quote Marks</th><td>“ ” ‘ ’</td></tr>
 <tr><th>Russian Quote Marks</th><td>« » „ “</td></tr>
 <tr><th>Em Dash</th><td>—</td></tr>

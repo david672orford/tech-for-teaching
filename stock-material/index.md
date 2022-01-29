@@ -227,12 +227,15 @@ as of January 2020 the licenses on these sites are unchanged.
 	released to the public domain or under a permissive license such as the
 	[GNU](https://www.gnu.org/licenses/) or [Creative Commons](https://creativecommons.org/licenses)
 	licenses.
-* [CC0 3D Models on Sketchfab](https://sketchfab.com/nebulousflynn/collections/cc0) --
-	Models uploaded by cultural institutions.
-	As of April 2021 there are about 3000 such models.
-	See [announcement](https://sketchfab.com/blogs/community/sketchfab-launches-public-domain-dedication-for-3d-cultural-heritage/).
+* [Free 3D Models on Sketchfab](https://sketchfab.com/search?q=tag%3Afree&type=models) --
+	These models are either in the public domain or under a [Creative Commons](https://creativecommons.org/licenses)
+	license. 
 	Models can be downloaded in the format in which they were uploaded or
 	converted to glTF or USDZ format.
+	Noteworthy is the [Public Domain Cultural Heritage Collection](https://sketchfab.com/nebulousflynn/collections/cc0)
+	which contains 3D scans of objects in the collections of various cultural institutions.
+	As of January 2022 there are about 3000 such models.
+	See [announcement](https://sketchfab.com/blogs/community/sketchfab-launches-public-domain-dedication-for-3d-cultural-heritage/).
 * [3D Warehouse](https://3dwarehouse.sketchup.com/) --
 	Thousands of models uploaded by users. Free to use with certain restrictions
 	outlined in the [license](https://3dwarehouse.sketchup.com/tos/#license).

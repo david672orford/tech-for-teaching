@@ -72,6 +72,8 @@ quality.
 
 TODO: Explain how to use web fonts
 
+* [Using Google Fonts](https://developers.google.com/fonts/docs/getting_started)
+
 ### Additional References
 * [Web Typography](https://en.wikipedia.org/wiki/Web_typography)
 Wikipedia article describes the history of the support for fonts in web browsers

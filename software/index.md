@@ -116,6 +116,7 @@ Other noteworthy programs:
 	elements prepared earlier such as video clips, slides, overlays, and
 	music. An operator chooses which elements to display as the program is
 	being broadcast or recorded.
+	See our [Scripting Notes](obs/scripting).
 * [Handbrake](https://handbrake.fr/) --
 	Handbrake is an easy-to-use program for ripping DVD’s and converting
 	video files from one format to another.
