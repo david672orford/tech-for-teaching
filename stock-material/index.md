@@ -148,7 +148,7 @@ as of January 2020 the licenses on these sites are unchanged.
 	CC0 public domain dedication.](https://stocksnap.io/license)
 	Watch out though, when you search they display results from Shutterstock
 	before their own results which is very confusing. That a photograph is
-	from Shutterstock is indicated only be a small start in a yellow tab
+	from Shutterstock is indicated only be a small blue star in a yellow tab
 	in the top-left corner.
 * [StockVault](https://www.stockvault.net) --
 	Uploaders choose a [license](https://www.stockvault.net/terms-of-use)
@@ -252,7 +252,7 @@ as of January 2020 the licenses on these sites are unchanged.
 	It appears that each top-level folder is a separate collection with its
 	own terms. In most cases these are in a file called "LICENSE". We have traced
 	some of these collections to their original sources:
-    * [99Sounds](http://99sounds.org/) (
+    * [99Sounds](http://99sounds.org/)
     * [BBC Sound Effects Library](http://bbcsfx.acropolis.org.uk/) (16,000 BBC sound effects licensed for "personal, educational or research purposes")
     * [Kennedy's Sound Pack](https://www.kenney.nl/)
     * [Octave-UISounds](http://www.raisedbeaches.com/octave)
