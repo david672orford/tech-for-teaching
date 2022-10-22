@@ -212,8 +212,8 @@ such as removing distracting or unsightly details or even whole objects.
 	An easy-to-use 3D modeler. Written in Java, so it will run on most computers.
 	Saves in its own inscrutible format, but can export in OBJ and VRML formats.
 * [Sweet Home 3D](http://www.sweethome3d.com) --
-	An easy-to-use program for creating 3D models of rooms with doors, windows, and furniture.
-	See our article [Using Sweethome 3D](sweethome/).
+	An easy-to-use program for creating 3D models of rooms with doors, windows,
+    and furniture. See our article [Using Sweethome 3D](sweethome/).
 
 ### Other Software Lists
 * [34 open source tools for creatives](https://opensource.com/article/16/12/yearbook-top-open-source-creative-tools-2016) --

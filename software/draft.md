@@ -4,8 +4,17 @@ These entries are here because, while I found these programs interesting,
 I have not used them and do not have enough information about them.
 
 ### Web Development
-* [TUI Editor](https://github.com/nhn/tui.editor) embedable text editor
-* [JAVASCRIPT & CSS MARKDOWN EDITOR](https://www.cssscript.com/tag/markdown-editor/) embedable text editor
+* [Toast UI](https://ui.toast.com/)
+  * [Markdown Editor](https://github.com/nhn/tui.editor)
+  * [Auto Complete](https://ui.toast.com/tui-auto-complete)
+  * [Context Menu](https://ui.toast.com/tui-context-menu)
+  * [Image Editor](https://ui.toast.com/tui-image-editor)
+  * [Grid](https://ui.toast.com/tui-grid)
+  * [Chart](https://ui.toast.com/tui-chart)
+* [CSS Script](https://www.cssscript.com/)
+  * [Markdown Editors](https://www.cssscript.com/tag/markdown-editor/)
+  * [Menu and Navigation](https://www.cssscript.com/categories/menu-navigation/)
+  * [Suneditor](https://www.cssscript.com/minimal-wysiwyg-editor-pure-javascript-suneditor/)
 * [Anvil](https://anvil.works/) some kind of framework based on Python
 * [Twinery](https://twinery.org/) may be a framework for interactive fiction
 
@@ -14,9 +23,9 @@ I have not used them and do not have enough information about them.
 * [Nextcloud](https://hub.docker.com/_/nextcloud/)
 
 ### Raster Graphics
-* [MyPaint](http://mypaint.org/) -- Tested version 2.0.1 in May 2021 on Ubuntu 20.04. Worked but drawing
-  was laggy. Bar at top for selecting tools gave no visual indication that a tool had been 
-  successfully selected.
+* [MyPaint](http://mypaint.org/) -- Tested version 2.0.1 in May 2021 on Ubuntu
+    20.04. Worked but drawing was laggy. Bar at top for selecting tools gave no
+    visual indication that a tool had been successfully selected.
 * [Photopea](https://www.photopea.com/) -- Online photo editor
 
 ### Video Production
@@ -32,34 +41,7 @@ I have not used them and do not have enough information about them.
 	computer and later assemble them into a video. Works with webcams
 	and some SLR's.
 
-### 2D Animation
-* [Blender](https://blender.org) --
-	2D animation can be done in blender using the Grease Pencil. 2D objects
-	can also be placed in 3D scenes and animated.
-* [OpenToonz](https://opentoonz.github.io/e/) --
-	Seems to be for hand-drawn 2D animation.
-* [Tahoma2D](https://tahoma2d.org/) --
-	Seems to support hand-drawn, vector, and stop-motion animation.
-	Author describes it as "based on OpenToonz".
-* [Krita](https://krita.org/) --
-	Krita has support for 2D animation drawn frame-by-frame. Can export to video.
-* [Svg.svg](https://svgjs.com/) --
-	Javascript library for adding animation to SVG drawings. You can make a drawing in
-	Inkscape, put it on your web page, and then use this library to show and hide elements
-	(including layers), move things around, scale and rotate, them, all at a time
-	and speed you specify. Recommended for basic animation needs were a game platform
-	would be overkill.
-* [Synfig Studio](https://www.synfig.org/)
-	Vector and cutout animation. Supports tweening. Now has vector export.
-	Interfaces seems cluttered and chaotic.
-* [Pencil2D Animation](https://www.pencil2d.org/) --
-	Raster and vector "hand drawn" animation. Does it support tweening?
-* [TupiTube](http://www.tupitube.com/) --
-	Site does not impress. Linux version has a sub-1.0 version number.
-* [Wick Editor](https://www.wickeditor.com/) --
-    A promising web application for creating animations. Can export the finished
-	animation as a video file or as a player which draws the animation in real
-	time to an HTML5 canvas.
+### 2D Animation Editors
 * [Glaxnimate](https://glaxnimate.mattbas.org/) --
 	Vector animation with tweening. Has a "record" mode in which all changes
 	(supposedly) produce keyframes.
@@ -67,18 +49,47 @@ I have not used them and do not have enough information about them.
 	Can export in Lottie and Telegram animated stickers formats, animated SVG, and video.
 	Scriptable in Python.
 	Has fairly good documentation.
-* [Python Lottie](https://pypi.org/project/lottie/) --
-	A Python framework for working with Telegraph animated stickers which
-	are in a subset of Lottie format. Includes a Blender export plugin.
-	By the author of Glaxnimate.
+* [Blender](https://blender.org) --
+	2D animation can be done in blender using the Grease Pencil. 2D objects
+	can also be placed in 3D scenes and animated.
+* [Synfig Studio](https://www.synfig.org/)
+	Vector and cutout animation. Supports tweening. Now has vector export.
+	Interfaces seems cluttered and chaotic.
+* [Wick Editor](https://www.wickeditor.com/) --
+    A promising web application for creating animations. Can export the finished
+	animation as a video file or as a player which draws the animation in real
+	time to an HTML5 canvas.
 * [Enve](https://maurycyliebner.github.io/) --
 	Very promising vector animation. As of May 2021 tweens do not have
 	easing. Developer says he is in poor health, project has slowed
 	and may not continue. Frustration attempting to create keyframes.
 	Can export to SVG format with animation.
 	No meaningful documentation. Tutorials on Youtube.
+* [OpenToonz](https://opentoonz.github.io/e/) --
+	Seems to be for hand-drawn 2D animation.
+* [Tahoma2D](https://tahoma2d.org/) --
+	Seems to support hand-drawn, vector, and stop-motion animation.
+	Author describes it as "based on OpenToonz".
+* [Krita](https://krita.org/) --
+	Krita has support for 2D animation drawn frame-by-frame. Can export to video.
+* [Pencil2D Animation](https://www.pencil2d.org/) --
+	Raster and vector "hand drawn" animation. Does it support tweening?
+* [TupiTube](http://www.tupitube.com/) --
+	Site does not impress. Linux version has a sub-1.0 version number.
 
-### 2D Games with Sprite Animation in Web Browsers
+### 2D Animation Libraries
+* [Svg.svg](https://svgjs.com/) --
+	Javascript library for adding animation to SVG drawings. You can make a drawing in
+	Inkscape, put it on your web page, and then use this library to show and hide elements
+	(including layers), move things around, scale and rotate, them, all at a time
+	and speed you specify. Recommended for basic animation needs where a game platform
+	would be overkill.
+* [Python Lottie](https://pypi.org/project/lottie/) --
+	A Python framework for working with Telegraph animated stickers which
+	are in a subset of Lottie format. Includes a Blender export plugin.
+	By the author of Glaxnimate.
+
+### 2D Game Libraries with Sprite Animation for Web Browsers
 * [Pixi](https://www.pixijs.com/) --
 	This is a sprite renderer. A sprite is a 2D image which is moved around the
 	screen in a video game. Think of the of the invaders, canon, and bullets

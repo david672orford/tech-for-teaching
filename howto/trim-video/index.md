@@ -143,3 +143,11 @@ add this filter to the ffmpeg command:
 Here we specify the target width and allow FFmpeg to computing the
 cooresponding new height. You can add this option to any of the commands above.
 
+### Source File from HTTP
+
+If the source file is on a website, you may not need to download the entire file to
+take a clip. Simply use the URL as the source file name. FFmpeg will download only
+the parts of the file which are needed. (Presumably the server must support 
+HTTP range requests.)
+
+

@@ -183,6 +183,11 @@ If you wish to disable the embeded thumbnails, go to **Tools** ⟶  **Options** 
 false. This will reduce the size of the file by about 15000 bytes which can be
 significant since the rest of the ODT file may not be much larger than that.
 
+### Importing Address Lists
+
+Open the CVS file. When the import dialog comes up, click on the ZIP code column
+in the example and change the column type to **Text**.
+
 ### Using Mail Merge
 
 Here is a simple way to do a mail merge:
@@ -232,6 +237,14 @@ There used to be an option in the **View** menu for toggling the display
 of hidden paragraphs, but it was removed at some point. To get it back,
 go to **Options** ⟶   **Customize** ⟶   **Menus**. There is you find
 the command and insert it into the **View** menu.
+
+### Import CSV File with ZIP Codes
+
+When you open a CSV file, an import dialog will appear. If you simply press
+OK, the ZIP codes will be converted into decimal numbers which means that
+the leading zero of East-Coast ZIP codes will be lost. To prevent this,
+right click on the heading of the ZIP code column and change the type to
+<b>Text</b>.
 
 ### Macros
 
