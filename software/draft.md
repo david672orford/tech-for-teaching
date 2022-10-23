@@ -1,9 +1,9 @@
 ## Unfinished Evaluations
 
 These entries are here because, while I found these programs interesting,
-I have not used them and do not have enough information about them.
+I have not used them enough to recommend them.
 
-### Web Development
+### Web Development Libraries
 * [Toast UI](https://ui.toast.com/)
   * [Markdown Editor](https://github.com/nhn/tui.editor)
   * [Auto Complete](https://ui.toast.com/tui-auto-complete)
@@ -11,12 +11,16 @@ I have not used them and do not have enough information about them.
   * [Image Editor](https://ui.toast.com/tui-image-editor)
   * [Grid](https://ui.toast.com/tui-grid)
   * [Chart](https://ui.toast.com/tui-chart)
-* [CSS Script](https://www.cssscript.com/)
+* [CSSScript.com](https://www.cssscript.com/)
   * [Markdown Editors](https://www.cssscript.com/tag/markdown-editor/)
   * [Menu and Navigation](https://www.cssscript.com/categories/menu-navigation/)
   * [Suneditor](https://www.cssscript.com/minimal-wysiwyg-editor-pure-javascript-suneditor/)
+  * [Fully Styled UI Component Library – PCUI](https://www.cssscript.com/ui-component-library-pcui/)
+  * [Elegant File Input Enhancement Plugin With JavaScript – filepond](https://www.cssscript.com/elegant-file-input-enhancement-plugin-javascript-filepond/)
+  * [Draw SVG Paths Between Two Elements – leader-line](https://www.cssscript.com/draw-svg-paths-two-elements-leader-line/)
 * [Anvil](https://anvil.works/) some kind of framework based on Python
 * [Twinery](https://twinery.org/) may be a framework for interactive fiction
+* [Web Component Libraries](https://www.webcomponents.org/libraries)
 
 ### Web Office Suites
 * [Onlyoffice](https://helpcenter.onlyoffice.com/server/docker/opensource/opensource-script-installation.aspx?_ga=2.171818464.1118353405.1597510942-615934063.1597510942)
