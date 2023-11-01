@@ -3,6 +3,10 @@
 These entries are here because, while I found these programs interesting,
 I have not used them enough to recommend them.
 
+### Web Browsers
+
+* [Chromium](chromium/)
+
 ### Web Development Libraries
 * [Toast UI](https://ui.toast.com/)
   * [Markdown Editor](https://github.com/nhn/tui.editor)
@@ -18,6 +22,7 @@ I have not used them enough to recommend them.
   * [Fully Styled UI Component Library – PCUI](https://www.cssscript.com/ui-component-library-pcui/)
   * [Elegant File Input Enhancement Plugin With JavaScript – filepond](https://www.cssscript.com/elegant-file-input-enhancement-plugin-javascript-filepond/)
   * [Draw SVG Paths Between Two Elements – leader-line](https://www.cssscript.com/draw-svg-paths-two-elements-leader-line/)
+  * [Feature-rich Event Calendar In JavaScript – Calendar.js](https://www.cssscript.com/feature-rich-event-calendar/)
 * [Anvil](https://anvil.works/) some kind of framework based on Python
 * [Twinery](https://twinery.org/) may be a framework for interactive fiction
 * [Web Component Libraries](https://www.webcomponents.org/libraries)

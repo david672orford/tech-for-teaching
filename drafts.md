@@ -2,6 +2,11 @@
 
 <ul class="tiles">
 
+<li><a href="howto/dlvideo/">Download Videos</a>
+<br>
+How to download video from streaming service such as Youtube
+</li>
+
 <li><a href="software/draft">Software Reviews</a>
 <br>
 Unfinished software reviews

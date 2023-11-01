@@ -44,5 +44,10 @@ Extract selected pages, combine PDF files, rotate scanned pages to the
 proper orientation.
 </li>
 
+<li><a href="inkscape/">Drawing in Inkscape</a>
+<br>
+How to perform specific tasks in Inkscape.
+</li>
+
 </ul>
 
