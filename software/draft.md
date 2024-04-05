@@ -120,6 +120,9 @@ I have not used them enough to recommend them.
 	Gdevelop is another system for 2D games run in a web browser. Like Phaser,
 	it uses Pixi to render the sprites.	
 
+### 3D Game Engines
+* [Defold](https://defold.com/) -- Scriptable in Lua
+
 ### Audio Processing
 * [Aeneas Forced Aligner](https://github.com/readbeyond/aeneas) --
 	Given a recording of speech and a transcript, find the start and end
