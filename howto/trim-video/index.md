@@ -39,6 +39,10 @@ sure nobody can possibly see this extra material or you will be using a player
 which does not handle this situation properly, you will need to reencode the
 video.
 
+The above command may trim the video at the closest seek point rather than
+the exact point specified. For more precise trimming, add -accurate\_seek
+before the -i option.
+
 ### Reencode a Video File (H.264 codec)
 
 As of January 2020, one of the most popular video formats is MPEG-4 with the
