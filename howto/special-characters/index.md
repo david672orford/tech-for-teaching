@@ -87,6 +87,7 @@ Here is an example:
 <tr><th>Bullets</th><td>• ◦</td></tr>
 <tr><th>Cyrillic letter yo</th><td>Ё ё</td></tr>
 <tr><th>Pre-1917 Russian Letters</th><td>І і Ѣ ѣ Ѳ ѳ Ѵ ѵ</td></tr>
+<tr><th>Numero Sign</th><td>№</td></tr>
 </table>
 
 ### Alt Codes

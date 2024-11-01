@@ -121,6 +121,9 @@ UL, OL {
 	padding-left: 1.2em;
 	margin-bottom: .5em;
 	}
+UL UL, OL OL {
+	margin-top: .5em;
+	}
 LI {
 	margin: 0 0 .4em 0;
 	}
