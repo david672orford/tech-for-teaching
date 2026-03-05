@@ -217,6 +217,8 @@ as of January 2020 the licenses on these sites are unchanged.
 	domain stuff for free.
 
 ### 3D Models and Textures
+* [Sweet Home 3D](https://www.sweethome3d.com/importModels.jsp) --
+	Hundreds of models of everyday objects
 * [Blend Swap](https://www.blendswap.com) --
 	Artists share models created with Blender. Many have been dedicated to
 	the public domain or shared under a [Creative Commons license](https://creativecommons.org/licenses).
@@ -303,6 +305,9 @@ as of January 2020 the licenses on these sites are unchanged.
 	unites us. Provides color photographs and black-and-white icons to represent
 	things and concepts. Icons are either in the public domain or under a Creative
 	Commons license requiring attribution. Other terms are available for a fee.
+* [Inkscape Open Symbols](https://github.com/PanderMusubi/inkscape-open-symbols)
+	Various symbol sets packaged for use with Inkscape
+* [Fontawesome](https://fontawesome.com/)
 
 ### Other Stock Materials
 * [Global Digital Library](https://home.digitallibrary.io/) --

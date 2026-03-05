@@ -26,6 +26,9 @@ I have not used them enough to recommend them.
 * [Anvil](https://anvil.works/) some kind of framework based on Python
 * [Twinery](https://twinery.org/) may be a framework for interactive fiction
 * [Web Component Libraries](https://www.webcomponents.org/libraries)
+* [CKEditor](https://ckeditor.com/)
+* [Pell](https://github.com/jaredreich/pell) Billed as simplest and smallest WYSIWYG editor
+* [maxGraph](https://github.com/maxGraph/maxGraph) -- Diagraming library, editor
 
 ### Web Office Suites
 * [Onlyoffice](https://helpcenter.onlyoffice.com/server/docker/opensource/opensource-script-installation.aspx?_ga=2.171818464.1118353405.1597510942-615934063.1597510942)
@@ -136,4 +139,4 @@ I have not used them enough to recommend them.
 ### References
 * [Libre Arts](https://librearts.org/)
 * [Self-Hosted Photo Management](https://arstechnica.com/gadgets/2021/06/the-big-alternatives-to-google-photos-showdown/)
-
+* [5 Best Open-Source OCR Tools for Linux in 2025](https://www.tecmint.com/best-linux-ocr-tools/)
