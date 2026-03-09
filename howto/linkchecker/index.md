@@ -49,7 +49,7 @@ again to make sure you did not miss any and that your fixes are correct.
 
 ### Running the GUI Version of Linkchecker
 
-<figure class="right_edge">
+<figure class="float-right">
 <a href="images/linkchecker.png">
 <img src="images/linkchecker.png" alt="Linkchecker GUI with results">
 </a>
@@ -61,7 +61,7 @@ URL into the **URL** field and press **Start**. The broken links will be
 displayed in a table. Click on the rows in order to open them in the default
 view below.
 
-<figure class="right_edge">
+<figure class="float-right">
 <a href="images/linkchecker_conf.png">
 <img src="images/linkchecker_conf.png" alt="Linkchecker with configuration editor open">
 </a>

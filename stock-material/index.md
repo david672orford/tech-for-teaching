@@ -49,7 +49,7 @@ on how to do this. You should be able to save this information in or alongside
 your project files.
 
 ### Vector Drawings
-<figure class="right_edge">
+<figure class="float-right">
 	<img src="images/publicdomainq-0007007wkjwpa.svg" alt="Teacher at blackboard with little boy at desk listening">
 	<figcaption>From Openclipart.org</figcaption>
 </figure>
@@ -68,7 +68,7 @@ your project files.
 	have tens of thousands of vector drawings.
 
 ### Pictures Intended for School Projects
-<figure class="right_edge">
+<figure class="float-right">
 	<a href="https://www.pdclipart.org/displayimage.php?album=23&pos=5">
 		<img src="images/Airedale_Terrier.png" alt="Picture of a Dog">
 	</a>
@@ -95,7 +95,7 @@ your project files.
 	good. 
 
 ### High-Resolution Stock Photographs
-<figure class="right_edge">
+<figure class="float-right">
 	<a href="https://pixabay.com/photos/city-skyline-surf-cityscape-beach-4742329/">
 		<img src="images/city-4742329_640.jpg" alt="Cityscape seen across water with waves breaking on short to left">
 	</a>
@@ -159,7 +159,7 @@ as of January 2020 the licenses on these sites are unchanged.
 	those used by Pixabay and Unsplash.
 
 ### Other Image Collections
-<figure class="right_edge">
+<figure class="float-right">
 	<a href="https://commons.wikimedia.org/wiki/File:MosMetro_Krasnopresnenskaya_asv2018-01.jpg">
 		<img src="images/256px-MosMetro_Krasnopresnenskaya_asv2018-01.jpg" alt="Corridor between platforms of a Moscow metro station">
 	</a>

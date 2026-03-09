@@ -30,7 +30,7 @@ In a few cases we describe well-known programs which we found unsuitable or
 which we are still evaluating.
 
 ### Document Preparation and Viewing
-<figure class="right_edge">
+<figure class="float-right">
 	<img src="images/libreoffice.png" alt="Document open in a word processor">
 	<figcaption>Libreoffice Writer</figcaption>
 </figure>
@@ -84,7 +84,7 @@ Other noteworthy programs:
 	viewed in a web browser one can page through the slides.
 
 ### Audio Processing
-<figure class="right_edge">
+<figure class="float-right">
 	<img src="images/audacity.png" alt="Screenshot of an editor showing an audio waveform">
 	<figcaption>Audacity</figcaption>
 </figure>
