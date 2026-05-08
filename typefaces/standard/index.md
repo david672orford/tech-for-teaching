@@ -116,57 +116,7 @@ below, Linux and Microsoft Windows computers have substitutes which look very
 similiar and have letters of the same width so the formatting of the document
 should not change.
 
-### The URW Fonts and GNU Freefont
-
-The increasing standardization on the Postscript typefaces created a problem.
-Indepently licensing a full set was difficult and expensive. This was
-particularly a problem for users of Ghostscript, a free close of PostScript.
-Since the software was distributed free-of-charge, its authors could
-not license the now standard 35 fonts.
-
-In 1996 [URW++ Design and Development Incorporated](http://www.urwpp.de/)
-came to the rescue. They released as free software their own set of 35
-fonts which were visually similiar to those which Adobe had licensed and
-most importantly had been adjusted to have the same letter widths.
-
-* Nimbus Roman No9 L = Times
-* Nimbus Sans L = Helvetica
-* Nimbus Mono L = Courier
-* Standard Symbols L = Symbol
-* Century Schoolbook L = New Century Schoolbook
-* URW Palladio L = Palatino
-* URW Gothic L = Avant Garde Gothic
-* URW Bookman L = Bookman
-* URW Chancery L = Zapf Chancery
-* Dingbats = Zapf Dingbats
-
-These are high-quality fonts from a respected foundary. URW decided to
-offer them for free distribution because the bulk licensing of similar
-fonts by Adobe and Apple had depressed their commerical value. The
-company decided that they would be more valuable in mass free distribution
-as a way of advertising the company name.
-
-Like the PostScript fonts of the time they covered only Latin alphabets.
-The three font families which coorespond to Times, Helvetica, and Courier
-have since been expaneded and released as
-[GNU FreeFont](https://www.gnu.org/software/freefont/):
-
-* FreeSerif (4 variants, 10,537 symbols)
-* FreeSans (4 variants, 6,272 symbols)
-* FreeMono (4 variants, 4,178 symbols)
-
-In 2016 URW released [version 2.0 of their 35 fonts](https://github.com/URWTypeFoundry/Core_35/).
-The onlines have been reworked and coverage of Cyrillic and Greek added. 
-In this release some of the font names have been changed:
-
-* "Century Schoolbook L" is now "C059"
-* "Paladino L" is now "P052"
-* "Nimbus Roman No9 L" is now simply "Nimbus Roman"
-
-There is also a [package of these fonts](https://github.com/ArtifexSoftware/urw-base35-fonts)
-which includes tweaks and configuration files for Fontconfig (the Linux font manager).
-
-### Microsoft's Compatible Fonts
+### Microsoft's Width-Compatible Fonts
 
 Microsoft licensed typefaces from Monotype (the inventor of Times
 New Roman) instead of Linotype. These typefaces were created
@@ -198,6 +148,90 @@ fonts compatible with those in the PostScript 35 set:
 * Palatino Linotype: expanded version of Linotype's Palatino produced for Microsoft (Windows 2000)
 * Century Schoolbook
 
+### The URW Fonts
+
+During the 1990's the increasing standardization around Adobe's fonts and the
+width-compatible substitutes used by Microsoft was a problem for free and
+opensource software. This was particularly a problem for users of Ghostscript,
+a free close of PostScript.
+
+In 1996 [URW++ Design and Development Incorporated](http://www.urwpp.de/)
+came to the rescue. They released as free software their own set of 35
+fonts which were visually similiar to those which Adobe had licensed and
+most importantly had been adjusted to have the same letter widths.
+
+* Nimbus Roman No9 L = Times
+* Nimbus Sans L = Helvetica
+* Nimbus Mono L = Courier
+* Standard Symbols L = Symbol
+* Century Schoolbook L = New Century Schoolbook
+* URW Palladio L = Palatino
+* URW Gothic L = Avant Garde Gothic
+* URW Bookman L = Bookman
+* URW Chancery L = Zapf Chancery
+* Dingbats = Zapf Dingbats
+
+These are high-quality fonts from a respected foundary. URW decided to
+offer them for free distribution because the bulk licensing of similar
+fonts by Adobe and Apple had depressed their commerical value. The
+company decided that they would be more valuable in mass free distribution
+as a way of advertising the company name.
+
+Like the PostScript fonts of the time they covered only Latin alphabets.
+In 2016 URW released [version 2.0 of their 35 fonts](https://github.com/URWTypeFoundry/Core_35/).
+The onlines have been reworked and coverage of Cyrillic and Greek added. 
+In this release some of the font names have been changed:
+
+* "Century Schoolbook L" is now "C059"
+* "Paladino L" is now "P052"
+* "Nimbus Roman No9 L" is now simply "Nimbus Roman"
+
+There is also a [package of these fonts](https://github.com/ArtifexSoftware/urw-base35-fonts)
+which includes tweaks and configuration files for Fontconfig (the Linux font manager).
+
+### GNU FreeFont
+
+The three Nimbus font families which coorespond to Times, Helvetica, and Courier
+have since been greatly expanded and released as
+[GNU FreeFont](https://www.gnu.org/software/freefont/).
+
+As of the 2012 release, FreeFont covers an impressive number of Unicode symbols:
+
+* FreeSerif (4 variants, 10,537 symbols)
+* FreeSans (4 variants, 6,272 symbols)
+* FreeMono (4 variants, 4,178 symbols)
+
+While FreeFont preserves the visual style of standard office fonts, the spacing
+has been tweaked, so they are no longer metrically compatible with Times and
+Helvetica/Arial.
+
+Because of its wide Unicode coverage, FreeFont is used as a fallback font in
+Libreoffice.
+
+### Liberation Fonts and Derivatives
+
+These fonts are metrically compatible with the PostScript and Microsoft
+equivalents:
+
+* Liberation Serif = Times = Times New Roman
+* Liberation Sans = Helvetica = Arial
+* Liberation Mono = Courier = Courier New
+
+They were created by Ascender Corporation under the name Ascender. In 2007
+RedHat licensed a version under the GPL. In 2012 an improved version which had
+been commissioned from the original designer by Google for use in ChromeOS was
+released under the Apache License 2.0. This version has better hinding and
+signficantly greater Unicode coverage.
+
+Because of its high-quality hinting and width-compatibility with standard
+office typefaces, the Liberation fonts are the default in Libreoffice.
+
+[Liberastika](https://github.com/eugeneai/Liberastika-fonts) is a derivative of
+the RedHat version of Liberation Sans. The Cyrillic portion has been tweaked to
+improve its appearance. Metric compatibility of the Cyrillic letters with
+Arial was sacrificed on the grounds that a good quality Cyrillic could not be
+otherwise achieved.
+
 ### Microsoft's New Fonts
 
 In 1996 Microsoft released its
@@ -215,20 +249,19 @@ These included the 14 fonts from Windows 3.1 (listed above) plus:
 Georgia and Verdana were produced at the same time by the same designers
 as complementary serif and sans-serif typefaces.
 
-Microsoft's intent in releasing the Core Fonts for the Web
-was to expand the base set of typefaces which all web designers could use
-and thereby make web typography less boring. They become very popular and
-are used on numerous websites.
+Microsoft's intent in releasing the Core Fonts for the Web was to expand the
+base set of typefaces which all web designers could use and thereby make web
+typography less boring. They become very popular and are used on numerous
+websites.
 
-Since then two changes have reduced the relevance of the Core Fonts. One is
-the prominence of Android devices on which they are not installed by default.
-The second is that modern web browsers can download and display fonts
-specified by the web designer. Microsoft's license
-[does not allow](https://docs.microsoft.com/en-us/typography/fonts/font-faq#web)
-you to use these fonts in that manner. (Though you may be able to
-license them from the foundary for a fee.) There are many other fonts
-available for use on websites for free as described in our article
-about [Web Fonts](../webfonts/).
+Since then two changes have reduced the relevance of the Core Fonts to the
+World Wide Web. One is the prominence of Android devices on which they are not
+installed by default.  The second is that modern web browsers can download and
+display fonts specified by the web designer. Microsoft's license [does not
+allow](https://docs.microsoft.com/en-us/typography/fonts/font-faq#web) you to
+use these fonts in that manner. (Though you may be able to license them from
+the foundary for a fee.) There are many other fonts available for use on
+websites for free as described in our article about [Web Fonts](../webfonts/).
 
 For more information on typefaces distributed with Microsoft Windows see Wikipedia's article
 [List of typefaces included with Microsoft Windows](https://en.wikipedia.org/wiki/List_of_typefaces_included_with_Microsoft_Windows)
@@ -242,30 +275,9 @@ in any way. They can be downloaded from [Sourceforge](https://sourceforge.net/pr
 and other places. Before they can be used they must be extracted which requires
 a program which can unpack Microsoft CAB files.
 
-### Liberation Fonts and Derivatives
-
-These fonts are metrically compatible with the PostScript and Microsoft
-equivalents:
-
-* Liberation Serif = Times = Times New Roman
-* Liberation Sans = Helvetica = Arial
-* Liberation Mono = Courier = Courier New
-
-They were created by Ascender Corporation under the name Ascender. RedHat
-arranged for them to be licensed under the GPL. Google later also licensed them
-for use as the Chrome OS Core Fonts. Version 2.0 of the Liberation fonts is
-based on the version licensed by Google.
-
-[Liberastika](https://github.com/eugeneai/Liberastika-fonts) is a derivative
-of Liberation Sans with the Cyrillic portion redesigned to look better. Metric
-compatibility of the Cyrillic letters with Arial was deliberately not preserved
-since in the opinion of those who did the redesign this was necessary to
-produce a good-quality Cyrillic typeface.
-
 ### Other References
 
 * [What Font Should I Use?](http://drmarkwomack.com/a-writing-handbook/style/typography/)
 * [List of Typefaces Included with Microsoft Windows](https://en.wikipedia.org/wiki/List_of_typefaces_included_with_Microsoft_Windows)
 * [Fonts and Supported Products (Microsoft)](https://docs.microsoft.com/en-us/typography/font-list/)
-
 
