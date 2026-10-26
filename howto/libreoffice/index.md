@@ -251,4 +251,9 @@ right click on the heading of the ZIP code column and change the type to
 * [Recording Macros](https://help.libreoffice.org/6.2/en-US/text/shared/guide/macro_recording.html?DbPAR=SHARED)
 * [Assigning a Macro to a Toolbar](https://ask.libreoffice.org/t/assign-macro-to-toolbar/33575)
 
+### Unwrap Hard-Wrapped Paragraphs
+
+* Use search-and-replace to change ^$ to #
+* Change $ to a single space
+* Change # to \n
 
